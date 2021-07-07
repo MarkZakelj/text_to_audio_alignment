@@ -1,2 +1,4 @@
 venv/
 .idea/
+kenlm/
+.ipynb_checkpoints/
