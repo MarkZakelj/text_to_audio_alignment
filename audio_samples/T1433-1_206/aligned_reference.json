@@ -1,0 +1,338 @@
+[
+    {
+        "text": "to",
+        "start": 0.17,
+        "end": 0.27,
+        "index": 0
+    },
+    {
+        "text": "se",
+        "start": 0.27,
+        "end": 0.44,
+        "index": 1
+    },
+    {
+        "text": "pa",
+        "start": 0.48,
+        "end": 0.76,
+        "index": 2
+    },
+    {
+        "text": "prime",
+        "start": 1.05,
+        "end": 1.55,
+        "index": 3
+    },
+    {
+        "text": "eden",
+        "start": 1.58,
+        "end": 1.9,
+        "index": 4
+    },
+    {
+        "text": "gre",
+        "start": 1.91,
+        "end": 2.12,
+        "index": 5
+    },
+    {
+        "text": "navadno",
+        "start": 2.14,
+        "end": 2.62,
+        "index": 6
+    },
+    {
+        "text": "to",
+        "start": 2.66,
+        "end": 2.76,
+        "index": 7
+    },
+    {
+        "text": "fant",
+        "start": 2.79,
+        "end": 3.14,
+        "index": 8
+    },
+    {
+        "text": "začne",
+        "start": 3.15,
+        "end": 3.55,
+        "index": 9
+    },
+    {
+        "text": "se",
+        "start": 3.88,
+        "end": 4.07,
+        "index": 10
+    },
+    {
+        "text": "prime",
+        "start": 4.11,
+        "end": 4.45,
+        "index": 11
+    },
+    {
+        "text": "za",
+        "start": 4.46,
+        "end": 4.66,
+        "index": 12
+    },
+    {
+        "text": "podboj",
+        "start": 4.7,
+        "end": 5.21,
+        "index": 13
+    },
+    {
+        "text": "na",
+        "start": 5.21,
+        "end": 5.39,
+        "index": 14
+    },
+    {
+        "text": "vratah",
+        "start": 5.58,
+        "end": 5.92,
+        "index": 15
+    },
+    {
+        "text": "pa",
+        "start": 5.99,
+        "end": 6.06,
+        "index": 16
+    },
+    {
+        "text": "reče",
+        "start": 6.07,
+        "end": 6.31,
+        "index": 17
+    },
+    {
+        "text": "jas",
+        "start": 6.32,
+        "end": 6.58,
+        "index": 18
+    },
+    {
+        "text": "sem",
+        "start": 6.58,
+        "end": 6.73,
+        "index": 19
+    },
+    {
+        "text": "se",
+        "start": 6.74,
+        "end": 6.81,
+        "index": 20
+    },
+    {
+        "text": "obesu",
+        "start": 6.81,
+        "end": 7.37,
+        "index": 21
+    },
+    {
+        "text": "zdej",
+        "start": 8.11,
+        "end": 8.42,
+        "index": 22
+    },
+    {
+        "text": "ga",
+        "start": 8.43,
+        "end": 8.58,
+        "index": 23
+    },
+    {
+        "text": "pa",
+        "start": 8.6,
+        "end": 8.62,
+        "index": 24
+    },
+    {
+        "text": "more",
+        "start": 8.63,
+        "end": 9.08,
+        "index": 25
+    },
+    {
+        "text": "prit",
+        "start": 9.18,
+        "end": 9.5,
+        "index": 26
+    },
+    {
+        "text": "rešit",
+        "start": 9.51,
+        "end": 9.97,
+        "index": 27
+    },
+    {
+        "text": "navadno",
+        "start": 10.07,
+        "end": 10.61,
+        "index": 28
+    },
+    {
+        "text": "eno",
+        "start": 10.62,
+        "end": 11.03,
+        "index": 29
+    },
+    {
+        "text": "dekle",
+        "start": 11.11,
+        "end": 11.57,
+        "index": 30
+    },
+    {
+        "text": "dekle",
+        "start": 11.8,
+        "end": 12.24,
+        "index": 31
+    },
+    {
+        "text": "ga",
+        "start": 12.75,
+        "end": 12.88,
+        "index": 32
+    },
+    {
+        "text": "pride",
+        "start": 12.91,
+        "end": 13.22,
+        "index": 33
+    },
+    {
+        "text": "pa",
+        "start": 13.23,
+        "end": 13.33,
+        "index": 34
+    },
+    {
+        "text": "rešit",
+        "start": 13.33,
+        "end": 13.83,
+        "index": 35
+    },
+    {
+        "text": "da",
+        "start": 14.45,
+        "end": 14.58,
+        "index": 36
+    },
+    {
+        "text": "ga",
+        "start": 14.6,
+        "end": 14.75,
+        "index": 37
+    },
+    {
+        "text": "poljubi",
+        "start": 14.82,
+        "end": 15.37,
+        "index": 38
+    },
+    {
+        "text": "no",
+        "start": 15.65,
+        "end": 15.8,
+        "index": 39
+    },
+    {
+        "text": "in",
+        "start": 15.81,
+        "end": 16.03,
+        "index": 40
+    },
+    {
+        "text": "s",
+        "start": 16.04,
+        "end": 16.2,
+        "index": 41
+    },
+    {
+        "text": "tem",
+        "start": 16.22,
+        "end": 16.43,
+        "index": 42
+    },
+    {
+        "text": "ga",
+        "start": 16.45,
+        "end": 16.57,
+        "index": 43
+    },
+    {
+        "text": "reši",
+        "start": 16.58,
+        "end": 17.08,
+        "index": 44
+    },
+    {
+        "text": "potem",
+        "start": 17.32,
+        "end": 17.67,
+        "index": 45
+    },
+    {
+        "text": "pa",
+        "start": 17.67,
+        "end": 17.76,
+        "index": 46
+    },
+    {
+        "text": "se",
+        "start": 17.76,
+        "end": 17.95,
+        "index": 47
+    },
+    {
+        "text": "ona",
+        "start": 17.97,
+        "end": 18.2,
+        "index": 48
+    },
+    {
+        "text": "obesi",
+        "start": 18.22,
+        "end": 18.8,
+        "index": 49
+    },
+    {
+        "text": "jo",
+        "start": 19.06,
+        "end": 19.25,
+        "index": 50
+    },
+    {
+        "text": "pa",
+        "start": 19.26,
+        "end": 19.4,
+        "index": 51
+    },
+    {
+        "text": "pride",
+        "start": 19.41,
+        "end": 19.69,
+        "index": 52
+    },
+    {
+        "text": "rešit",
+        "start": 19.7,
+        "end": 20.05,
+        "index": 53
+    },
+    {
+        "text": "en",
+        "start": 20.06,
+        "end": 20.24,
+        "index": 54
+    },
+    {
+        "text": "fant",
+        "start": 20.25,
+        "end": 20.65,
+        "index": 55
+    }
+]

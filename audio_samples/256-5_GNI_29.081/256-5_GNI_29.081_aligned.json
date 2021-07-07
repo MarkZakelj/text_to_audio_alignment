@@ -1,0 +1,347 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "pšenička na polju rumeni mamica",
+        "text-start": 4,
+        "text-end": 26,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "cka na pojor neni mami",
+        "aligned": "cka na pojor neni mami"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "moja pa v grobu spi",
+        "text-start": 26,
+        "text-end": 48,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": " camaja pa gro bon spe",
+        "aligned": " camaja pa gro bon spe"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "nesrečna smrt kaj strila si",
+        "text-start": 53,
+        "text-end": 78,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "trečna sma kaje sprela se",
+        "aligned": "trečna sma kaje sprela se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "ti da mamco umorila si",
+        "text-start": 79,
+        "text-end": 99,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "te da mamcov mo rela",
+        "aligned": "te da mamcov mo rela"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "mi nesrečna smrt kaj strila",
+        "text-start": 100,
+        "text-end": 132,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "cemi ne trečnasnala kaj trela si",
+        "aligned": "cemi ne trečnasnala kaj trela si"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "si ti da mamco umorila",
+        "text-start": 664,
+        "text-end": 687,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "se te da mamcov mo rela",
+        "aligned": "se te da mamcov mo rela"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "si mi mežnarček beli dan",
+        "text-start": 743,
+        "text-end": 765,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "li mi mezner čebebi da",
+        "aligned": "li mi mezner čebebi da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "zvoni knemu pa dete prihiti",
+        "text-start": 766,
+        "text-end": 792,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "vo ne knimu pa dete priihi",
+        "aligned": "vo ne knimu pa dete priihi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "povej povej moj mežnarček ti",
+        "text-start": 810,
+        "text-end": 822,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "noj mena ček",
+        "aligned": "noj mena ček"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "kje moja mamica spi povej",
+        "text-start": 827,
+        "text-end": 852,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "kije ma jama mica spe poe",
+        "aligned": "kije ma jama mica spe poe"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "povej moj mežnarček ti kje",
+        "text-start": 857,
+        "text-end": 878,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "noj menar čej te jema",
+        "aligned": "noj menar čej te jema"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "moja mamica spi mežnar jo",
+        "text-start": 879,
+        "text-end": 902,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "jamamica spim me znarjo",
+        "aligned": "jamamica spim me znarjo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "prime za roko in jo",
+        "text-start": 908,
+        "text-end": 924,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "meda roko inn jo",
+        "aligned": "meda roko inn jo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "pelje za cerkvico tam boma",
+        "text-start": 1513,
+        "text-end": 1538,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "peje zae kreca tambo mana",
+        "aligned": "peje zae kreca tambo mana"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "našla jamico notri pa tvojo",
+        "text-start": 1584,
+        "text-end": 1609,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "šlami co notripato jomami",
+        "aligned": "šlami co notripato jomami"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "mamico tam boma našla jamico",
+        "text-start": 2151,
+        "text-end": 2180,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "jomami co tambo mana šlami co",
+        "aligned": "jomami co tambo mana šlami co"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "notri pa tvojo mamico dokler",
+        "text-start": 2180,
+        "text-end": 2204,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": " notripato jomami ca dva",
+        "aligned": " notripato jomami ca dva"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "otroku mamca živi saj ne",
+        "text-start": 2211,
+        "text-end": 2236,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "vtroko mam ta ževe saj ne",
+        "aligned": "vtroko mam ta ževe saj ne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "ve kak dobro mu je",
+        "text-start": 2237,
+        "text-end": 2252,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "veka dobromo je",
+        "aligned": "veka dobromo je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "ko pa enkrat mamce več",
+        "text-start": 2253,
+        "text-end": 2264,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "ko painkrat",
+        "aligned": "ko painkrat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "ni takrat se otroku spremeni",
+        "text-start": 2274,
+        "text-end": 2303,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "sne takratce o tro ko sprelne",
+        "aligned": "sne takratce o tro ko sprelne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "ko pa enkrat mamce več",
+        "text-start": 4017,
+        "text-end": 4028,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "ko painkrat",
+        "aligned": "ko painkrat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "ni takrat se otroku spremeni",
+        "text-start": 4038,
+        "text-end": 4064,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "sne takratce o tro ko spre",
+        "aligned": "sne takratce o tro ko spre"
+    }
+]
