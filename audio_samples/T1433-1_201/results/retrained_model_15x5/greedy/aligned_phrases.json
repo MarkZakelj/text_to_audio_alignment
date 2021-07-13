@@ -1,0 +1,347 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "včas naprej",
+        "text-start": 0,
+        "text-end": 11,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "fčas naprej",
+        "aligned": "fčas naprej"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "so se",
+        "text-start": 12,
+        "text-end": 17,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "so se",
+        "aligned": "so se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "pa pričkal",
+        "text-start": 18,
+        "text-end": 28,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "pa pričkaj",
+        "aligned": "pa pričkaj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "pričkal tu",
+        "text-start": 29,
+        "text-end": 39,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "pričkaš to",
+        "aligned": "pričkaš to"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "je de",
+        "text-start": 47,
+        "text-end": 51,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "m de",
+        "aligned": "m de"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "eden sedi",
+        "text-start": 56,
+        "text-end": 61,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "dn se",
+        "aligned": "dn se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "in vzame",
+        "text-start": 65,
+        "text-end": 72,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "in vzam",
+        "aligned": "in vzam"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "glavo na",
+        "text-start": 74,
+        "text-end": 80,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "glavo ",
+        "aligned": "glavo "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "kolena tet",
+        "text-start": 83,
+        "text-end": 92,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "kolena  t",
+        "aligned": "kolena t"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "de on",
+        "text-start": 95,
+        "text-end": 100,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "de on",
+        "aligned": "de on"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "ne vidi",
+        "text-start": 102,
+        "text-end": 107,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "avidi",
+        "aligned": "avidi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "in ga",
+        "text-start": 108,
+        "text-end": 113,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "in ga",
+        "aligned": "in ga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "eden fejst",
+        "text-start": 113,
+        "text-end": 122,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": " en fejst",
+        "aligned": " en fejst"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "po riti",
+        "text-start": 124,
+        "text-end": 129,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "oriti",
+        "aligned": "oriti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "pertegne un",
+        "text-start": 130,
+        "text-end": 138,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "prtegne ",
+        "aligned": "prtegne "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "pa more",
+        "text-start": 141,
+        "text-end": 148,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "pa more",
+        "aligned": "pa more"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "vgonit ker",
+        "text-start": 153,
+        "text-end": 163,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "vgonit ker",
+        "aligned": "vgonit ker"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "ga je",
+        "text-start": 163,
+        "text-end": 168,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "ga je",
+        "aligned": "ga je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "če ni",
+        "text-start": 181,
+        "text-end": 185,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "če n",
+        "aligned": "če n"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "moreš če",
+        "text-start": 185,
+        "text-end": 187,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "e ",
+        "aligned": "e "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "ne ne ugane ne",
+        "text-start": 187,
+        "text-end": 201,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "ne ne ugame ne",
+        "aligned": "ne ne ugame ne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "ga se še enkrat",
+        "text-start": 205,
+        "text-end": 219,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": " ste še enkrat",
+        "aligned": " ste še enkrat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "more še enkrat nastaut",
+        "text-start": 220,
+        "text-end": 240,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "mora še enkrat nasta",
+        "aligned": "mora še enkrat nasta"
+    }
+]

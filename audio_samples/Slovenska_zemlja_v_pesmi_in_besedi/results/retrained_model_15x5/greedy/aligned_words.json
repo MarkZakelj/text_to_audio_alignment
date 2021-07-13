@@ -1,0 +1,764 @@
+[
+    {
+        "text": "to",
+        "start": 0.42,
+        "end": 0.46,
+        "index": 0
+    },
+    {
+        "text": "je",
+        "start": 0.54,
+        "end": 0.62,
+        "index": 1
+    },
+    {
+        "text": "tudi",
+        "start": 0.84,
+        "end": 1.1,
+        "index": 2
+    },
+    {
+        "text": "res",
+        "start": 1.28,
+        "end": 1.3,
+        "index": 3
+    },
+    {
+        "text": "in",
+        "start": 1.44,
+        "end": 1.52,
+        "index": 4
+    },
+    {
+        "text": "te",
+        "start": 3.44,
+        "end": 3.48,
+        "index": 5
+    },
+    {
+        "text": "pravljice",
+        "start": 3.54,
+        "end": 4.28,
+        "index": 6
+    },
+    {
+        "text": "tudi",
+        "start": 4.5200000000000005,
+        "end": 4.66,
+        "index": 7
+    },
+    {
+        "text": "nocoj",
+        "start": 5.04,
+        "end": 5.48,
+        "index": 8
+    },
+    {
+        "text": "spomnimo",
+        "start": 5.68,
+        "end": 6.140000000000001,
+        "index": 9
+    },
+    {
+        "text": "pa",
+        "start": 6.24,
+        "end": 6.36,
+        "index": 10
+    },
+    {
+        "text": "človeka",
+        "start": 6.58,
+        "end": 7.0,
+        "index": 11
+    },
+    {
+        "text": "ki",
+        "start": 7.140000000000001,
+        "end": 7.24,
+        "index": 12
+    },
+    {
+        "text": "je",
+        "start": 7.38,
+        "end": 7.42,
+        "index": 13
+    },
+    {
+        "text": "to",
+        "start": 7.6000000000000005,
+        "end": 7.76,
+        "index": 14
+    },
+    {
+        "text": "mislim",
+        "start": 8.52,
+        "end": 8.8,
+        "index": 15
+    },
+    {
+        "text": "v",
+        "start": 8.86,
+        "end": 8.92,
+        "index": 16
+    },
+    {
+        "text": "celotni",
+        "start": 9.06,
+        "end": 9.38,
+        "index": 17
+    },
+    {
+        "text": "sloveniji",
+        "start": 9.4,
+        "end": 9.96,
+        "index": 18
+    },
+    {
+        "text": "pokazal",
+        "start": 11.22,
+        "end": 11.82,
+        "index": 19
+    },
+    {
+        "text": "ne",
+        "start": 11.94,
+        "end": 12.1,
+        "index": 20
+    },
+    {
+        "text": "da",
+        "start": 12.32,
+        "end": 12.34,
+        "index": 21
+    },
+    {
+        "text": "kakšno",
+        "start": 12.42,
+        "end": 12.82,
+        "index": 22
+    },
+    {
+        "text": "bogatijo",
+        "start": 14.72,
+        "end": 15.02,
+        "index": 23
+    },
+    {
+        "text": "pa",
+        "start": 15.06,
+        "end": 15.22,
+        "index": 24
+    },
+    {
+        "text": "je",
+        "start": 16.48,
+        "end": 16.52,
+        "index": 25
+    },
+    {
+        "text": "v",
+        "start": 16.82,
+        "end": 16.92,
+        "index": 26
+    },
+    {
+        "text": "tem",
+        "start": 17.26,
+        "end": 17.32,
+        "index": 27
+    },
+    {
+        "text": "kontekstu",
+        "start": 17.48,
+        "end": 18.14,
+        "index": 28
+    },
+    {
+        "text": "tako",
+        "start": 18.54,
+        "end": 18.68,
+        "index": 29
+    },
+    {
+        "text": "da",
+        "start": 18.740000000000002,
+        "end": 18.84,
+        "index": 30
+    },
+    {
+        "text": "ta",
+        "start": 20.080000000000002,
+        "end": 20.1,
+        "index": 31
+    },
+    {
+        "text": "posvečena",
+        "start": 20.26,
+        "end": 20.96,
+        "index": 32
+    },
+    {
+        "text": "razstava",
+        "start": 21.44,
+        "end": 21.84,
+        "index": 33
+    },
+    {
+        "text": "pravljic",
+        "start": 22.04,
+        "end": 22.66,
+        "index": 34
+    },
+    {
+        "text": "bo",
+        "start": 22.84,
+        "end": 22.85,
+        "index": 35
+    },
+    {
+        "text": "v",
+        "start": 22.86,
+        "end": 23.18,
+        "index": 36
+    },
+    {
+        "text": "teku",
+        "start": 23.52,
+        "end": 23.72,
+        "index": 37
+    },
+    {
+        "text": "do",
+        "start": 23.82,
+        "end": 23.94,
+        "index": 38
+    },
+    {
+        "text": "novembra",
+        "start": 24.38,
+        "end": 24.8,
+        "index": 39
+    },
+    {
+        "text": "tako",
+        "start": 24.8,
+        "end": 26.0,
+        "index": 40
+    },
+    {
+        "text": "da",
+        "start": 26.22,
+        "end": 26.240000000000002,
+        "index": 41
+    },
+    {
+        "text": "bo",
+        "start": 26.34,
+        "end": 26.42,
+        "index": 42
+    },
+    {
+        "text": "ostala",
+        "start": 26.62,
+        "end": 26.86,
+        "index": 43
+    },
+    {
+        "text": "samo",
+        "start": 26.900000000000002,
+        "end": 27.16,
+        "index": 44
+    },
+    {
+        "text": "en",
+        "start": 27.740000000000002,
+        "end": 27.750000000000004,
+        "index": 45
+    },
+    {
+        "text": "ena",
+        "start": 28.18,
+        "end": 28.36,
+        "index": 46
+    },
+    {
+        "text": "sobica",
+        "start": 28.46,
+        "end": 28.64,
+        "index": 47
+    },
+    {
+        "text": "en",
+        "start": 28.72,
+        "end": 28.8,
+        "index": 48
+    },
+    {
+        "text": "koteč",
+        "start": 29.0,
+        "end": 29.32,
+        "index": 49
+    },
+    {
+        "text": "recimo",
+        "start": 29.38,
+        "end": 29.86,
+        "index": 50
+    },
+    {
+        "text": "tako",
+        "start": 29.98,
+        "end": 30.16,
+        "index": 51
+    },
+    {
+        "text": "ane",
+        "start": 30.240000000000002,
+        "end": 30.400000000000002,
+        "index": 52
+    },
+    {
+        "text": "in",
+        "start": 31.1,
+        "end": 31.110000000000003,
+        "index": 53
+    },
+    {
+        "text": "še",
+        "start": 31.2,
+        "end": 31.3,
+        "index": 54
+    },
+    {
+        "text": "do",
+        "start": 32.980000000000004,
+        "end": 33.0,
+        "index": 55
+    },
+    {
+        "text": "novembra",
+        "start": 33.12,
+        "end": 33.660000000000004,
+        "index": 56
+    },
+    {
+        "text": "se",
+        "start": 34.22,
+        "end": 34.28,
+        "index": 57
+    },
+    {
+        "text": "da",
+        "start": 34.32,
+        "end": 34.42,
+        "index": 58
+    },
+    {
+        "text": "videt",
+        "start": 35.160000000000004,
+        "end": 35.4,
+        "index": 59
+    },
+    {
+        "text": "celotno",
+        "start": 35.6,
+        "end": 36.160000000000004,
+        "index": 60
+    },
+    {
+        "text": "razstavo",
+        "start": 36.32,
+        "end": 36.74,
+        "index": 61
+    },
+    {
+        "text": "tako",
+        "start": 36.86,
+        "end": 37.2,
+        "index": 62
+    },
+    {
+        "text": "da",
+        "start": 37.34,
+        "end": 37.38,
+        "index": 63
+    },
+    {
+        "text": "človek",
+        "start": 37.62,
+        "end": 38.2,
+        "index": 64
+    },
+    {
+        "text": "ki",
+        "start": 39.18,
+        "end": 39.19,
+        "index": 65
+    },
+    {
+        "text": "pride",
+        "start": 39.4,
+        "end": 39.74,
+        "index": 66
+    },
+    {
+        "text": "v",
+        "start": 40.68,
+        "end": 40.69,
+        "index": 67
+    },
+    {
+        "text": "muzej",
+        "start": 40.72,
+        "end": 41.08,
+        "index": 68
+    },
+    {
+        "text": "lahko",
+        "start": 41.46,
+        "end": 41.660000000000004,
+        "index": 69
+    },
+    {
+        "text": "tudi",
+        "start": 41.88,
+        "end": 42.12,
+        "index": 70
+    },
+    {
+        "text": "berete",
+        "start": 43.62,
+        "end": 43.94,
+        "index": 71
+    },
+    {
+        "text": "pravljice",
+        "start": 43.94,
+        "end": 44.46,
+        "index": 72
+    },
+    {
+        "text": "in",
+        "start": 45.44,
+        "end": 45.449999999999996,
+        "index": 73
+    },
+    {
+        "text": "mislim",
+        "start": 45.72,
+        "end": 46.14,
+        "index": 74
+    },
+    {
+        "text": "če",
+        "start": 46.38,
+        "end": 46.42,
+        "index": 75
+    },
+    {
+        "text": "se",
+        "start": 47.1,
+        "end": 47.26,
+        "index": 76
+    },
+    {
+        "text": "da",
+        "start": 47.94,
+        "end": 47.949999999999996,
+        "index": 77
+    },
+    {
+        "text": "malo",
+        "start": 47.980000000000004,
+        "end": 48.24,
+        "index": 78
+    },
+    {
+        "text": "časa",
+        "start": 48.92,
+        "end": 49.300000000000004,
+        "index": 79
+    },
+    {
+        "text": "in",
+        "start": 49.72,
+        "end": 49.88,
+        "index": 80
+    },
+    {
+        "text": "malo",
+        "start": 50.24,
+        "end": 50.42,
+        "index": 81
+    },
+    {
+        "text": "truda",
+        "start": 50.42,
+        "end": 51.34,
+        "index": 82
+    },
+    {
+        "text": "kako",
+        "start": 51.480000000000004,
+        "end": 51.64,
+        "index": 83
+    },
+    {
+        "text": "bi",
+        "start": 51.7,
+        "end": 51.76,
+        "index": 84
+    },
+    {
+        "text": "rekel",
+        "start": 51.94,
+        "end": 52.18,
+        "index": 85
+    },
+    {
+        "text": "tudi",
+        "start": 52.58,
+        "end": 52.86,
+        "index": 86
+    },
+    {
+        "text": "v",
+        "start": 53.0,
+        "end": 53.01,
+        "index": 87
+    },
+    {
+        "text": "narečju",
+        "start": 53.02,
+        "end": 53.52,
+        "index": 88
+    },
+    {
+        "text": "se",
+        "start": 53.74,
+        "end": 53.75,
+        "index": 89
+    },
+    {
+        "text": "da",
+        "start": 53.76,
+        "end": 53.94,
+        "index": 90
+    },
+    {
+        "text": "razumeti",
+        "start": 54.94,
+        "end": 55.64,
+        "index": 91
+    },
+    {
+        "text": "musle",
+        "start": 56.6,
+        "end": 57.0,
+        "index": 92
+    },
+    {
+        "text": "da",
+        "start": 57.38,
+        "end": 57.4,
+        "index": 93
+    },
+    {
+        "text": "to",
+        "start": 57.660000000000004,
+        "end": 57.76,
+        "index": 94
+    },
+    {
+        "text": "ny",
+        "start": 58.1,
+        "end": 58.11,
+        "index": 95
+    },
+    {
+        "text": "težko",
+        "start": 58.1,
+        "end": 58.38,
+        "index": 96
+    },
+    {
+        "text": "no",
+        "start": 58.76,
+        "end": 58.769999999999996,
+        "index": 97
+    },
+    {
+        "text": "ma",
+        "start": 58.78,
+        "end": 59.38,
+        "index": 98
+    },
+    {
+        "text": "kapt",
+        "start": 61.32,
+        "end": 61.82,
+        "index": 99
+    },
+    {
+        "text": "ko",
+        "start": 62.1,
+        "end": 62.24,
+        "index": 100
+    },
+    {
+        "text": "romanemo",
+        "start": 62.72,
+        "end": 63.34,
+        "index": 101
+    },
+    {
+        "text": "po",
+        "start": 63.64,
+        "end": 63.76,
+        "index": 102
+    },
+    {
+        "text": "nese",
+        "start": 64.3,
+        "end": 64.31,
+        "index": 103
+    },
+    {
+        "text": "zato",
+        "start": 65.16,
+        "end": 65.3,
+        "index": 104
+    },
+    {
+        "text": "ka",
+        "start": 65.6,
+        "end": 65.61,
+        "index": 105
+    },
+    {
+        "text": "to",
+        "start": 65.6,
+        "end": 65.61,
+        "index": 106
+    },
+    {
+        "text": "je",
+        "start": 65.84,
+        "end": 65.85000000000001,
+        "index": 107
+    },
+    {
+        "text": "nden",
+        "start": 65.84,
+        "end": 66.16,
+        "index": 108
+    },
+    {
+        "text": "romoninjeno",
+        "start": 68.78,
+        "end": 69.38,
+        "index": 109
+    },
+    {
+        "text": "romoninje",
+        "start": 69.42,
+        "end": 70.04,
+        "index": 110
+    },
+    {
+        "text": "ka",
+        "start": 70.68,
+        "end": 70.69000000000001,
+        "index": 111
+    },
+    {
+        "text": "to",
+        "start": 71.02,
+        "end": 71.16,
+        "index": 112
+    },
+    {
+        "text": "je",
+        "start": 71.28,
+        "end": 71.3,
+        "index": 113
+    },
+    {
+        "text": "od",
+        "start": 71.54,
+        "end": 71.7,
+        "index": 114
+    },
+    {
+        "text": "ta",
+        "start": 71.92,
+        "end": 71.93,
+        "index": 115
+    },
+    {
+        "text": "slavinska",
+        "start": 71.96000000000001,
+        "end": 72.66,
+        "index": 116
+    },
+    {
+        "text": "azika",
+        "start": 72.84,
+        "end": 73.14,
+        "index": 117
+    },
+    {
+        "text": "ano",
+        "start": 73.28,
+        "end": 73.82000000000001,
+        "index": 118
+    },
+    {
+        "text": "mislm",
+        "start": 74.08,
+        "end": 74.26,
+        "index": 119
+    },
+    {
+        "text": "da",
+        "start": 74.32000000000001,
+        "end": 74.42,
+        "index": 120
+    },
+    {
+        "text": "to",
+        "start": 74.68,
+        "end": 74.69000000000001,
+        "index": 121
+    },
+    {
+        "text": "ni",
+        "start": 74.68,
+        "end": 74.72,
+        "index": 122
+    },
+    {
+        "text": "težko",
+        "start": 75.0,
+        "end": 75.42,
+        "index": 123
+    },
+    {
+        "text": "za",
+        "start": 75.42,
+        "end": 75.56,
+        "index": 124
+    },
+    {
+        "text": "te",
+        "start": 76.2,
+        "end": 76.22,
+        "index": 125
+    },
+    {
+        "text": "slavince",
+        "start": 76.4,
+        "end": 76.88,
+        "index": 126
+    }
+]

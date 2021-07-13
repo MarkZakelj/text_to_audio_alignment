@@ -1,0 +1,314 @@
+[
+    {
+        "text": "včas",
+        "start": 0.22,
+        "end": 0.5,
+        "index": 0
+    },
+    {
+        "text": "naprej",
+        "start": 0.56,
+        "end": 0.88,
+        "index": 1
+    },
+    {
+        "text": "so",
+        "start": 1.0,
+        "end": 1.04,
+        "index": 2
+    },
+    {
+        "text": "se",
+        "start": 1.1,
+        "end": 1.2,
+        "index": 3
+    },
+    {
+        "text": "pa",
+        "start": 1.32,
+        "end": 1.34,
+        "index": 4
+    },
+    {
+        "text": "pričkal",
+        "start": 1.4000000000000001,
+        "end": 1.9000000000000001,
+        "index": 5
+    },
+    {
+        "text": "pričkal",
+        "start": 2.82,
+        "end": 3.3200000000000003,
+        "index": 6
+    },
+    {
+        "text": "tu",
+        "start": 4.36,
+        "end": 4.48,
+        "index": 7
+    },
+    {
+        "text": "je",
+        "start": 6.62,
+        "end": 6.63,
+        "index": 8
+    },
+    {
+        "text": "de",
+        "start": 8.16,
+        "end": 8.28,
+        "index": 9
+    },
+    {
+        "text": "eden",
+        "start": 8.6,
+        "end": 8.68,
+        "index": 10
+    },
+    {
+        "text": "sedi",
+        "start": 8.76,
+        "end": 8.88,
+        "index": 11
+    },
+    {
+        "text": "in",
+        "start": 9.38,
+        "end": 9.39,
+        "index": 12
+    },
+    {
+        "text": "vzame",
+        "start": 9.44,
+        "end": 9.82,
+        "index": 13
+    },
+    {
+        "text": "glavo",
+        "start": 10.0,
+        "end": 10.24,
+        "index": 14
+    },
+    {
+        "text": "na",
+        "start": 10.24,
+        "end": 10.78,
+        "index": 15
+    },
+    {
+        "text": "kolena",
+        "start": 11.040000000000001,
+        "end": 11.32,
+        "index": 16
+    },
+    {
+        "text": "tet",
+        "start": 11.32,
+        "end": 11.86,
+        "index": 17
+    },
+    {
+        "text": "de",
+        "start": 12.120000000000001,
+        "end": 12.14,
+        "index": 18
+    },
+    {
+        "text": "on",
+        "start": 12.16,
+        "end": 12.34,
+        "index": 19
+    },
+    {
+        "text": "ne",
+        "start": 12.5,
+        "end": 12.51,
+        "index": 20
+    },
+    {
+        "text": "vidi",
+        "start": 12.620000000000001,
+        "end": 12.780000000000001,
+        "index": 21
+    },
+    {
+        "text": "in",
+        "start": 12.96,
+        "end": 13.02,
+        "index": 22
+    },
+    {
+        "text": "ga",
+        "start": 13.06,
+        "end": 13.14,
+        "index": 23
+    },
+    {
+        "text": "eden",
+        "start": 13.22,
+        "end": 13.4,
+        "index": 24
+    },
+    {
+        "text": "fejst",
+        "start": 13.540000000000001,
+        "end": 13.88,
+        "index": 25
+    },
+    {
+        "text": "po",
+        "start": 14.34,
+        "end": 14.35,
+        "index": 26
+    },
+    {
+        "text": "riti",
+        "start": 14.46,
+        "end": 14.64,
+        "index": 27
+    },
+    {
+        "text": "pertegne",
+        "start": 14.780000000000001,
+        "end": 15.18,
+        "index": 28
+    },
+    {
+        "text": "un",
+        "start": 15.18,
+        "end": 15.8,
+        "index": 29
+    },
+    {
+        "text": "pa",
+        "start": 16.080000000000002,
+        "end": 16.1,
+        "index": 30
+    },
+    {
+        "text": "more",
+        "start": 16.14,
+        "end": 16.36,
+        "index": 31
+    },
+    {
+        "text": "vgonit",
+        "start": 17.6,
+        "end": 17.98,
+        "index": 32
+    },
+    {
+        "text": "ker",
+        "start": 18.78,
+        "end": 19.06,
+        "index": 33
+    },
+    {
+        "text": "ga",
+        "start": 19.18,
+        "end": 19.2,
+        "index": 34
+    },
+    {
+        "text": "je",
+        "start": 19.28,
+        "end": 19.34,
+        "index": 35
+    },
+    {
+        "text": "če",
+        "start": 21.36,
+        "end": 21.37,
+        "index": 36
+    },
+    {
+        "text": "ni",
+        "start": 21.400000000000002,
+        "end": 21.52,
+        "index": 37
+    },
+    {
+        "text": "moreš",
+        "start": 21.54,
+        "end": 21.72,
+        "index": 38
+    },
+    {
+        "text": "če",
+        "start": 21.72,
+        "end": 21.73,
+        "index": 39
+    },
+    {
+        "text": "ne",
+        "start": 21.8,
+        "end": 21.84,
+        "index": 40
+    },
+    {
+        "text": "ne",
+        "start": 22.04,
+        "end": 22.14,
+        "index": 41
+    },
+    {
+        "text": "ugane",
+        "start": 22.2,
+        "end": 22.54,
+        "index": 42
+    },
+    {
+        "text": "ne",
+        "start": 22.62,
+        "end": 22.72,
+        "index": 43
+    },
+    {
+        "text": "ga",
+        "start": 23.22,
+        "end": 23.23,
+        "index": 44
+    },
+    {
+        "text": "se",
+        "start": 23.36,
+        "end": 23.44,
+        "index": 45
+    },
+    {
+        "text": "še",
+        "start": 23.48,
+        "end": 23.580000000000002,
+        "index": 46
+    },
+    {
+        "text": "enkrat",
+        "start": 23.64,
+        "end": 24.02,
+        "index": 47
+    },
+    {
+        "text": "more",
+        "start": 24.36,
+        "end": 24.44,
+        "index": 48
+    },
+    {
+        "text": "še",
+        "start": 24.48,
+        "end": 24.580000000000002,
+        "index": 49
+    },
+    {
+        "text": "enkrat",
+        "start": 24.62,
+        "end": 24.84,
+        "index": 50
+    },
+    {
+        "text": "nastaut",
+        "start": 24.88,
+        "end": 25.2,
+        "index": 51
+    }
+]

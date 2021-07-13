@@ -1,0 +1,617 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "jaz pač",
+        "text-start": 0,
+        "text-end": 6,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "jz pač",
+        "aligned": "jz pač"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "doživljam ta",
+        "text-start": 6,
+        "text-end": 15,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": " oživlam ",
+        "aligned": " oživlam "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "naš svet",
+        "text-start": 28,
+        "text-end": 34,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "e svet",
+        "aligned": "e svet"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "kot zaplankan",
+        "text-start": 43,
+        "text-end": 57,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "eee za plankan",
+        "aligned": "eee za plankan"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "zaprašen provincialen",
+        "text-start": 58,
+        "text-end": 77,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "zaprašen prvencialn",
+        "aligned": "zaprašen prvencialn"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "šentflorjanski pravzaprav",
+        "text-start": 80,
+        "text-end": 101,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "ntvojanski provzaprov",
+        "aligned": "ntvojanski provzaprov"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "vedno bolj",
+        "text-start": 102,
+        "text-end": 112,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "vedno bolj",
+        "aligned": "vedno bolj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "lezemo v",
+        "text-start": 113,
+        "text-end": 121,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "lezamo v",
+        "aligned": "lezamo v"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "to kot",
+        "text-start": 127,
+        "text-end": 132,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "e kot",
+        "aligned": "e kot"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "da bi",
+        "text-start": 133,
+        "text-end": 138,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "da bi",
+        "aligned": "da bi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "kar naenkrat",
+        "text-start": 139,
+        "text-end": 150,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "kr naenkrat",
+        "aligned": "kr naenkrat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "spet trčl",
+        "text-start": 151,
+        "text-end": 160,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "spet prčn",
+        "aligned": "spet prčn"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "v en",
+        "text-start": 165,
+        "text-end": 169,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "e en",
+        "aligned": "e en"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "svet ki",
+        "text-start": 170,
+        "text-end": 175,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "svet ",
+        "aligned": "svet "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "je opisoval",
+        "text-start": 175,
+        "text-end": 185,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "k opisoval",
+        "aligned": "k opisoval"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "cankar pred",
+        "text-start": 186,
+        "text-end": 197,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "cankar pred",
+        "aligned": "cankar pred"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "sto leti",
+        "text-start": 198,
+        "text-end": 206,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "sto leti",
+        "aligned": "sto leti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "te drame",
+        "text-start": 208,
+        "text-end": 214,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "te dra",
+        "aligned": "te dra"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "so nedvomno",
+        "text-start": 218,
+        "text-end": 229,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "so nedvobno",
+        "aligned": "so nedvobno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "cankarjeva reakcija",
+        "text-start": 230,
+        "text-end": 249,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "čankarjeva reakcija",
+        "aligned": "čankarjeva reakcija"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "na bi",
+        "text-start": 255,
+        "text-end": 259,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "e bi",
+        "aligned": "e bi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "rekel politično realnost tedanjo",
+        "text-start": 260,
+        "text-end": 296,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "reku politično realnost eee tedanijo",
+        "aligned": "reku politično realnost eee tedanijo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "aktualno slovensko politično realnost",
+        "text-start": 297,
+        "text-end": 333,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "aktualno slovensko politično realijo",
+        "aligned": "aktualno slovensko politično realijo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "ko beremo",
+        "text-start": 335,
+        "text-end": 344,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "ko beremo",
+        "aligned": "ko beremo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "cankarjevo farso",
+        "text-start": 347,
+        "text-end": 362,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "cankarevo farso",
+        "aligned": "cankarevo farso"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "danes ga",
+        "text-start": 363,
+        "text-end": 369,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "danes ",
+        "aligned": "danes "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "razumemo predvsem",
+        "text-start": 376,
+        "text-end": 393,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "razumemo predvsem",
+        "aligned": "razumemo predvsem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "zaradi tega",
+        "text-start": 394,
+        "text-end": 404,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "zarad tega",
+        "aligned": "zarad tega"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "ker so",
+        "text-start": 405,
+        "text-end": 411,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "ker so",
+        "aligned": "ker so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "se prenovile",
+        "text-start": 412,
+        "text-end": 424,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "se prenovile",
+        "aligned": "se prenovile"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "nekakšne arhetipske",
+        "text-start": 425,
+        "text-end": 444,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "nekakšne arhetipske",
+        "aligned": "nekakšne arhetipske"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "situacije neumnosti",
+        "text-start": 445,
+        "text-end": 464,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "situacije neumnosti",
+        "aligned": "situacije neumnosti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "hinavščine laži",
+        "text-start": 465,
+        "text-end": 472,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "hinavšč",
+        "aligned": "hinavšč"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "javne laži",
+        "text-start": 472,
+        "text-end": 480,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": "ine laži",
+        "aligned": "ine laži"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "prevare in",
+        "text-start": 493,
+        "text-end": 502,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "prevar in",
+        "aligned": "prevar in"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 35,
+        "transcript": "tako naprej",
+        "text-start": 503,
+        "text-end": 514,
+        "meta": {
+            "index": [
+                35
+            ]
+        },
+        "aligned-raw": "tako naprej",
+        "aligned": "tako naprej"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 36,
+        "transcript": "in tako naprej v",
+        "text-start": 515,
+        "text-end": 531,
+        "meta": {
+            "index": [
+                36
+            ]
+        },
+        "aligned-raw": "in tako naprej v",
+        "aligned": "in tako naprej v"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 37,
+        "transcript": "oblikah ki",
+        "text-start": 532,
+        "text-end": 541,
+        "meta": {
+            "index": [
+                37
+            ]
+        },
+        "aligned-raw": "oblika ki",
+        "aligned": "oblika ki"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 38,
+        "transcript": "jih je",
+        "text-start": 542,
+        "text-end": 548,
+        "meta": {
+            "index": [
+                38
+            ]
+        },
+        "aligned-raw": "jih je",
+        "aligned": "jih je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 39,
+        "transcript": "cankar imel",
+        "text-start": 549,
+        "text-end": 560,
+        "meta": {
+            "index": [
+                39
+            ]
+        },
+        "aligned-raw": "cankar imel",
+        "aligned": "cankar imel"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 40,
+        "transcript": "pred očmi",
+        "text-start": 561,
+        "text-end": 569,
+        "meta": {
+            "index": [
+                40
+            ]
+        },
+        "aligned-raw": "pred očm",
+        "aligned": "pred očm"
+    }
+]
