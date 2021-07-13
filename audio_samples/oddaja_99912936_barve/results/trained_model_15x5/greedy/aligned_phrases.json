@@ -1,0 +1,1502 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "svet ni nikoli",
+        "text-start": 0,
+        "text-end": 14,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "svet ni nikoli",
+        "aligned": "svet ni nikoli"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "bil črno",
+        "text-start": 15,
+        "text-end": 23,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "bil črno",
+        "aligned": "bil črno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "bel je",
+        "text-start": 24,
+        "text-end": 30,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "bel je",
+        "aligned": "bel je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "lep pisan",
+        "text-start": 31,
+        "text-end": 38,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "lep pis",
+        "aligned": "lep pis"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "v njem",
+        "text-start": 41,
+        "text-end": 47,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "v njem",
+        "aligned": "v njem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "pa prevladujejo",
+        "text-start": 48,
+        "text-end": 63,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "pa prevladujejo",
+        "aligned": "pa prevladujejo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "barve tako",
+        "text-start": 64,
+        "text-end": 74,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "barve tako",
+        "aligned": "barve tako"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "so se",
+        "text-start": 75,
+        "text-end": 80,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "so se",
+        "aligned": "so se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "z barvami",
+        "text-start": 81,
+        "text-end": 89,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "zbarvami",
+        "aligned": "zbarvami"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "ukvarjali že",
+        "text-start": 90,
+        "text-end": 102,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "ukvarjali že",
+        "aligned": "ukvarjali že"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "v sami",
+        "text-start": 103,
+        "text-end": 109,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "v sami",
+        "aligned": "v sami"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "prazgodovini takratne",
+        "text-start": 110,
+        "text-end": 131,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "prazgodovini takratne",
+        "aligned": "prazgodovini takratne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "skupnosti so",
+        "text-start": 132,
+        "text-end": 144,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "skupnosti so",
+        "aligned": "skupnosti so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "barve uporabljale",
+        "text-start": 145,
+        "text-end": 162,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "barve uporabljali",
+        "aligned": "barve uporabljali"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "za poslikavo",
+        "text-start": 163,
+        "text-end": 173,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "za poslika",
+        "aligned": "za poslika"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "svojih bivališč",
+        "text-start": 176,
+        "text-end": 191,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "svojih pivališč",
+        "aligned": "svojih pivališč"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "v jami",
+        "text-start": 192,
+        "text-end": 197,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "ujami",
+        "aligned": "ujami"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "altamira so",
+        "text-start": 198,
+        "text-end": 209,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "altamira so",
+        "aligned": "altamira so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "bile uporabljene",
+        "text-start": 210,
+        "text-end": 226,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "bile uporabljene",
+        "aligned": "bile uporabljene"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "rdeča oker",
+        "text-start": 227,
+        "text-end": 236,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "rdeča okr",
+        "aligned": "rdeča okr"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "in črna",
+        "text-start": 239,
+        "text-end": 244,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "nčrna",
+        "aligned": "nčrna"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "barve so",
+        "text-start": 245,
+        "text-end": 253,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "barve so",
+        "aligned": "barve so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "bile naravnega",
+        "text-start": 254,
+        "text-end": 268,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "bile naravnega",
+        "aligned": "bile naravnega"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "izvora in",
+        "text-start": 269,
+        "text-end": 279,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "izvo ra in",
+        "aligned": "izvo ra in"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "so se",
+        "text-start": 280,
+        "text-end": 285,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "so se",
+        "aligned": "so se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "ohranile več",
+        "text-start": 286,
+        "text-end": 298,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "uhranile več",
+        "aligned": "uhranile več"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "kot štirinajst",
+        "text-start": 299,
+        "text-end": 313,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "kot štirinajst",
+        "aligned": "kot štirinajst"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "tisoč let",
+        "text-start": 314,
+        "text-end": 323,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "tisoč let",
+        "aligned": "tisoč let"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "v antiki",
+        "text-start": 325,
+        "text-end": 332,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "vantiki",
+        "aligned": "vantiki"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "so egejske",
+        "text-start": 333,
+        "text-end": 343,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "so egejske",
+        "aligned": "so egejske"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "civilizacije uporabljale",
+        "text-start": 343,
+        "text-end": 368,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "cibilizacije uporabljaleš",
+        "aligned": "cibilizacije uporabljaleš"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "škrlatno rdečo",
+        "text-start": 369,
+        "text-end": 381,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "krlato rdečo",
+        "aligned": "krlato rdečo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "rumeno temno",
+        "text-start": 382,
+        "text-end": 390,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "vumeno t",
+        "aligned": "vumeno t"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "modro in",
+        "text-start": 394,
+        "text-end": 402,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": "modro in",
+        "aligned": "modro in"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "črno barvo",
+        "text-start": 405,
+        "text-end": 412,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "vno bar",
+        "aligned": "vno bar"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 35,
+        "transcript": "zelo lep",
+        "text-start": 415,
+        "text-end": 422,
+        "meta": {
+            "index": [
+                35
+            ]
+        },
+        "aligned-raw": "zelo le",
+        "aligned": "zelo le"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 36,
+        "transcript": "primer je",
+        "text-start": 425,
+        "text-end": 431,
+        "meta": {
+            "index": [
+                36
+            ]
+        },
+        "aligned-raw": "emerje",
+        "aligned": "emerje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 37,
+        "transcript": "palača v",
+        "text-start": 432,
+        "text-end": 439,
+        "meta": {
+            "index": [
+                37
+            ]
+        },
+        "aligned-raw": "plača v",
+        "aligned": "plača v"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 38,
+        "transcript": "knososu na",
+        "text-start": 441,
+        "text-end": 450,
+        "meta": {
+            "index": [
+                38
+            ]
+        },
+        "aligned-raw": "krosos na",
+        "aligned": "krosos na"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 39,
+        "transcript": "kreti ki",
+        "text-start": 451,
+        "text-end": 459,
+        "meta": {
+            "index": [
+                39
+            ]
+        },
+        "aligned-raw": "kreti ki",
+        "aligned": "kreti ki"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 40,
+        "transcript": "je prav",
+        "text-start": 460,
+        "text-end": 467,
+        "meta": {
+            "index": [
+                40
+            ]
+        },
+        "aligned-raw": "je prav",
+        "aligned": "je prav"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 41,
+        "transcript": "značilna po",
+        "text-start": 467,
+        "text-end": 478,
+        "meta": {
+            "index": [
+                41
+            ]
+        },
+        "aligned-raw": "značilla po",
+        "aligned": "značilla po"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 42,
+        "transcript": "tem da",
+        "text-start": 478,
+        "text-end": 483,
+        "meta": {
+            "index": [
+                42
+            ]
+        },
+        "aligned-raw": "tem d",
+        "aligned": "tem d"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 43,
+        "transcript": "je imela",
+        "text-start": 483,
+        "text-end": 490,
+        "meta": {
+            "index": [
+                43
+            ]
+        },
+        "aligned-raw": "a imela",
+        "aligned": "a imela"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 44,
+        "transcript": "zelo močno",
+        "text-start": 491,
+        "text-end": 501,
+        "meta": {
+            "index": [
+                44
+            ]
+        },
+        "aligned-raw": "zelo močno",
+        "aligned": "zelo močno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 45,
+        "transcript": "stensko poslikavo",
+        "text-start": 504,
+        "text-end": 520,
+        "meta": {
+            "index": [
+                45
+            ]
+        },
+        "aligned-raw": "tesko posli kavo",
+        "aligned": "tesko posli kavo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 46,
+        "transcript": "zraven te",
+        "text-start": 524,
+        "text-end": 533,
+        "meta": {
+            "index": [
+                46
+            ]
+        },
+        "aligned-raw": "zraden te",
+        "aligned": "zraden te"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 47,
+        "transcript": "močne stenske",
+        "text-start": 534,
+        "text-end": 547,
+        "meta": {
+            "index": [
+                47
+            ]
+        },
+        "aligned-raw": "močne stenske",
+        "aligned": "močne stenske"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 48,
+        "transcript": "poslikave pa",
+        "text-start": 548,
+        "text-end": 560,
+        "meta": {
+            "index": [
+                48
+            ]
+        },
+        "aligned-raw": "poslikare pa",
+        "aligned": "poslikare pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 49,
+        "transcript": "je bil",
+        "text-start": 561,
+        "text-end": 567,
+        "meta": {
+            "index": [
+                49
+            ]
+        },
+        "aligned-raw": "je bil",
+        "aligned": "je bil"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 50,
+        "transcript": "tudi zelo",
+        "text-start": 568,
+        "text-end": 577,
+        "meta": {
+            "index": [
+                50
+            ]
+        },
+        "aligned-raw": "tudi zelo",
+        "aligned": "tudi zelo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 51,
+        "transcript": "značilen motiv",
+        "text-start": 578,
+        "text-end": 592,
+        "meta": {
+            "index": [
+                51
+            ]
+        },
+        "aligned-raw": "značilen notiv",
+        "aligned": "značilen notiv"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 52,
+        "transcript": "bika ki",
+        "text-start": 592,
+        "text-end": 598,
+        "meta": {
+            "index": [
+                52
+            ]
+        },
+        "aligned-raw": "bika k",
+        "aligned": "bika k"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 53,
+        "transcript": "je simbol",
+        "text-start": 598,
+        "text-end": 608,
+        "meta": {
+            "index": [
+                53
+            ]
+        },
+        "aligned-raw": "je si bolj",
+        "aligned": "je si bolj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 54,
+        "transcript": "krete že",
+        "text-start": 609,
+        "text-end": 617,
+        "meta": {
+            "index": [
+                54
+            ]
+        },
+        "aligned-raw": "krete že",
+        "aligned": "krete že"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 55,
+        "transcript": "prej smo",
+        "text-start": 618,
+        "text-end": 626,
+        "meta": {
+            "index": [
+                55
+            ]
+        },
+        "aligned-raw": "prej smo",
+        "aligned": "prej smo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 56,
+        "transcript": "nekaj napletali",
+        "text-start": 627,
+        "text-end": 641,
+        "meta": {
+            "index": [
+                56
+            ]
+        },
+        "aligned-raw": "nekaj napletel",
+        "aligned": "nekaj napletel"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 57,
+        "transcript": "o pomenu",
+        "text-start": 642,
+        "text-end": 651,
+        "meta": {
+            "index": [
+                57
+            ]
+        },
+        "aligned-raw": "o pome nu",
+        "aligned": "o pome nu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 58,
+        "transcript": "barv in",
+        "text-start": 652,
+        "text-end": 659,
+        "meta": {
+            "index": [
+                58
+            ]
+        },
+        "aligned-raw": "barv in",
+        "aligned": "barv in"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 59,
+        "transcript": "tole me",
+        "text-start": 660,
+        "text-end": 666,
+        "meta": {
+            "index": [
+                59
+            ]
+        },
+        "aligned-raw": "toleme",
+        "aligned": "toleme"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 60,
+        "transcript": "vse bolj",
+        "text-start": 667,
+        "text-end": 676,
+        "meta": {
+            "index": [
+                60
+            ]
+        },
+        "aligned-raw": "vsem bolj",
+        "aligned": "vsem bolj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 61,
+        "transcript": "zanima mogoče",
+        "text-start": 677,
+        "text-end": 693,
+        "meta": {
+            "index": [
+                61
+            ]
+        },
+        "aligned-raw": "zanima no mogoče",
+        "aligned": "zanima no mogoče"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 62,
+        "transcript": "se bom",
+        "text-start": 694,
+        "text-end": 700,
+        "meta": {
+            "index": [
+                62
+            ]
+        },
+        "aligned-raw": "se bom",
+        "aligned": "se bom"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 63,
+        "transcript": "pa morala",
+        "text-start": 701,
+        "text-end": 710,
+        "meta": {
+            "index": [
+                63
+            ]
+        },
+        "aligned-raw": "pa morala",
+        "aligned": "pa morala"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 64,
+        "transcript": "prebarvati barve",
+        "text-start": 711,
+        "text-end": 727,
+        "meta": {
+            "index": [
+                64
+            ]
+        },
+        "aligned-raw": "prebarvati barve",
+        "aligned": "prebarvati barve"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 65,
+        "transcript": "spreminjajo življenje",
+        "text-start": 728,
+        "text-end": 749,
+        "meta": {
+            "index": [
+                65
+            ]
+        },
+        "aligned-raw": "spreminjajo življenje",
+        "aligned": "spreminjajo življenje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 66,
+        "transcript": "spreminjajo razpoloženje",
+        "text-start": 754,
+        "text-end": 776,
+        "meta": {
+            "index": [
+                66
+            ]
+        },
+        "aligned-raw": "spreminja razpoloženje",
+        "aligned": "spreminja razpoloženje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 67,
+        "transcript": "zaradi tega",
+        "text-start": 777,
+        "text-end": 788,
+        "meta": {
+            "index": [
+                67
+            ]
+        },
+        "aligned-raw": "zarad t ega",
+        "aligned": "zarad t ega"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 68,
+        "transcript": "ker če",
+        "text-start": 789,
+        "text-end": 795,
+        "meta": {
+            "index": [
+                68
+            ]
+        },
+        "aligned-raw": "ker če",
+        "aligned": "ker če"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 69,
+        "transcript": "želimo spremeniti",
+        "text-start": 796,
+        "text-end": 815,
+        "meta": {
+            "index": [
+                69
+            ]
+        },
+        "aligned-raw": "želimo raz spremeni",
+        "aligned": "želimo raz spremeni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 70,
+        "transcript": "svoje razpoloženje",
+        "text-start": 824,
+        "text-end": 837,
+        "meta": {
+            "index": [
+                70
+            ]
+        },
+        "aligned-raw": "prazpoloženje",
+        "aligned": "prazpoloženje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 71,
+        "transcript": "recimo da",
+        "text-start": 838,
+        "text-end": 847,
+        "meta": {
+            "index": [
+                71
+            ]
+        },
+        "aligned-raw": "recimo da",
+        "aligned": "recimo da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 72,
+        "transcript": "se počutimo",
+        "text-start": 848,
+        "text-end": 858,
+        "meta": {
+            "index": [
+                72
+            ]
+        },
+        "aligned-raw": "se počutmo",
+        "aligned": "se počutmo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 73,
+        "transcript": "slabo da",
+        "text-start": 859,
+        "text-end": 866,
+        "meta": {
+            "index": [
+                73
+            ]
+        },
+        "aligned-raw": "slavoda",
+        "aligned": "slavoda"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 74,
+        "transcript": "je dan",
+        "text-start": 867,
+        "text-end": 872,
+        "meta": {
+            "index": [
+                74
+            ]
+        },
+        "aligned-raw": "je da",
+        "aligned": "je da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 75,
+        "transcript": "tak mračen",
+        "text-start": 873,
+        "text-end": 882,
+        "meta": {
+            "index": [
+                75
+            ]
+        },
+        "aligned-raw": "tak mrača",
+        "aligned": "tak mrača"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 76,
+        "transcript": "in čuden",
+        "text-start": 887,
+        "text-end": 893,
+        "meta": {
+            "index": [
+                76
+            ]
+        },
+        "aligned-raw": "in čud",
+        "aligned": "in čud"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 77,
+        "transcript": "so barve",
+        "text-start": 902,
+        "text-end": 905,
+        "meta": {
+            "index": [
+                77
+            ]
+        },
+        "aligned-raw": "var",
+        "aligned": "var"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 78,
+        "transcript": "v bistvu",
+        "text-start": 907,
+        "text-end": 915,
+        "meta": {
+            "index": [
+                78
+            ]
+        },
+        "aligned-raw": "v bistvu",
+        "aligned": "v bistvu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 79,
+        "transcript": "tiste s",
+        "text-start": 916,
+        "text-end": 923,
+        "meta": {
+            "index": [
+                79
+            ]
+        },
+        "aligned-raw": "tiste s",
+        "aligned": "tiste s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 80,
+        "transcript": "katerimi najlažje",
+        "text-start": 926,
+        "text-end": 944,
+        "meta": {
+            "index": [
+                80
+            ]
+        },
+        "aligned-raw": "katerimi naj lažje",
+        "aligned": "katerimi naj lažje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 81,
+        "transcript": "spremenimo svoje",
+        "text-start": 946,
+        "text-end": 962,
+        "meta": {
+            "index": [
+                81
+            ]
+        },
+        "aligned-raw": "spremenimo svoje",
+        "aligned": "spremenimo svoje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 82,
+        "transcript": "počutje pa",
+        "text-start": 963,
+        "text-end": 972,
+        "meta": {
+            "index": [
+                82
+            ]
+        },
+        "aligned-raw": "počutje a",
+        "aligned": "počutje a"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 83,
+        "transcript": "naj bo",
+        "text-start": 973,
+        "text-end": 977,
+        "meta": {
+            "index": [
+                83
+            ]
+        },
+        "aligned-raw": "i bo",
+        "aligned": "i bo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 84,
+        "transcript": "to barve",
+        "text-start": 978,
+        "text-end": 986,
+        "meta": {
+            "index": [
+                84
+            ]
+        },
+        "aligned-raw": "to barve",
+        "aligned": "to barve"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 85,
+        "transcript": "v prostoru",
+        "text-start": 986,
+        "text-end": 996,
+        "meta": {
+            "index": [
+                85
+            ]
+        },
+        "aligned-raw": "l prostora",
+        "aligned": "l prostora"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 86,
+        "transcript": "ali barve",
+        "text-start": 997,
+        "text-end": 1006,
+        "meta": {
+            "index": [
+                86
+            ]
+        },
+        "aligned-raw": "ali barve",
+        "aligned": "ali barve"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 87,
+        "transcript": "ki jih",
+        "text-start": 1007,
+        "text-end": 1013,
+        "meta": {
+            "index": [
+                87
+            ]
+        },
+        "aligned-raw": "ki jih",
+        "aligned": "ki jih"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 88,
+        "transcript": "pač oblečemo",
+        "text-start": 1014,
+        "text-end": 1026,
+        "meta": {
+            "index": [
+                88
+            ]
+        },
+        "aligned-raw": "pač oblečamo",
+        "aligned": "pač oblečamo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 89,
+        "transcript": "nase tako",
+        "text-start": 1027,
+        "text-end": 1036,
+        "meta": {
+            "index": [
+                89
+            ]
+        },
+        "aligned-raw": "nasej tko",
+        "aligned": "nasej tko"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 90,
+        "transcript": "da zame",
+        "text-start": 1037,
+        "text-end": 1043,
+        "meta": {
+            "index": [
+                90
+            ]
+        },
+        "aligned-raw": "da zam",
+        "aligned": "da zam"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 91,
+        "transcript": "je to",
+        "text-start": 1043,
+        "text-end": 1047,
+        "meta": {
+            "index": [
+                91
+            ]
+        },
+        "aligned-raw": "i to",
+        "aligned": "i to"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 92,
+        "transcript": "sprememba v",
+        "text-start": 1055,
+        "text-end": 1066,
+        "meta": {
+            "index": [
+                92
+            ]
+        },
+        "aligned-raw": "sprememba v",
+        "aligned": "sprememba v"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 93,
+        "transcript": "bistvu sprememba",
+        "text-start": 1067,
+        "text-end": 1083,
+        "meta": {
+            "index": [
+                93
+            ]
+        },
+        "aligned-raw": "bistvu spremembo",
+        "aligned": "bistvu spremembo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 94,
+        "transcript": "razpoloženja sprememba",
+        "text-start": 1084,
+        "text-end": 1105,
+        "meta": {
+            "index": [
+                94
+            ]
+        },
+        "aligned-raw": "razproženja spremembo",
+        "aligned": "razproženja spremembo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 95,
+        "transcript": "atmosfere to",
+        "text-start": 1106,
+        "text-end": 1112,
+        "meta": {
+            "index": [
+                95
+            ]
+        },
+        "aligned-raw": "amosfe",
+        "aligned": "amosfe"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 96,
+        "transcript": "je to",
+        "text-start": 1112,
+        "text-end": 1117,
+        "meta": {
+            "index": [
+                96
+            ]
+        },
+        "aligned-raw": "re to",
+        "aligned": "re to"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 97,
+        "transcript": "kar na",
+        "text-start": 1124,
+        "text-end": 1130,
+        "meta": {
+            "index": [
+                97
+            ]
+        },
+        "aligned-raw": "kar na",
+        "aligned": "kar na"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 98,
+        "transcript": "nek način",
+        "text-start": 1131,
+        "text-end": 1140,
+        "meta": {
+            "index": [
+                98
+            ]
+        },
+        "aligned-raw": "nek način",
+        "aligned": "nek način"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 99,
+        "transcript": "barve naredijo",
+        "text-start": 1141,
+        "text-end": 1143,
+        "meta": {
+            "index": [
+                99
+            ]
+        },
+        "aligned-raw": "ba",
+        "aligned": "ba"
+    }
+]

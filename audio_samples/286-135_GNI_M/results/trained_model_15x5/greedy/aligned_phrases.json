@@ -1,0 +1,482 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "mladi ofčer je",
+        "text-start": 0,
+        "text-end": 10,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "edijo čerj",
+        "aligned": "edijo čerj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "ofce paso",
+        "text-start": 11,
+        "text-end": 20,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": " ce pa so",
+        "aligned": " ce pa so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "na zaleni",
+        "text-start": 21,
+        "text-end": 31,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "na za leni",
+        "aligned": "na za leni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "travnikej mladi",
+        "text-start": 31,
+        "text-end": 38,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "tra nik",
+        "aligned": "tra nik"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "ofčer jofce",
+        "text-start": 46,
+        "text-end": 51,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "ejoce",
+        "aligned": "ejoce"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "paso na",
+        "text-start": 55,
+        "text-end": 62,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": " so  na",
+        "aligned": " so na"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "zaleni travnikej",
+        "text-start": 63,
+        "text-end": 77,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "zadenitra nike",
+        "aligned": "zadenitra nike"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "mlado dete",
+        "text-start": 81,
+        "text-end": 88,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": " dodete",
+        "aligned": " dodete"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "k njemi",
+        "text-start": 89,
+        "text-end": 96,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "knje mi",
+        "aligned": "knje mi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "prišlo vi ste vujec",
+        "text-start": 102,
+        "text-end": 108,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "o  ste",
+        "aligned": "o ste"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "moj dragi",
+        "text-start": 115,
+        "text-end": 121,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "o dagi",
+        "aligned": "o dagi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "kak bi",
+        "text-start": 123,
+        "text-end": 127,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "o bi",
+        "aligned": "o bi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "to mogoče",
+        "text-start": 130,
+        "text-end": 134,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "oogo",
+        "aligned": "oogo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "bilo kaj",
+        "text-start": 137,
+        "text-end": 145,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "bilo  ka",
+        "aligned": "bilo ka"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "bi jaz",
+        "text-start": 158,
+        "text-end": 162,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "bi j",
+        "aligned": "bi j"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "tvoj vujec bil jofcer",
+        "text-start": 162,
+        "text-end": 166,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": " cer",
+        "aligned": " cer"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "jofce domo",
+        "text-start": 167,
+        "text-end": 174,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "ocedomo",
+        "aligned": "ocedomo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "ženi malo",
+        "text-start": 174,
+        "text-end": 184,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "žani  malo",
+        "aligned": "žani malo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "dete za",
+        "text-start": 184,
+        "text-end": 191,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "dete za",
+        "aligned": "dete za"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "njem gre",
+        "text-start": 191,
+        "text-end": 194,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "nje",
+        "aligned": "nje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "jofcer jofce",
+        "text-start": 201,
+        "text-end": 206,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "ejoce",
+        "aligned": "ejoce"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "domo ženi",
+        "text-start": 206,
+        "text-end": 214,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "tomozeni",
+        "aligned": "tomozeni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "malo dete",
+        "text-start": 218,
+        "text-end": 225,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "ao dete",
+        "aligned": "ao dete"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "za njem",
+        "text-start": 227,
+        "text-end": 231,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "anje",
+        "aligned": "anje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "gre jofcer",
+        "text-start": 233,
+        "text-end": 243,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "ri  jo cer",
+        "aligned": "ri jo cer"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "jofce štalo",
+        "text-start": 243,
+        "text-end": 251,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "joce sta",
+        "aligned": "joce sta"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "ženi malo dejte vižo gre jofcer joče štalo",
+        "text-start": 253,
+        "text-end": 255,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "že",
+        "aligned": "že"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "ženi malo",
+        "text-start": 255,
+        "text-end": 261,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": " ni ma",
+        "aligned": " ni ma"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "dete v",
+        "text-start": 264,
+        "text-end": 268,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "dete",
+        "aligned": "dete"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "vižo gre",
+        "text-start": 272,
+        "text-end": 276,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "ogre",
+        "aligned": "ogre"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "dober večer",
+        "text-start": 307,
+        "text-end": 311,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "dobe",
+        "aligned": "dobe"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "gosti venci",
+        "text-start": 315,
+        "text-end": 322,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "gosti v",
+        "aligned": "gosti v"
+    }
+]

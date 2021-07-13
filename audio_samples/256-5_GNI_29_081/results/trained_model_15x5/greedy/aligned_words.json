@@ -1,0 +1,692 @@
+[
+    {
+        "text": "pšenička",
+        "start": 2.0,
+        "end": 2.64,
+        "index": 0
+    },
+    {
+        "text": "na",
+        "start": 2.64,
+        "end": 2.94,
+        "index": 1
+    },
+    {
+        "text": "polju",
+        "start": 3.02,
+        "end": 3.54,
+        "index": 2
+    },
+    {
+        "text": "rumeni",
+        "start": 4.48,
+        "end": 6.36,
+        "index": 3
+    },
+    {
+        "text": "mamica",
+        "start": 7.68,
+        "end": 8.72,
+        "index": 4
+    },
+    {
+        "text": "moja",
+        "start": 9.200000000000001,
+        "end": 9.72,
+        "index": 5
+    },
+    {
+        "text": "pa",
+        "start": 10.0,
+        "end": 10.14,
+        "index": 6
+    },
+    {
+        "text": "v",
+        "start": 10.78,
+        "end": 10.79,
+        "index": 7
+    },
+    {
+        "text": "grobu",
+        "start": 10.78,
+        "end": 11.58,
+        "index": 8
+    },
+    {
+        "text": "spi",
+        "start": 11.98,
+        "end": 12.200000000000001,
+        "index": 9
+    },
+    {
+        "text": "nesrečna",
+        "start": 13.540000000000001,
+        "end": 15.08,
+        "index": 10
+    },
+    {
+        "text": "smrt",
+        "start": 16.6,
+        "end": 16.96,
+        "index": 11
+    },
+    {
+        "text": "kaj",
+        "start": 17.0,
+        "end": 17.240000000000002,
+        "index": 12
+    },
+    {
+        "text": "strila",
+        "start": 17.240000000000002,
+        "end": 17.94,
+        "index": 13
+    },
+    {
+        "text": "si",
+        "start": 18.14,
+        "end": 18.54,
+        "index": 14
+    },
+    {
+        "text": "ti",
+        "start": 18.54,
+        "end": 18.72,
+        "index": 15
+    },
+    {
+        "text": "da",
+        "start": 18.72,
+        "end": 19.98,
+        "index": 16
+    },
+    {
+        "text": "mamco",
+        "start": 20.04,
+        "end": 20.5,
+        "index": 17
+    },
+    {
+        "text": "umorila",
+        "start": 20.56,
+        "end": 21.52,
+        "index": 18
+    },
+    {
+        "text": "si",
+        "start": 22.5,
+        "end": 22.51,
+        "index": 19
+    },
+    {
+        "text": "mi",
+        "start": 22.56,
+        "end": 22.78,
+        "index": 20
+    },
+    {
+        "text": "nesrečna",
+        "start": 22.98,
+        "end": 26.16,
+        "index": 21
+    },
+    {
+        "text": "smrt",
+        "start": 26.28,
+        "end": 27.16,
+        "index": 22
+    },
+    {
+        "text": "kaj",
+        "start": 27.22,
+        "end": 27.76,
+        "index": 23
+    },
+    {
+        "text": "strila",
+        "start": 28.52,
+        "end": 29.740000000000002,
+        "index": 24
+    },
+    {
+        "text": "si",
+        "start": 29.8,
+        "end": 30.26,
+        "index": 25
+    },
+    {
+        "text": "ti",
+        "start": 30.68,
+        "end": 30.88,
+        "index": 26
+    },
+    {
+        "text": "da",
+        "start": 34.64,
+        "end": 34.65,
+        "index": 27
+    },
+    {
+        "text": "mamco",
+        "start": 34.64,
+        "end": 35.18,
+        "index": 28
+    },
+    {
+        "text": "umorila",
+        "start": 35.74,
+        "end": 37.92,
+        "index": 29
+    },
+    {
+        "text": "si",
+        "start": 37.92,
+        "end": 38.02,
+        "index": 30
+    },
+    {
+        "text": "mi",
+        "start": 38.02,
+        "end": 38.5,
+        "index": 31
+    },
+    {
+        "text": "mežnarček",
+        "start": 38.6,
+        "end": 38.94,
+        "index": 32
+    },
+    {
+        "text": "beli",
+        "start": 39.06,
+        "end": 39.54,
+        "index": 33
+    },
+    {
+        "text": "dan",
+        "start": 39.64,
+        "end": 39.72,
+        "index": 34
+    },
+    {
+        "text": "zvoni",
+        "start": 42.06,
+        "end": 42.68,
+        "index": 35
+    },
+    {
+        "text": "knemu",
+        "start": 42.68,
+        "end": 44.14,
+        "index": 36
+    },
+    {
+        "text": "pa",
+        "start": 45.38,
+        "end": 45.39,
+        "index": 37
+    },
+    {
+        "text": "dete",
+        "start": 45.84,
+        "end": 46.82,
+        "index": 38
+    },
+    {
+        "text": "prihiti",
+        "start": 47.26,
+        "end": 48.64,
+        "index": 39
+    },
+    {
+        "text": "povej",
+        "start": 48.64,
+        "end": 50.76,
+        "index": 40
+    },
+    {
+        "text": "povej",
+        "start": 50.76,
+        "end": 52.22,
+        "index": 41
+    },
+    {
+        "text": "moj",
+        "start": 53.04,
+        "end": 53.56,
+        "index": 42
+    },
+    {
+        "text": "mežnarček",
+        "start": 53.620000000000005,
+        "end": 55.22,
+        "index": 43
+    },
+    {
+        "text": "ti",
+        "start": 55.22,
+        "end": 56.620000000000005,
+        "index": 44
+    },
+    {
+        "text": "kje",
+        "start": 56.68,
+        "end": 57.14,
+        "index": 45
+    },
+    {
+        "text": "moja",
+        "start": 58.0,
+        "end": 58.54,
+        "index": 46
+    },
+    {
+        "text": "mamica",
+        "start": 66.04,
+        "end": 66.14,
+        "index": 47
+    },
+    {
+        "text": "spi",
+        "start": 66.14,
+        "end": 66.74,
+        "index": 48
+    },
+    {
+        "text": "povej",
+        "start": 66.74,
+        "end": 68.18,
+        "index": 49
+    },
+    {
+        "text": "povej",
+        "start": 68.18,
+        "end": 68.38,
+        "index": 50
+    },
+    {
+        "text": "moj",
+        "start": 68.38,
+        "end": 68.8,
+        "index": 51
+    },
+    {
+        "text": "mežnarček",
+        "start": 68.8,
+        "end": 69.78,
+        "index": 52
+    },
+    {
+        "text": "ti",
+        "start": 69.78,
+        "end": 70.18,
+        "index": 53
+    },
+    {
+        "text": "kje",
+        "start": 70.18,
+        "end": 70.24,
+        "index": 54
+    },
+    {
+        "text": "moja",
+        "start": 70.24,
+        "end": 70.64,
+        "index": 55
+    },
+    {
+        "text": "mamica",
+        "start": 70.64,
+        "end": 71.14,
+        "index": 56
+    },
+    {
+        "text": "spi",
+        "start": 71.54,
+        "end": 71.8,
+        "index": 57
+    },
+    {
+        "text": "mežnar",
+        "start": 71.9,
+        "end": 73.92,
+        "index": 58
+    },
+    {
+        "text": "jo",
+        "start": 74.36,
+        "end": 74.46000000000001,
+        "index": 59
+    },
+    {
+        "text": "prime",
+        "start": 74.54,
+        "end": 75.4,
+        "index": 60
+    },
+    {
+        "text": "za",
+        "start": 75.4,
+        "end": 75.56,
+        "index": 61
+    },
+    {
+        "text": "roko",
+        "start": 76.36,
+        "end": 76.5,
+        "index": 62
+    },
+    {
+        "text": "in",
+        "start": 76.94,
+        "end": 77.78,
+        "index": 63
+    },
+    {
+        "text": "jo",
+        "start": 77.78,
+        "end": 78.44,
+        "index": 64
+    },
+    {
+        "text": "pelje",
+        "start": 81.08,
+        "end": 82.16,
+        "index": 65
+    },
+    {
+        "text": "za",
+        "start": 82.22,
+        "end": 82.52,
+        "index": 66
+    },
+    {
+        "text": "cerkvico",
+        "start": 82.62,
+        "end": 84.68,
+        "index": 67
+    },
+    {
+        "text": "tam",
+        "start": 84.8,
+        "end": 86.48,
+        "index": 68
+    },
+    {
+        "text": "boma",
+        "start": 86.78,
+        "end": 87.28,
+        "index": 69
+    },
+    {
+        "text": "našla",
+        "start": 87.8,
+        "end": 88.9,
+        "index": 70
+    },
+    {
+        "text": "jamico",
+        "start": 89.36,
+        "end": 90.84,
+        "index": 71
+    },
+    {
+        "text": "notri",
+        "start": 92.34,
+        "end": 93.08,
+        "index": 72
+    },
+    {
+        "text": "pa",
+        "start": 93.22,
+        "end": 93.36,
+        "index": 73
+    },
+    {
+        "text": "tvojo",
+        "start": 93.76,
+        "end": 95.36,
+        "index": 74
+    },
+    {
+        "text": "mamico",
+        "start": 96.08,
+        "end": 98.28,
+        "index": 75
+    },
+    {
+        "text": "tam",
+        "start": 98.38,
+        "end": 98.92,
+        "index": 76
+    },
+    {
+        "text": "boma",
+        "start": 99.18,
+        "end": 99.62,
+        "index": 77
+    },
+    {
+        "text": "našla",
+        "start": 99.7,
+        "end": 101.22,
+        "index": 78
+    },
+    {
+        "text": "jamico",
+        "start": 101.28,
+        "end": 102.7,
+        "index": 79
+    },
+    {
+        "text": "notri",
+        "start": 104.08,
+        "end": 104.78,
+        "index": 80
+    },
+    {
+        "text": "pa",
+        "start": 106.48,
+        "end": 106.49000000000001,
+        "index": 81
+    },
+    {
+        "text": "tvojo",
+        "start": 106.56,
+        "end": 107.04,
+        "index": 82
+    },
+    {
+        "text": "mamico",
+        "start": 107.72,
+        "end": 108.28,
+        "index": 83
+    },
+    {
+        "text": "dokler",
+        "start": 108.38,
+        "end": 110.36,
+        "index": 84
+    },
+    {
+        "text": "otroku",
+        "start": 111.48,
+        "end": 113.06,
+        "index": 85
+    },
+    {
+        "text": "mamca",
+        "start": 113.14,
+        "end": 114.22,
+        "index": 86
+    },
+    {
+        "text": "živi",
+        "start": 114.66,
+        "end": 115.32000000000001,
+        "index": 87
+    },
+    {
+        "text": "saj",
+        "start": 116.68,
+        "end": 116.9,
+        "index": 88
+    },
+    {
+        "text": "ne",
+        "start": 117.72,
+        "end": 117.73,
+        "index": 89
+    },
+    {
+        "text": "ve",
+        "start": 117.72,
+        "end": 117.8,
+        "index": 90
+    },
+    {
+        "text": "kak",
+        "start": 119.08,
+        "end": 119.46000000000001,
+        "index": 91
+    },
+    {
+        "text": "dobro",
+        "start": 119.52,
+        "end": 120.16,
+        "index": 92
+    },
+    {
+        "text": "mu",
+        "start": 120.4,
+        "end": 120.41000000000001,
+        "index": 93
+    },
+    {
+        "text": "je",
+        "start": 120.48,
+        "end": 121.08,
+        "index": 94
+    },
+    {
+        "text": "ko",
+        "start": 122.58,
+        "end": 122.66,
+        "index": 95
+    },
+    {
+        "text": "pa",
+        "start": 123.38000000000001,
+        "end": 123.54,
+        "index": 96
+    },
+    {
+        "text": "enkrat",
+        "start": 124.5,
+        "end": 124.88000000000001,
+        "index": 97
+    },
+    {
+        "text": "mamce",
+        "start": 124.88000000000001,
+        "end": 125.3,
+        "index": 98
+    },
+    {
+        "text": "več",
+        "start": 126.0,
+        "end": 126.32000000000001,
+        "index": 99
+    },
+    {
+        "text": "ni",
+        "start": 126.32000000000001,
+        "end": 126.72,
+        "index": 100
+    },
+    {
+        "text": "takrat",
+        "start": 128.22,
+        "end": 128.46,
+        "index": 101
+    },
+    {
+        "text": "se",
+        "start": 128.58,
+        "end": 128.66,
+        "index": 102
+    },
+    {
+        "text": "otroku",
+        "start": 129.44,
+        "end": 130.66,
+        "index": 103
+    },
+    {
+        "text": "spremeni",
+        "start": 130.74,
+        "end": 132.56,
+        "index": 104
+    },
+    {
+        "text": "ko",
+        "start": 134.06,
+        "end": 134.12,
+        "index": 105
+    },
+    {
+        "text": "pa",
+        "start": 134.8,
+        "end": 134.96,
+        "index": 106
+    },
+    {
+        "text": "enkrat",
+        "start": 136.14000000000001,
+        "end": 136.32,
+        "index": 107
+    },
+    {
+        "text": "mamce",
+        "start": 136.32,
+        "end": 136.72,
+        "index": 108
+    },
+    {
+        "text": "več",
+        "start": 137.36,
+        "end": 137.70000000000002,
+        "index": 109
+    },
+    {
+        "text": "ni",
+        "start": 138.08,
+        "end": 138.38,
+        "index": 110
+    },
+    {
+        "text": "takrat",
+        "start": 139.5,
+        "end": 139.74,
+        "index": 111
+    },
+    {
+        "text": "se",
+        "start": 139.86,
+        "end": 139.94,
+        "index": 112
+    },
+    {
+        "text": "otroku",
+        "start": 142.46,
+        "end": 142.54,
+        "index": 113
+    },
+    {
+        "text": "spremeni",
+        "start": 142.54,
+        "end": 143.32,
+        "index": 114
+    }
+]

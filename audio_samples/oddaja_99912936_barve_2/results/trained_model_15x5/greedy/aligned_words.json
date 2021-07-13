@@ -1,0 +1,1448 @@
+[
+    {
+        "text": "zgodnje",
+        "start": 0.52,
+        "end": 0.9400000000000001,
+        "index": 0
+    },
+    {
+        "text": "civilizacije",
+        "start": 0.98,
+        "end": 1.8,
+        "index": 1
+    },
+    {
+        "text": "so",
+        "start": 1.9000000000000001,
+        "end": 2.04,
+        "index": 2
+    },
+    {
+        "text": "pustile",
+        "start": 2.12,
+        "end": 2.5,
+        "index": 3
+    },
+    {
+        "text": "le",
+        "start": 2.52,
+        "end": 2.62,
+        "index": 4
+    },
+    {
+        "text": "malo",
+        "start": 2.7,
+        "end": 2.9,
+        "index": 5
+    },
+    {
+        "text": "sledov",
+        "start": 2.96,
+        "end": 3.2600000000000002,
+        "index": 6
+    },
+    {
+        "text": "o",
+        "start": 3.54,
+        "end": 3.55,
+        "index": 7
+    },
+    {
+        "text": "tem",
+        "start": 3.6,
+        "end": 3.84,
+        "index": 8
+    },
+    {
+        "text": "kaj",
+        "start": 4.14,
+        "end": 4.22,
+        "index": 9
+    },
+    {
+        "text": "so",
+        "start": 4.28,
+        "end": 4.4,
+        "index": 10
+    },
+    {
+        "text": "si",
+        "start": 4.58,
+        "end": 4.66,
+        "index": 11
+    },
+    {
+        "text": "mislili",
+        "start": 4.7,
+        "end": 5.18,
+        "index": 12
+    },
+    {
+        "text": "o",
+        "start": 5.5200000000000005,
+        "end": 5.53,
+        "index": 13
+    },
+    {
+        "text": "barvah",
+        "start": 5.5200000000000005,
+        "end": 5.92,
+        "index": 14
+    },
+    {
+        "text": "kakor",
+        "start": 7.22,
+        "end": 7.46,
+        "index": 15
+    },
+    {
+        "text": "pri",
+        "start": 7.5200000000000005,
+        "end": 7.66,
+        "index": 16
+    },
+    {
+        "text": "večini",
+        "start": 7.72,
+        "end": 8.1,
+        "index": 17
+    },
+    {
+        "text": "zahodnih",
+        "start": 8.120000000000001,
+        "end": 8.700000000000001,
+        "index": 18
+    },
+    {
+        "text": "teorij",
+        "start": 8.8,
+        "end": 9.120000000000001,
+        "index": 19
+    },
+    {
+        "text": "geneza",
+        "start": 9.28,
+        "end": 9.74,
+        "index": 20
+    },
+    {
+        "text": "organizirane",
+        "start": 9.84,
+        "end": 10.46,
+        "index": 21
+    },
+    {
+        "text": "barvne",
+        "start": 10.52,
+        "end": 11.0,
+        "index": 22
+    },
+    {
+        "text": "teorije",
+        "start": 11.1,
+        "end": 11.52,
+        "index": 23
+    },
+    {
+        "text": "izhaja",
+        "start": 11.66,
+        "end": 12.200000000000001,
+        "index": 24
+    },
+    {
+        "text": "iz",
+        "start": 12.36,
+        "end": 12.37,
+        "index": 25
+    },
+    {
+        "text": "antične",
+        "start": 12.42,
+        "end": 13.040000000000001,
+        "index": 26
+    },
+    {
+        "text": "grčije",
+        "start": 13.14,
+        "end": 13.52,
+        "index": 27
+    },
+    {
+        "text": "čeprav",
+        "start": 13.98,
+        "end": 14.34,
+        "index": 28
+    },
+    {
+        "text": "so",
+        "start": 14.46,
+        "end": 14.540000000000001,
+        "index": 29
+    },
+    {
+        "text": "bili",
+        "start": 14.58,
+        "end": 14.8,
+        "index": 30
+    },
+    {
+        "text": "grki",
+        "start": 14.94,
+        "end": 15.32,
+        "index": 31
+    },
+    {
+        "text": "zelo",
+        "start": 15.4,
+        "end": 15.620000000000001,
+        "index": 32
+    },
+    {
+        "text": "dobri",
+        "start": 15.72,
+        "end": 16.06,
+        "index": 33
+    },
+    {
+        "text": "filozofi",
+        "start": 16.12,
+        "end": 16.78,
+        "index": 34
+    },
+    {
+        "text": "so",
+        "start": 17.18,
+        "end": 17.26,
+        "index": 35
+    },
+    {
+        "text": "imeli",
+        "start": 17.28,
+        "end": 17.580000000000002,
+        "index": 36
+    },
+    {
+        "text": "raje",
+        "start": 17.92,
+        "end": 18.080000000000002,
+        "index": 37
+    },
+    {
+        "text": "teoretska",
+        "start": 18.14,
+        "end": 18.62,
+        "index": 38
+    },
+    {
+        "text": "razglabljanja",
+        "start": 18.7,
+        "end": 19.64,
+        "index": 39
+    },
+    {
+        "text": "kakor",
+        "start": 19.7,
+        "end": 20.0,
+        "index": 40
+    },
+    {
+        "text": "pa",
+        "start": 20.1,
+        "end": 20.16,
+        "index": 41
+    },
+    {
+        "text": "praktične",
+        "start": 20.22,
+        "end": 20.86,
+        "index": 42
+    },
+    {
+        "text": "preizkuse",
+        "start": 20.96,
+        "end": 21.5,
+        "index": 43
+    },
+    {
+        "text": "in",
+        "start": 22.0,
+        "end": 22.12,
+        "index": 44
+    },
+    {
+        "text": "pogosto",
+        "start": 22.26,
+        "end": 22.72,
+        "index": 45
+    },
+    {
+        "text": "svojih",
+        "start": 22.76,
+        "end": 23.1,
+        "index": 46
+    },
+    {
+        "text": "teorij",
+        "start": 23.22,
+        "end": 24.02,
+        "index": 47
+    },
+    {
+        "text": "niso",
+        "start": 24.02,
+        "end": 24.38,
+        "index": 48
+    },
+    {
+        "text": "preizkusili",
+        "start": 24.5,
+        "end": 25.16,
+        "index": 49
+    },
+    {
+        "text": "v",
+        "start": 25.3,
+        "end": 25.38,
+        "index": 50
+    },
+    {
+        "text": "praksi",
+        "start": 25.5,
+        "end": 25.88,
+        "index": 51
+    },
+    {
+        "text": "prvi",
+        "start": 27.060000000000002,
+        "end": 27.42,
+        "index": 52
+    },
+    {
+        "text": "ki",
+        "start": 27.54,
+        "end": 27.62,
+        "index": 53
+    },
+    {
+        "text": "se",
+        "start": 27.68,
+        "end": 27.82,
+        "index": 54
+    },
+    {
+        "text": "je",
+        "start": 27.94,
+        "end": 27.950000000000003,
+        "index": 55
+    },
+    {
+        "text": "pričel",
+        "start": 28.0,
+        "end": 28.34,
+        "index": 56
+    },
+    {
+        "text": "ukvarjati",
+        "start": 28.44,
+        "end": 28.92,
+        "index": 57
+    },
+    {
+        "text": "s",
+        "start": 29.0,
+        "end": 29.080000000000002,
+        "index": 58
+    },
+    {
+        "text": "teorijo",
+        "start": 29.16,
+        "end": 29.36,
+        "index": 59
+    },
+    {
+        "text": "barv",
+        "start": 29.42,
+        "end": 29.52,
+        "index": 60
+    },
+    {
+        "text": "je",
+        "start": 30.34,
+        "end": 30.38,
+        "index": 61
+    },
+    {
+        "text": "bil",
+        "start": 30.42,
+        "end": 30.580000000000002,
+        "index": 62
+    },
+    {
+        "text": "filozof",
+        "start": 30.72,
+        "end": 31.220000000000002,
+        "index": 63
+    },
+    {
+        "text": "empedokles",
+        "start": 31.34,
+        "end": 32.06,
+        "index": 64
+    },
+    {
+        "text": "v",
+        "start": 32.56,
+        "end": 32.57,
+        "index": 65
+    },
+    {
+        "text": "petem",
+        "start": 32.6,
+        "end": 32.96,
+        "index": 66
+    },
+    {
+        "text": "stoletju",
+        "start": 33.04,
+        "end": 33.46,
+        "index": 67
+    },
+    {
+        "text": "pred",
+        "start": 33.5,
+        "end": 33.74,
+        "index": 68
+    },
+    {
+        "text": "našim",
+        "start": 33.82,
+        "end": 34.14,
+        "index": 69
+    },
+    {
+        "text": "štetjem",
+        "start": 34.2,
+        "end": 34.660000000000004,
+        "index": 70
+    },
+    {
+        "text": "verjel",
+        "start": 35.54,
+        "end": 35.72,
+        "index": 71
+    },
+    {
+        "text": "je",
+        "start": 35.76,
+        "end": 35.82,
+        "index": 72
+    },
+    {
+        "text": "da",
+        "start": 36.34,
+        "end": 36.38,
+        "index": 73
+    },
+    {
+        "text": "vsa",
+        "start": 36.42,
+        "end": 36.62,
+        "index": 74
+    },
+    {
+        "text": "narava",
+        "start": 36.72,
+        "end": 37.12,
+        "index": 75
+    },
+    {
+        "text": "izhaja",
+        "start": 37.18,
+        "end": 37.7,
+        "index": 76
+    },
+    {
+        "text": "iz",
+        "start": 37.84,
+        "end": 37.9,
+        "index": 77
+    },
+    {
+        "text": "štirih",
+        "start": 37.96,
+        "end": 38.36,
+        "index": 78
+    },
+    {
+        "text": "elementov",
+        "start": 38.5,
+        "end": 39.04,
+        "index": 79
+    },
+    {
+        "text": "torej",
+        "start": 39.52,
+        "end": 39.82,
+        "index": 80
+    },
+    {
+        "text": "zraka",
+        "start": 39.88,
+        "end": 40.26,
+        "index": 81
+    },
+    {
+        "text": "vode",
+        "start": 40.34,
+        "end": 40.94,
+        "index": 82
+    },
+    {
+        "text": "ognja",
+        "start": 41.28,
+        "end": 41.64,
+        "index": 83
+    },
+    {
+        "text": "in",
+        "start": 41.82,
+        "end": 41.96,
+        "index": 84
+    },
+    {
+        "text": "zemlje",
+        "start": 42.04,
+        "end": 42.38,
+        "index": 85
+    },
+    {
+        "text": "menil",
+        "start": 42.42,
+        "end": 43.36,
+        "index": 86
+    },
+    {
+        "text": "je",
+        "start": 43.480000000000004,
+        "end": 43.56,
+        "index": 87
+    },
+    {
+        "text": "da",
+        "start": 43.660000000000004,
+        "end": 43.76,
+        "index": 88
+    },
+    {
+        "text": "naj",
+        "start": 43.82,
+        "end": 43.9,
+        "index": 89
+    },
+    {
+        "text": "bi",
+        "start": 43.94,
+        "end": 44.02,
+        "index": 90
+    },
+    {
+        "text": "različne",
+        "start": 44.12,
+        "end": 44.58,
+        "index": 91
+    },
+    {
+        "text": "kombinacije",
+        "start": 44.62,
+        "end": 45.28,
+        "index": 92
+    },
+    {
+        "text": "teh",
+        "start": 45.38,
+        "end": 45.5,
+        "index": 93
+    },
+    {
+        "text": "elementov",
+        "start": 45.54,
+        "end": 46.14,
+        "index": 94
+    },
+    {
+        "text": "tvorile",
+        "start": 46.2,
+        "end": 46.64,
+        "index": 95
+    },
+    {
+        "text": "vse",
+        "start": 46.7,
+        "end": 46.94,
+        "index": 96
+    },
+    {
+        "text": "tudi",
+        "start": 47.52,
+        "end": 47.68,
+        "index": 97
+    },
+    {
+        "text": "barve",
+        "start": 47.72,
+        "end": 48.1,
+        "index": 98
+    },
+    {
+        "text": "verjel",
+        "start": 49.02,
+        "end": 49.18,
+        "index": 99
+    },
+    {
+        "text": "je",
+        "start": 49.22,
+        "end": 49.34,
+        "index": 100
+    },
+    {
+        "text": "da",
+        "start": 49.5,
+        "end": 49.54,
+        "index": 101
+    },
+    {
+        "text": "obstajajo",
+        "start": 49.56,
+        "end": 50.08,
+        "index": 102
+    },
+    {
+        "text": "štiri",
+        "start": 50.2,
+        "end": 50.5,
+        "index": 103
+    },
+    {
+        "text": "osnovne",
+        "start": 50.56,
+        "end": 51.06,
+        "index": 104
+    },
+    {
+        "text": "barve",
+        "start": 51.120000000000005,
+        "end": 51.44,
+        "index": 105
+    },
+    {
+        "text": "rdeča",
+        "start": 51.800000000000004,
+        "end": 52.32,
+        "index": 106
+    },
+    {
+        "text": "je",
+        "start": 52.44,
+        "end": 52.449999999999996,
+        "index": 107
+    },
+    {
+        "text": "zrak",
+        "start": 52.480000000000004,
+        "end": 52.64,
+        "index": 108
+    },
+    {
+        "text": "rumeno",
+        "start": 53.24,
+        "end": 53.56,
+        "index": 109
+    },
+    {
+        "text": "zelena",
+        "start": 53.620000000000005,
+        "end": 54.08,
+        "index": 110
+    },
+    {
+        "text": "je",
+        "start": 54.160000000000004,
+        "end": 54.22,
+        "index": 111
+    },
+    {
+        "text": "zemlja",
+        "start": 54.26,
+        "end": 54.72,
+        "index": 112
+    },
+    {
+        "text": "bela",
+        "start": 55.26,
+        "end": 55.54,
+        "index": 113
+    },
+    {
+        "text": "je",
+        "start": 55.6,
+        "end": 55.660000000000004,
+        "index": 114
+    },
+    {
+        "text": "ogenj",
+        "start": 55.82,
+        "end": 56.14,
+        "index": 115
+    },
+    {
+        "text": "in",
+        "start": 56.480000000000004,
+        "end": 56.660000000000004,
+        "index": 116
+    },
+    {
+        "text": "črna",
+        "start": 56.76,
+        "end": 57.14,
+        "index": 117
+    },
+    {
+        "text": "voda",
+        "start": 57.300000000000004,
+        "end": 57.68,
+        "index": 118
+    },
+    {
+        "text": "demokrit",
+        "start": 58.58,
+        "end": 59.0,
+        "index": 119
+    },
+    {
+        "text": "je",
+        "start": 59.14,
+        "end": 59.22,
+        "index": 120
+    },
+    {
+        "text": "izboljšal",
+        "start": 59.38,
+        "end": 60.0,
+        "index": 121
+    },
+    {
+        "text": "empedoklovo",
+        "start": 60.06,
+        "end": 60.88,
+        "index": 122
+    },
+    {
+        "text": "barvno",
+        "start": 60.92,
+        "end": 61.34,
+        "index": 123
+    },
+    {
+        "text": "teorijo",
+        "start": 61.4,
+        "end": 62.0,
+        "index": 124
+    },
+    {
+        "text": "trdil",
+        "start": 62.54,
+        "end": 62.86,
+        "index": 125
+    },
+    {
+        "text": "je",
+        "start": 62.86,
+        "end": 63.02,
+        "index": 126
+    },
+    {
+        "text": "da",
+        "start": 63.26,
+        "end": 63.32,
+        "index": 127
+    },
+    {
+        "text": "barva",
+        "start": 63.38,
+        "end": 63.800000000000004,
+        "index": 128
+    },
+    {
+        "text": "izhaja",
+        "start": 63.940000000000005,
+        "end": 64.42,
+        "index": 129
+    },
+    {
+        "text": "iz",
+        "start": 64.52,
+        "end": 64.64,
+        "index": 130
+    },
+    {
+        "text": "oblike",
+        "start": 64.76,
+        "end": 65.08,
+        "index": 131
+    },
+    {
+        "text": "atomov",
+        "start": 65.16,
+        "end": 65.66,
+        "index": 132
+    },
+    {
+        "text": "tako",
+        "start": 66.08,
+        "end": 66.28,
+        "index": 133
+    },
+    {
+        "text": "naj",
+        "start": 66.32000000000001,
+        "end": 66.5,
+        "index": 134
+    },
+    {
+        "text": "bi",
+        "start": 66.56,
+        "end": 66.6,
+        "index": 135
+    },
+    {
+        "text": "bila",
+        "start": 66.64,
+        "end": 66.84,
+        "index": 136
+    },
+    {
+        "text": "bela",
+        "start": 66.96000000000001,
+        "end": 67.2,
+        "index": 137
+    },
+    {
+        "text": "barva",
+        "start": 67.24,
+        "end": 67.64,
+        "index": 138
+    },
+    {
+        "text": "posledica",
+        "start": 67.76,
+        "end": 68.26,
+        "index": 139
+    },
+    {
+        "text": "gladkosti",
+        "start": 68.32000000000001,
+        "end": 68.98,
+        "index": 140
+    },
+    {
+        "text": "in",
+        "start": 69.2,
+        "end": 69.24,
+        "index": 141
+    },
+    {
+        "text": "pravilne",
+        "start": 69.28,
+        "end": 69.84,
+        "index": 142
+    },
+    {
+        "text": "okrogle",
+        "start": 70.0,
+        "end": 70.4,
+        "index": 143
+    },
+    {
+        "text": "oblike",
+        "start": 70.46000000000001,
+        "end": 70.86,
+        "index": 144
+    },
+    {
+        "text": "atomov",
+        "start": 71.04,
+        "end": 71.34,
+        "index": 145
+    },
+    {
+        "text": "črna",
+        "start": 71.8,
+        "end": 72.18,
+        "index": 146
+    },
+    {
+        "text": "barva",
+        "start": 72.28,
+        "end": 72.60000000000001,
+        "index": 147
+    },
+    {
+        "text": "pa",
+        "start": 72.7,
+        "end": 72.82000000000001,
+        "index": 148
+    },
+    {
+        "text": "rezultat",
+        "start": 72.94,
+        "end": 73.52,
+        "index": 149
+    },
+    {
+        "text": "grobo",
+        "start": 73.60000000000001,
+        "end": 74.06,
+        "index": 150
+    },
+    {
+        "text": "zrnastih",
+        "start": 74.2,
+        "end": 74.72,
+        "index": 151
+    },
+    {
+        "text": "atomov",
+        "start": 74.76,
+        "end": 75.26,
+        "index": 152
+    },
+    {
+        "text": "odkril",
+        "start": 75.92,
+        "end": 76.08,
+        "index": 153
+    },
+    {
+        "text": "je",
+        "start": 76.16,
+        "end": 76.22,
+        "index": 154
+    },
+    {
+        "text": "tudi",
+        "start": 76.5,
+        "end": 76.7,
+        "index": 155
+    },
+    {
+        "text": "metodo",
+        "start": 76.74,
+        "end": 77.18,
+        "index": 156
+    },
+    {
+        "text": "mešanja",
+        "start": 77.26,
+        "end": 77.68,
+        "index": 157
+    },
+    {
+        "text": "barv",
+        "start": 77.72,
+        "end": 78.06,
+        "index": 158
+    },
+    {
+        "text": "iz",
+        "start": 78.44,
+        "end": 78.5,
+        "index": 159
+    },
+    {
+        "text": "primarnih",
+        "start": 78.56,
+        "end": 79.18,
+        "index": 160
+    },
+    {
+        "text": "aristotel",
+        "start": 80.44,
+        "end": 80.98,
+        "index": 161
+    },
+    {
+        "text": "pa",
+        "start": 81.04,
+        "end": 81.14,
+        "index": 162
+    },
+    {
+        "text": "je",
+        "start": 81.2,
+        "end": 81.24,
+        "index": 163
+    },
+    {
+        "text": "v",
+        "start": 81.26,
+        "end": 81.3,
+        "index": 164
+    },
+    {
+        "text": "svojem",
+        "start": 81.4,
+        "end": 81.7,
+        "index": 165
+    },
+    {
+        "text": "delu",
+        "start": 81.74,
+        "end": 82.08,
+        "index": 166
+    },
+    {
+        "text": "o",
+        "start": 82.24,
+        "end": 82.25,
+        "index": 167
+    },
+    {
+        "text": "čutih",
+        "start": 82.24,
+        "end": 82.68,
+        "index": 168
+    },
+    {
+        "text": "in",
+        "start": 82.8,
+        "end": 82.84,
+        "index": 169
+    },
+    {
+        "text": "zaznavanju",
+        "start": 82.88,
+        "end": 83.56,
+        "index": 170
+    },
+    {
+        "text": "zavrnil",
+        "start": 83.66,
+        "end": 84.08,
+        "index": 171
+    },
+    {
+        "text": "vse",
+        "start": 84.24,
+        "end": 84.52,
+        "index": 172
+    },
+    {
+        "text": "prejšnje",
+        "start": 84.66,
+        "end": 85.04,
+        "index": 173
+    },
+    {
+        "text": "teorije",
+        "start": 85.08,
+        "end": 85.52,
+        "index": 174
+    },
+    {
+        "text": "trdil",
+        "start": 86.02,
+        "end": 86.34,
+        "index": 175
+    },
+    {
+        "text": "je",
+        "start": 86.36,
+        "end": 86.5,
+        "index": 176
+    },
+    {
+        "text": "da",
+        "start": 86.62,
+        "end": 86.63000000000001,
+        "index": 177
+    },
+    {
+        "text": "sta",
+        "start": 86.68,
+        "end": 86.8,
+        "index": 178
+    },
+    {
+        "text": "primarni",
+        "start": 86.98,
+        "end": 87.4,
+        "index": 179
+    },
+    {
+        "text": "barvi",
+        "start": 87.46000000000001,
+        "end": 87.86,
+        "index": 180
+    },
+    {
+        "text": "samo",
+        "start": 87.94,
+        "end": 88.08,
+        "index": 181
+    },
+    {
+        "text": "bela",
+        "start": 88.16,
+        "end": 88.56,
+        "index": 182
+    },
+    {
+        "text": "in",
+        "start": 88.7,
+        "end": 88.74,
+        "index": 183
+    },
+    {
+        "text": "črna",
+        "start": 88.78,
+        "end": 89.16,
+        "index": 184
+    },
+    {
+        "text": "in",
+        "start": 89.62,
+        "end": 89.66,
+        "index": 185
+    },
+    {
+        "text": "da",
+        "start": 89.7,
+        "end": 89.8,
+        "index": 186
+    },
+    {
+        "text": "vse",
+        "start": 90.0,
+        "end": 90.18,
+        "index": 187
+    },
+    {
+        "text": "druge",
+        "start": 90.28,
+        "end": 90.62,
+        "index": 188
+    },
+    {
+        "text": "izhajajo",
+        "start": 90.82000000000001,
+        "end": 91.42,
+        "index": 189
+    },
+    {
+        "text": "iz",
+        "start": 91.48,
+        "end": 91.66,
+        "index": 190
+    },
+    {
+        "text": "teh",
+        "start": 91.78,
+        "end": 91.96000000000001,
+        "index": 191
+    },
+    {
+        "text": "dveh",
+        "start": 92.04,
+        "end": 92.34,
+        "index": 192
+    },
+    {
+        "text": "barv",
+        "start": 92.58,
+        "end": 92.82000000000001,
+        "index": 193
+    },
+    {
+        "text": "nekateri",
+        "start": 92.84,
+        "end": 93.74,
+        "index": 194
+    },
+    {
+        "text": "filozofi",
+        "start": 93.8,
+        "end": 94.28,
+        "index": 195
+    },
+    {
+        "text": "so",
+        "start": 94.32000000000001,
+        "end": 94.42,
+        "index": 196
+    },
+    {
+        "text": "bili",
+        "start": 94.5,
+        "end": 94.64,
+        "index": 197
+    },
+    {
+        "text": "mnenja",
+        "start": 94.68,
+        "end": 95.08,
+        "index": 198
+    },
+    {
+        "text": "da",
+        "start": 95.16,
+        "end": 95.17,
+        "index": 199
+    },
+    {
+        "text": "je",
+        "start": 95.22,
+        "end": 95.26,
+        "index": 200
+    },
+    {
+        "text": "izvor",
+        "start": 95.36,
+        "end": 95.66,
+        "index": 201
+    },
+    {
+        "text": "svetlobe",
+        "start": 95.72,
+        "end": 96.32000000000001,
+        "index": 202
+    },
+    {
+        "text": "v",
+        "start": 96.46000000000001,
+        "end": 96.47000000000001,
+        "index": 203
+    },
+    {
+        "text": "očesu",
+        "start": 96.48,
+        "end": 96.96000000000001,
+        "index": 204
+    },
+    {
+        "text": "spet",
+        "start": 97.5,
+        "end": 97.60000000000001,
+        "index": 205
+    },
+    {
+        "text": "drugi",
+        "start": 97.60000000000001,
+        "end": 97.88,
+        "index": 206
+    },
+    {
+        "text": "so",
+        "start": 98.06,
+        "end": 98.07000000000001,
+        "index": 207
+    },
+    {
+        "text": "menili",
+        "start": 98.12,
+        "end": 98.56,
+        "index": 208
+    },
+    {
+        "text": "da",
+        "start": 98.7,
+        "end": 98.71000000000001,
+        "index": 209
+    },
+    {
+        "text": "je",
+        "start": 98.76,
+        "end": 98.86,
+        "index": 210
+    },
+    {
+        "text": "izvor",
+        "start": 98.9,
+        "end": 99.14,
+        "index": 211
+    },
+    {
+        "text": "svetlobe",
+        "start": 99.2,
+        "end": 99.8,
+        "index": 212
+    },
+    {
+        "text": "izven",
+        "start": 100.10000000000001,
+        "end": 100.42,
+        "index": 213
+    },
+    {
+        "text": "očesa",
+        "start": 100.5,
+        "end": 101.02,
+        "index": 214
+    },
+    {
+        "text": "no",
+        "start": 101.56,
+        "end": 101.62,
+        "index": 215
+    },
+    {
+        "text": "največ",
+        "start": 101.94,
+        "end": 102.42,
+        "index": 216
+    },
+    {
+        "text": "je",
+        "start": 102.52,
+        "end": 102.53,
+        "index": 217
+    },
+    {
+        "text": "na",
+        "start": 102.54,
+        "end": 102.62,
+        "index": 218
+    },
+    {
+        "text": "tem",
+        "start": 102.72,
+        "end": 102.84,
+        "index": 219
+    },
+    {
+        "text": "področju",
+        "start": 102.88,
+        "end": 103.52,
+        "index": 220
+    },
+    {
+        "text": "naredil",
+        "start": 103.64,
+        "end": 104.02,
+        "index": 221
+    },
+    {
+        "text": "arabski",
+        "start": 104.16,
+        "end": 104.78,
+        "index": 222
+    },
+    {
+        "text": "filozof",
+        "start": 104.88,
+        "end": 105.4,
+        "index": 223
+    },
+    {
+        "text": "alhazem",
+        "start": 105.5,
+        "end": 106.16,
+        "index": 224
+    },
+    {
+        "text": "v",
+        "start": 106.62,
+        "end": 106.63000000000001,
+        "index": 225
+    },
+    {
+        "text": "desetem",
+        "start": 106.66,
+        "end": 107.16,
+        "index": 226
+    },
+    {
+        "text": "stoletju",
+        "start": 107.26,
+        "end": 107.74000000000001,
+        "index": 227
+    },
+    {
+        "text": "pravilno",
+        "start": 108.82000000000001,
+        "end": 109.4,
+        "index": 228
+    },
+    {
+        "text": "je",
+        "start": 109.48,
+        "end": 109.52,
+        "index": 229
+    },
+    {
+        "text": "opisal",
+        "start": 109.56,
+        "end": 110.0,
+        "index": 230
+    },
+    {
+        "text": "barve",
+        "start": 110.14,
+        "end": 110.4,
+        "index": 231
+    },
+    {
+        "text": "sončnega",
+        "start": 110.44,
+        "end": 110.98,
+        "index": 232
+    },
+    {
+        "text": "zahoda",
+        "start": 111.04,
+        "end": 111.26,
+        "index": 233
+    },
+    {
+        "text": "in",
+        "start": 111.42,
+        "end": 111.78,
+        "index": 234
+    },
+    {
+        "text": "razliko",
+        "start": 111.98,
+        "end": 112.46000000000001,
+        "index": 235
+    },
+    {
+        "text": "sončne",
+        "start": 112.5,
+        "end": 112.98,
+        "index": 236
+    },
+    {
+        "text": "svetlobe",
+        "start": 113.06,
+        "end": 113.56,
+        "index": 237
+    },
+    {
+        "text": "zjutraj",
+        "start": 113.60000000000001,
+        "end": 114.04,
+        "index": 238
+    },
+    {
+        "text": "ali",
+        "start": 114.36,
+        "end": 114.5,
+        "index": 239
+    },
+    {
+        "text": "opoldne",
+        "start": 114.56,
+        "end": 115.14,
+        "index": 240
+    }
+]

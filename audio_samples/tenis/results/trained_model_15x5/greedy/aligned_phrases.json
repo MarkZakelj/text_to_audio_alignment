@@ -1,0 +1,1487 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "tenis je šport",
+        "text-start": 5,
+        "text-end": 12,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "i špurt",
+        "aligned": "i špurt"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "z loparjem",
+        "text-start": 13,
+        "text-end": 22,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "zloparjem",
+        "aligned": "zloparjem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "za dva",
+        "text-start": 23,
+        "text-end": 29,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "za dva",
+        "aligned": "za dva"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "nasprotna igralca",
+        "text-start": 30,
+        "text-end": 48,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "nasprotna igralvca",
+        "aligned": "nasprotna igralvca"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "ali za",
+        "text-start": 49,
+        "text-end": 55,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "ali za",
+        "aligned": "ali za"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "dve nasprotni",
+        "text-start": 56,
+        "text-end": 69,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "dve nasprotni",
+        "aligned": "dve nasprotni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "skupini s",
+        "text-start": 70,
+        "text-end": 77,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "skupini",
+        "aligned": "skupini"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "po dvema",
+        "text-start": 80,
+        "text-end": 86,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "odvema",
+        "aligned": "odvema"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "igralcema igra",
+        "text-start": 87,
+        "text-end": 100,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "igracena igra",
+        "aligned": "igracena igra"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "se na",
+        "text-start": 100,
+        "text-end": 105,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "se na",
+        "aligned": "se na"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "igrišču razdeljenim",
+        "text-start": 106,
+        "text-end": 124,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "igrišču razdeljani",
+        "aligned": "igrišču razdeljani"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "v dve",
+        "text-start": 125,
+        "text-end": 130,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "v dve",
+        "aligned": "v dve"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "polovici z",
+        "text-start": 131,
+        "text-end": 141,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "polovici z",
+        "aligned": "polovici z"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "nizko postavljeno",
+        "text-start": 142,
+        "text-end": 159,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "nizko postavljano",
+        "aligned": "nizko postavljano"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "mrežo na",
+        "text-start": 160,
+        "text-end": 167,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "mrežona",
+        "aligned": "mrežona"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "sredini igrišča",
+        "text-start": 168,
+        "text-end": 183,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "sredini igrišča",
+        "aligned": "sredini igrišča"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "igralci za",
+        "text-start": 184,
+        "text-end": 194,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "igralci za",
+        "aligned": "igralci za"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "igranje uporabljajo",
+        "text-start": 195,
+        "text-end": 213,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "igrani uporabljajo",
+        "aligned": "igrani uporabljajo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "lopar s",
+        "text-start": 214,
+        "text-end": 222,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "lopar  s",
+        "aligned": "lopar s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "katerim odbijajo",
+        "text-start": 223,
+        "text-end": 239,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "katerim odbijajo",
+        "aligned": "katerim odbijajo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "s klobučevino",
+        "text-start": 241,
+        "text-end": 252,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "krobočevino",
+        "aligned": "krobočevino"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "prekrito votlo",
+        "text-start": 253,
+        "text-end": 267,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "prekrito vodlo",
+        "aligned": "prekrito vodlo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "gumijasto žogico",
+        "text-start": 270,
+        "text-end": 282,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "jesto žugico",
+        "aligned": "jesto žugico"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "prek mreže",
+        "text-start": 283,
+        "text-end": 292,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "prekvreže",
+        "aligned": "prekvreže"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "na sredini",
+        "text-start": 292,
+        "text-end": 302,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "na sredini",
+        "aligned": "na sredini"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "igrišča na",
+        "text-start": 303,
+        "text-end": 313,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "igrišča na",
+        "aligned": "igrišča na"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "nasprotno stran",
+        "text-start": 314,
+        "text-end": 330,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "nasprotno strani",
+        "aligned": "nasprotno strani"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "igrišča če",
+        "text-start": 331,
+        "text-end": 339,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "krišč če",
+        "aligned": "krišč če"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "se žoga",
+        "text-start": 340,
+        "text-end": 347,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "se žoga",
+        "aligned": "se žoga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "na igralčevi",
+        "text-start": 348,
+        "text-end": 357,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "na igralč",
+        "aligned": "na igralč"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "strani igrišča",
+        "text-start": 362,
+        "text-end": 377,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "stranij igrišča",
+        "aligned": "stranij igrišča"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "odbije dvakrat",
+        "text-start": 378,
+        "text-end": 392,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "odbije dvakrat",
+        "aligned": "odbije dvakrat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "dobi točke",
+        "text-start": 394,
+        "text-end": 403,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "dobitočke",
+        "aligned": "dobitočke"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "nasprotnik prav",
+        "text-start": 404,
+        "text-end": 420,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": "na spropnik prav",
+        "aligned": "na spropnik prav"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "tako nasprotnik",
+        "text-start": 421,
+        "text-end": 436,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "tako nasprotnik",
+        "aligned": "tako nasprotnik"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 35,
+        "transcript": "dobi točke",
+        "text-start": 436,
+        "text-end": 446,
+        "meta": {
+            "index": [
+                35
+            ]
+        },
+        "aligned-raw": "dobi točke",
+        "aligned": "dobi točke"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 36,
+        "transcript": "če igralec",
+        "text-start": 447,
+        "text-end": 457,
+        "meta": {
+            "index": [
+                36
+            ]
+        },
+        "aligned-raw": "če igralec",
+        "aligned": "če igralec"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 37,
+        "transcript": "žoge ne",
+        "text-start": 459,
+        "text-end": 465,
+        "meta": {
+            "index": [
+                37
+            ]
+        },
+        "aligned-raw": "žogene",
+        "aligned": "žogene"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 38,
+        "transcript": "udari z",
+        "text-start": 467,
+        "text-end": 474,
+        "meta": {
+            "index": [
+                38
+            ]
+        },
+        "aligned-raw": "ddari z",
+        "aligned": "ddari z"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 39,
+        "transcript": "loparjem jo",
+        "text-start": 475,
+        "text-end": 486,
+        "meta": {
+            "index": [
+                39
+            ]
+        },
+        "aligned-raw": "loparjem jo",
+        "aligned": "loparjem jo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 40,
+        "transcript": "z udarcem",
+        "text-start": 487,
+        "text-end": 492,
+        "meta": {
+            "index": [
+                40
+            ]
+        },
+        "aligned-raw": "zudar",
+        "aligned": "zudar"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 41,
+        "transcript": "pošlje izven",
+        "text-start": 498,
+        "text-end": 505,
+        "meta": {
+            "index": [
+                41
+            ]
+        },
+        "aligned-raw": "še izve",
+        "aligned": "še izve"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 42,
+        "transcript": "nasprotnikove polovice",
+        "text-start": 506,
+        "text-end": 528,
+        "meta": {
+            "index": [
+                42
+            ]
+        },
+        "aligned-raw": "nasprotnikove polovice",
+        "aligned": "nasprotnikove polovice"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 43,
+        "transcript": "ali jo",
+        "text-start": 530,
+        "text-end": 535,
+        "meta": {
+            "index": [
+                43
+            ]
+        },
+        "aligned-raw": "ali j",
+        "aligned": "ali j"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 44,
+        "transcript": "udari z",
+        "text-start": 537,
+        "text-end": 542,
+        "meta": {
+            "index": [
+                44
+            ]
+        },
+        "aligned-raw": "udari",
+        "aligned": "udari"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 45,
+        "transcript": "loparjem ko",
+        "text-start": 543,
+        "text-end": 554,
+        "meta": {
+            "index": [
+                45
+            ]
+        },
+        "aligned-raw": "loparjem ko",
+        "aligned": "loparjem ko"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 46,
+        "transcript": "je v",
+        "text-start": 555,
+        "text-end": 559,
+        "meta": {
+            "index": [
+                46
+            ]
+        },
+        "aligned-raw": "je v",
+        "aligned": "je v"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 47,
+        "transcript": "zraku še",
+        "text-start": 559,
+        "text-end": 567,
+        "meta": {
+            "index": [
+                47
+            ]
+        },
+        "aligned-raw": "zraku še",
+        "aligned": "zraku še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 48,
+        "transcript": "na nasprotnikovi",
+        "text-start": 568,
+        "text-end": 584,
+        "meta": {
+            "index": [
+                48
+            ]
+        },
+        "aligned-raw": "na nasprodnikovi",
+        "aligned": "na nasprodnikovi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 49,
+        "transcript": "polovici športniku",
+        "text-start": 585,
+        "text-end": 602,
+        "meta": {
+            "index": [
+                49
+            ]
+        },
+        "aligned-raw": "polovic športniku",
+        "aligned": "polovic športniku"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 50,
+        "transcript": "oziroma športnici",
+        "text-start": 603,
+        "text-end": 619,
+        "meta": {
+            "index": [
+                50
+            ]
+        },
+        "aligned-raw": "oziroma špornici",
+        "aligned": "oziroma špornici"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 51,
+        "transcript": "ki se",
+        "text-start": 620,
+        "text-end": 625,
+        "meta": {
+            "index": [
+                51
+            ]
+        },
+        "aligned-raw": "ki se",
+        "aligned": "ki se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 52,
+        "transcript": "ukvarja s",
+        "text-start": 626,
+        "text-end": 635,
+        "meta": {
+            "index": [
+                52
+            ]
+        },
+        "aligned-raw": "ukvarja s",
+        "aligned": "ukvarja s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 53,
+        "transcript": "tenisom rečemo",
+        "text-start": 641,
+        "text-end": 651,
+        "meta": {
+            "index": [
+                53
+            ]
+        },
+        "aligned-raw": "som rečemo",
+        "aligned": "som rečemo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 54,
+        "transcript": "tenisač ali",
+        "text-start": 653,
+        "text-end": 663,
+        "meta": {
+            "index": [
+                54
+            ]
+        },
+        "aligned-raw": "emisač ali",
+        "aligned": "emisač ali"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 55,
+        "transcript": "teniški igralec",
+        "text-start": 663,
+        "text-end": 678,
+        "meta": {
+            "index": [
+                55
+            ]
+        },
+        "aligned-raw": "teniški igralec",
+        "aligned": "teniški igralec"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 56,
+        "transcript": "oziroma tenisačica",
+        "text-start": 680,
+        "text-end": 698,
+        "meta": {
+            "index": [
+                56
+            ]
+        },
+        "aligned-raw": "oziroma tenisačica",
+        "aligned": "oziroma tenisačica"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 57,
+        "transcript": "ali teniška",
+        "text-start": 699,
+        "text-end": 709,
+        "meta": {
+            "index": [
+                57
+            ]
+        },
+        "aligned-raw": "aliteniška",
+        "aligned": "aliteniška"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 58,
+        "transcript": "igralka tenis",
+        "text-start": 710,
+        "text-end": 723,
+        "meta": {
+            "index": [
+                58
+            ]
+        },
+        "aligned-raw": "igralka tenis",
+        "aligned": "igralka tenis"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 59,
+        "transcript": "izhaja iz",
+        "text-start": 724,
+        "text-end": 733,
+        "meta": {
+            "index": [
+                59
+            ]
+        },
+        "aligned-raw": "izhaja iz",
+        "aligned": "izhaja iz"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 60,
+        "transcript": "poznega devetnajstega",
+        "text-start": 734,
+        "text-end": 755,
+        "meta": {
+            "index": [
+                60
+            ]
+        },
+        "aligned-raw": "poznega devetnajstega",
+        "aligned": "poznega devetnajstega"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 61,
+        "transcript": "stoletja ko",
+        "text-start": 756,
+        "text-end": 767,
+        "meta": {
+            "index": [
+                61
+            ]
+        },
+        "aligned-raw": "stoletja ko",
+        "aligned": "stoletja ko"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 62,
+        "transcript": "so ga",
+        "text-start": 768,
+        "text-end": 771,
+        "meta": {
+            "index": [
+                62
+            ]
+        },
+        "aligned-raw": "so ",
+        "aligned": "so "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 63,
+        "transcript": "začeli igrati",
+        "text-start": 774,
+        "text-end": 787,
+        "meta": {
+            "index": [
+                63
+            ]
+        },
+        "aligned-raw": "začeli igrati",
+        "aligned": "začeli igrati"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 64,
+        "transcript": "v angliji",
+        "text-start": 788,
+        "text-end": 791,
+        "meta": {
+            "index": [
+                64
+            ]
+        },
+        "aligned-raw": "v a",
+        "aligned": "v a"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 65,
+        "transcript": "danes ima",
+        "text-start": 795,
+        "text-end": 804,
+        "meta": {
+            "index": [
+                65
+            ]
+        },
+        "aligned-raw": "danes ima",
+        "aligned": "danes ima"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 66,
+        "transcript": "tenis po",
+        "text-start": 804,
+        "text-end": 811,
+        "meta": {
+            "index": [
+                66
+            ]
+        },
+        "aligned-raw": "tenispo",
+        "aligned": "tenispo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 67,
+        "transcript": "vsem svetu",
+        "text-start": 811,
+        "text-end": 821,
+        "meta": {
+            "index": [
+                67
+            ]
+        },
+        "aligned-raw": "vsem svetu",
+        "aligned": "vsem svetu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 68,
+        "transcript": "na milijone",
+        "text-start": 822,
+        "text-end": 833,
+        "meta": {
+            "index": [
+                68
+            ]
+        },
+        "aligned-raw": "na milijone",
+        "aligned": "na milijone"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 69,
+        "transcript": "privržencev in",
+        "text-start": 834,
+        "text-end": 849,
+        "meta": {
+            "index": [
+                69
+            ]
+        },
+        "aligned-raw": "privoržencev in",
+        "aligned": "privoržencev in"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 70,
+        "transcript": "gledalcev profesionalni",
+        "text-start": 850,
+        "text-end": 872,
+        "meta": {
+            "index": [
+                70
+            ]
+        },
+        "aligned-raw": "gledacev profesionalni",
+        "aligned": "gledacev profesionalni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 71,
+        "transcript": "tekmovalci pa",
+        "text-start": 873,
+        "text-end": 888,
+        "meta": {
+            "index": [
+                71
+            ]
+        },
+        "aligned-raw": "tekmovalciji pa",
+        "aligned": "tekmovalciji pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 72,
+        "transcript": "so znani",
+        "text-start": 889,
+        "text-end": 897,
+        "meta": {
+            "index": [
+                72
+            ]
+        },
+        "aligned-raw": "so znani",
+        "aligned": "so znani"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 73,
+        "transcript": "po dobrem",
+        "text-start": 899,
+        "text-end": 906,
+        "meta": {
+            "index": [
+                73
+            ]
+        },
+        "aligned-raw": "odobrem",
+        "aligned": "odobrem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 74,
+        "transcript": "zaslužku med",
+        "text-start": 907,
+        "text-end": 919,
+        "meta": {
+            "index": [
+                74
+            ]
+        },
+        "aligned-raw": "zaslušku med",
+        "aligned": "zaslušku med"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 75,
+        "transcript": "številnimi mednarodnimi",
+        "text-start": 920,
+        "text-end": 943,
+        "meta": {
+            "index": [
+                75
+            ]
+        },
+        "aligned-raw": "številnimi mednarodnimi",
+        "aligned": "številnimi mednarodnimi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 76,
+        "transcript": "teniškimi turnirji",
+        "text-start": 944,
+        "text-end": 963,
+        "meta": {
+            "index": [
+                76
+            ]
+        },
+        "aligned-raw": "teniškimi tudmiriji",
+        "aligned": "teniškimi tudmiriji"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 77,
+        "transcript": "so še",
+        "text-start": 964,
+        "text-end": 969,
+        "meta": {
+            "index": [
+                77
+            ]
+        },
+        "aligned-raw": "so še",
+        "aligned": "so še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 78,
+        "transcript": "posebej cenjeni",
+        "text-start": 970,
+        "text-end": 982,
+        "meta": {
+            "index": [
+                78
+            ]
+        },
+        "aligned-raw": "posebej ceni",
+        "aligned": "posebej ceni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 79,
+        "transcript": "turnirji odprto",
+        "text-start": 986,
+        "text-end": 1000,
+        "meta": {
+            "index": [
+                79
+            ]
+        },
+        "aligned-raw": "torniri odprto",
+        "aligned": "torniri odprto"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 80,
+        "transcript": "prvenstvo avstralije",
+        "text-start": 1001,
+        "text-end": 1022,
+        "meta": {
+            "index": [
+                80
+            ]
+        },
+        "aligned-raw": "prvenstvuo avstralije",
+        "aligned": "prvenstvuo avstralije"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 81,
+        "transcript": "odprto prvenstvo",
+        "text-start": 1023,
+        "text-end": 1040,
+        "meta": {
+            "index": [
+                81
+            ]
+        },
+        "aligned-raw": "odprto prvenstvuo",
+        "aligned": "odprto prvenstvuo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 82,
+        "transcript": "francije odprto",
+        "text-start": 1041,
+        "text-end": 1055,
+        "meta": {
+            "index": [
+                82
+            ]
+        },
+        "aligned-raw": "francije v prt",
+        "aligned": "francije v prt"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 83,
+        "transcript": "prvenstvo anglije",
+        "text-start": 1063,
+        "text-end": 1078,
+        "meta": {
+            "index": [
+                83
+            ]
+        },
+        "aligned-raw": "prvenstvu alije",
+        "aligned": "prvenstvu alije"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 84,
+        "transcript": "in odprto",
+        "text-start": 1080,
+        "text-end": 1089,
+        "meta": {
+            "index": [
+                84
+            ]
+        },
+        "aligned-raw": "in odprto",
+        "aligned": "in odprto"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 85,
+        "transcript": "prvenstvo zda",
+        "text-start": 1090,
+        "text-end": 1103,
+        "meta": {
+            "index": [
+                85
+            ]
+        },
+        "aligned-raw": "prvenstvo zda",
+        "aligned": "prvenstvo zda"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 86,
+        "transcript": "zmaga na",
+        "text-start": 1104,
+        "text-end": 1111,
+        "meta": {
+            "index": [
+                86
+            ]
+        },
+        "aligned-raw": "zmagana",
+        "aligned": "zmagana"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 87,
+        "transcript": "vseh teh",
+        "text-start": 1112,
+        "text-end": 1120,
+        "meta": {
+            "index": [
+                87
+            ]
+        },
+        "aligned-raw": "vseh teh",
+        "aligned": "vseh teh"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 88,
+        "transcript": "štirih turnirjih",
+        "text-start": 1121,
+        "text-end": 1137,
+        "meta": {
+            "index": [
+                88
+            ]
+        },
+        "aligned-raw": "štirih tohnirjih",
+        "aligned": "štirih tohnirjih"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 89,
+        "transcript": "v eni",
+        "text-start": 1138,
+        "text-end": 1143,
+        "meta": {
+            "index": [
+                89
+            ]
+        },
+        "aligned-raw": "v eni",
+        "aligned": "v eni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 90,
+        "transcript": "sezoni se",
+        "text-start": 1144,
+        "text-end": 1153,
+        "meta": {
+            "index": [
+                90
+            ]
+        },
+        "aligned-raw": "sozoni se",
+        "aligned": "sozoni se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 91,
+        "transcript": "imenuje pravi",
+        "text-start": 1153,
+        "text-end": 1166,
+        "meta": {
+            "index": [
+                91
+            ]
+        },
+        "aligned-raw": "imenuje pravi",
+        "aligned": "imenuje pravi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 92,
+        "transcript": "grand slam",
+        "text-start": 1170,
+        "text-end": 1173,
+        "meta": {
+            "index": [
+                92
+            ]
+        },
+        "aligned-raw": "nsl",
+        "aligned": "nsl"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 93,
+        "transcript": "in velja",
+        "text-start": 1175,
+        "text-end": 1183,
+        "meta": {
+            "index": [
+                93
+            ]
+        },
+        "aligned-raw": "in velja",
+        "aligned": "in velja"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 94,
+        "transcript": "za krono",
+        "text-start": 1184,
+        "text-end": 1192,
+        "meta": {
+            "index": [
+                94
+            ]
+        },
+        "aligned-raw": "za krono",
+        "aligned": "za krono"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 95,
+        "transcript": "kariere teniškega",
+        "text-start": 1193,
+        "text-end": 1210,
+        "meta": {
+            "index": [
+                95
+            ]
+        },
+        "aligned-raw": "kariere teniškega",
+        "aligned": "kariere teniškega"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 96,
+        "transcript": "igralca tenis",
+        "text-start": 1211,
+        "text-end": 1223,
+        "meta": {
+            "index": [
+                96
+            ]
+        },
+        "aligned-raw": "graca tenisi",
+        "aligned": "graca tenisi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 97,
+        "transcript": "je tudi",
+        "text-start": 1224,
+        "text-end": 1231,
+        "meta": {
+            "index": [
+                97
+            ]
+        },
+        "aligned-raw": "je tudi",
+        "aligned": "je tudi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 98,
+        "transcript": "olimpijski šport",
+        "text-start": 1232,
+        "text-end": 1247,
+        "meta": {
+            "index": [
+                98
+            ]
+        },
+        "aligned-raw": "limpijski šport",
+        "aligned": "limpijski šport"
+    }
+]

@@ -1,0 +1,1760 @@
+[
+    {
+        "text": "stare",
+        "start": 1.84,
+        "end": 2.18,
+        "index": 0
+    },
+    {
+        "text": "kmečke",
+        "start": 2.24,
+        "end": 2.66,
+        "index": 1
+    },
+    {
+        "text": "hiše",
+        "start": 2.7,
+        "end": 3.02,
+        "index": 2
+    },
+    {
+        "text": "nekuoč",
+        "start": 3.74,
+        "end": 4.0200000000000005,
+        "index": 3
+    },
+    {
+        "text": "so",
+        "start": 4.0600000000000005,
+        "end": 4.16,
+        "index": 4
+    },
+    {
+        "text": "ble",
+        "start": 4.22,
+        "end": 4.32,
+        "index": 5
+    },
+    {
+        "text": "hiše",
+        "start": 4.36,
+        "end": 4.72,
+        "index": 6
+    },
+    {
+        "text": "čist",
+        "start": 4.82,
+        "end": 5.0200000000000005,
+        "index": 7
+    },
+    {
+        "text": "drgačne",
+        "start": 5.0600000000000005,
+        "end": 5.64,
+        "index": 8
+    },
+    {
+        "text": "sploh",
+        "start": 6.26,
+        "end": 6.42,
+        "index": 9
+    },
+    {
+        "text": "nisu",
+        "start": 6.5200000000000005,
+        "end": 6.74,
+        "index": 10
+    },
+    {
+        "text": "ble",
+        "start": 7.0,
+        "end": 7.0600000000000005,
+        "index": 11
+    },
+    {
+        "text": "tuk",
+        "start": 7.12,
+        "end": 7.3,
+        "index": 12
+    },
+    {
+        "text": "vlke",
+        "start": 7.4,
+        "end": 7.7,
+        "index": 13
+    },
+    {
+        "text": "pa",
+        "start": 7.74,
+        "end": 7.84,
+        "index": 14
+    },
+    {
+        "text": "visuoke",
+        "start": 7.92,
+        "end": 8.16,
+        "index": 15
+    },
+    {
+        "text": "kukr",
+        "start": 8.16,
+        "end": 8.4,
+        "index": 16
+    },
+    {
+        "text": "so",
+        "start": 8.72,
+        "end": 8.8,
+        "index": 17
+    },
+    {
+        "text": "pa",
+        "start": 8.84,
+        "end": 8.94,
+        "index": 18
+    },
+    {
+        "text": "zej",
+        "start": 9.02,
+        "end": 9.16,
+        "index": 19
+    },
+    {
+        "text": "mele",
+        "start": 9.84,
+        "end": 10.14,
+        "index": 20
+    },
+    {
+        "text": "so",
+        "start": 10.22,
+        "end": 10.23,
+        "index": 21
+    },
+    {
+        "text": "mejhne",
+        "start": 10.3,
+        "end": 10.44,
+        "index": 22
+    },
+    {
+        "text": "uokne",
+        "start": 10.84,
+        "end": 11.14,
+        "index": 23
+    },
+    {
+        "text": "pa",
+        "start": 11.3,
+        "end": 11.42,
+        "index": 24
+    },
+    {
+        "text": "slamnate",
+        "start": 11.48,
+        "end": 11.56,
+        "index": 25
+    },
+    {
+        "text": "strehe",
+        "start": 11.56,
+        "end": 11.620000000000001,
+        "index": 26
+    },
+    {
+        "text": "jes",
+        "start": 13.200000000000001,
+        "end": 13.22,
+        "index": 27
+    },
+    {
+        "text": "se",
+        "start": 13.26,
+        "end": 13.34,
+        "index": 28
+    },
+    {
+        "text": "še",
+        "start": 13.42,
+        "end": 13.43,
+        "index": 29
+    },
+    {
+        "text": "spounem",
+        "start": 13.48,
+        "end": 13.86,
+        "index": 30
+    },
+    {
+        "text": "jene",
+        "start": 13.92,
+        "end": 14.1,
+        "index": 31
+    },
+    {
+        "text": "take",
+        "start": 14.14,
+        "end": 14.46,
+        "index": 32
+    },
+    {
+        "text": "bla",
+        "start": 15.200000000000001,
+        "end": 15.280000000000001,
+        "index": 33
+    },
+    {
+        "text": "je",
+        "start": 15.3,
+        "end": 15.38,
+        "index": 34
+    },
+    {
+        "text": "cela",
+        "start": 15.48,
+        "end": 15.540000000000001,
+        "index": 35
+    },
+    {
+        "text": "iz",
+        "start": 15.540000000000001,
+        "end": 15.64,
+        "index": 36
+    },
+    {
+        "text": "leisa",
+        "start": 15.94,
+        "end": 16.22,
+        "index": 37
+    },
+    {
+        "text": "nrjena",
+        "start": 16.26,
+        "end": 16.64,
+        "index": 38
+    },
+    {
+        "text": "in",
+        "start": 17.04,
+        "end": 17.05,
+        "index": 39
+    },
+    {
+        "text": "ku",
+        "start": 17.06,
+        "end": 17.14,
+        "index": 40
+    },
+    {
+        "text": "si",
+        "start": 17.28,
+        "end": 17.290000000000003,
+        "index": 41
+    },
+    {
+        "text": "stuopu",
+        "start": 17.34,
+        "end": 17.56,
+        "index": 42
+    },
+    {
+        "text": "u",
+        "start": 17.76,
+        "end": 17.770000000000003,
+        "index": 43
+    },
+    {
+        "text": "bajto",
+        "start": 17.76,
+        "end": 18.18,
+        "index": 44
+    },
+    {
+        "text": "je",
+        "start": 18.76,
+        "end": 18.8,
+        "index": 45
+    },
+    {
+        "text": "bla",
+        "start": 18.84,
+        "end": 18.96,
+        "index": 46
+    },
+    {
+        "text": "nartapru",
+        "start": 19.06,
+        "end": 19.54,
+        "index": 47
+    },
+    {
+        "text": "vieža",
+        "start": 19.54,
+        "end": 20.06,
+        "index": 48
+    },
+    {
+        "text": "puopa",
+        "start": 20.3,
+        "end": 20.44,
+        "index": 49
+    },
+    {
+        "text": "čarna",
+        "start": 20.5,
+        "end": 20.86,
+        "index": 50
+    },
+    {
+        "text": "kuhja",
+        "start": 21.18,
+        "end": 21.26,
+        "index": 51
+    },
+    {
+        "text": "kjier",
+        "start": 21.72,
+        "end": 21.84,
+        "index": 52
+    },
+    {
+        "text": "so",
+        "start": 21.96,
+        "end": 21.970000000000002,
+        "index": 53
+    },
+    {
+        "text": "žienske",
+        "start": 22.04,
+        "end": 22.46,
+        "index": 54
+    },
+    {
+        "text": "kuhale",
+        "start": 22.56,
+        "end": 22.92,
+        "index": 55
+    },
+    {
+        "text": "pa",
+        "start": 22.96,
+        "end": 23.06,
+        "index": 56
+    },
+    {
+        "text": "piekle",
+        "start": 23.36,
+        "end": 24.46,
+        "index": 57
+    },
+    {
+        "text": "iz",
+        "start": 24.54,
+        "end": 24.6,
+        "index": 58
+    },
+    {
+        "text": "vieže",
+        "start": 24.68,
+        "end": 24.98,
+        "index": 59
+    },
+    {
+        "text": "se",
+        "start": 25.0,
+        "end": 25.12,
+        "index": 60
+    },
+    {
+        "text": "je",
+        "start": 25.14,
+        "end": 25.150000000000002,
+        "index": 61
+    },
+    {
+        "text": "šlu",
+        "start": 25.18,
+        "end": 25.34,
+        "index": 62
+    },
+    {
+        "text": "na",
+        "start": 25.48,
+        "end": 25.490000000000002,
+        "index": 63
+    },
+    {
+        "text": "levo",
+        "start": 25.48,
+        "end": 25.64,
+        "index": 64
+    },
+    {
+        "text": "u",
+        "start": 25.900000000000002,
+        "end": 25.910000000000004,
+        "index": 65
+    },
+    {
+        "text": "hišo",
+        "start": 25.94,
+        "end": 26.38,
+        "index": 66
+    },
+    {
+        "text": "čs",
+        "start": 27.1,
+        "end": 27.110000000000003,
+        "index": 67
+    },
+    {
+        "text": "tto",
+        "start": 27.18,
+        "end": 27.240000000000002,
+        "index": 68
+    },
+    {
+        "text": "suobo",
+        "start": 27.560000000000002,
+        "end": 27.68,
+        "index": 69
+    },
+    {
+        "text": "pa",
+        "start": 27.72,
+        "end": 27.78,
+        "index": 70
+    },
+    {
+        "text": "u",
+        "start": 27.84,
+        "end": 27.85,
+        "index": 71
+    },
+    {
+        "text": "štiblc",
+        "start": 27.86,
+        "end": 28.38,
+        "index": 72
+    },
+    {
+        "text": "u",
+        "start": 29.060000000000002,
+        "end": 29.070000000000004,
+        "index": 73
+    },
+    {
+        "text": "hiš",
+        "start": 29.1,
+        "end": 29.42,
+        "index": 74
+    },
+    {
+        "text": "je",
+        "start": 29.72,
+        "end": 29.76,
+        "index": 75
+    },
+    {
+        "text": "bla",
+        "start": 29.8,
+        "end": 29.94,
+        "index": 76
+    },
+    {
+        "text": "u",
+        "start": 30.36,
+        "end": 30.37,
+        "index": 77
+    },
+    {
+        "text": "enem",
+        "start": 30.38,
+        "end": 30.64,
+        "index": 78
+    },
+    {
+        "text": "kuoti",
+        "start": 30.72,
+        "end": 30.98,
+        "index": 79
+    },
+    {
+        "text": "miza",
+        "start": 31.02,
+        "end": 31.32,
+        "index": 80
+    },
+    {
+        "text": "zram",
+        "start": 32.04,
+        "end": 32.1,
+        "index": 81
+    },
+    {
+        "text": "pa",
+        "start": 32.14,
+        "end": 32.2,
+        "index": 82
+    },
+    {
+        "text": "dvei",
+        "start": 32.26,
+        "end": 32.32,
+        "index": 83
+    },
+    {
+        "text": "klupi",
+        "start": 32.38,
+        "end": 32.54,
+        "index": 84
+    },
+    {
+        "text": "pa",
+        "start": 33.02,
+        "end": 33.08,
+        "index": 85
+    },
+    {
+        "text": "še",
+        "start": 33.12,
+        "end": 33.2,
+        "index": 86
+    },
+    {
+        "text": "kak",
+        "start": 33.28,
+        "end": 33.34,
+        "index": 87
+    },
+    {
+        "text": "stou",
+        "start": 33.42,
+        "end": 33.64,
+        "index": 88
+    },
+    {
+        "text": "u",
+        "start": 33.72,
+        "end": 33.73,
+        "index": 89
+    },
+    {
+        "text": "drugem",
+        "start": 34.58,
+        "end": 34.96,
+        "index": 90
+    },
+    {
+        "text": "kuoti",
+        "start": 35.04,
+        "end": 35.300000000000004,
+        "index": 91
+    },
+    {
+        "text": "pa",
+        "start": 35.34,
+        "end": 35.44,
+        "index": 92
+    },
+    {
+        "text": "pieč",
+        "start": 35.56,
+        "end": 35.82,
+        "index": 93
+    },
+    {
+        "text": "kij",
+        "start": 35.96,
+        "end": 36.06,
+        "index": 94
+    },
+    {
+        "text": "mela",
+        "start": 36.18,
+        "end": 36.34,
+        "index": 95
+    },
+    {
+        "text": "tut",
+        "start": 36.4,
+        "end": 36.58,
+        "index": 96
+    },
+    {
+        "text": "kluop",
+        "start": 37.1,
+        "end": 37.160000000000004,
+        "index": 97
+    },
+    {
+        "text": "ukul",
+        "start": 37.22,
+        "end": 37.300000000000004,
+        "index": 98
+    },
+    {
+        "text": "nrjeno",
+        "start": 37.44,
+        "end": 37.58,
+        "index": 99
+    },
+    {
+        "text": "de",
+        "start": 37.7,
+        "end": 38.12,
+        "index": 100
+    },
+    {
+        "text": "si",
+        "start": 38.28,
+        "end": 38.36,
+        "index": 101
+    },
+    {
+        "text": "si",
+        "start": 38.4,
+        "end": 38.5,
+        "index": 102
+    },
+    {
+        "text": "lahka",
+        "start": 38.58,
+        "end": 38.86,
+        "index": 103
+    },
+    {
+        "text": "mal",
+        "start": 38.88,
+        "end": 39.08,
+        "index": 104
+    },
+    {
+        "text": "uddahnu",
+        "start": 39.300000000000004,
+        "end": 39.62,
+        "index": 105
+    },
+    {
+        "text": "če",
+        "start": 39.62,
+        "end": 39.72,
+        "index": 106
+    },
+    {
+        "text": "si",
+        "start": 39.800000000000004,
+        "end": 39.81,
+        "index": 107
+    },
+    {
+        "text": "biu",
+        "start": 39.86,
+        "end": 39.980000000000004,
+        "index": 108
+    },
+    {
+        "text": "zmatran",
+        "start": 40.14,
+        "end": 40.58,
+        "index": 109
+    },
+    {
+        "text": "kr",
+        "start": 41.480000000000004,
+        "end": 41.64,
+        "index": 110
+    },
+    {
+        "text": "u",
+        "start": 41.74,
+        "end": 41.75,
+        "index": 111
+    },
+    {
+        "text": "istem",
+        "start": 41.74,
+        "end": 42.08,
+        "index": 112
+    },
+    {
+        "text": "placi",
+        "start": 42.14,
+        "end": 42.5,
+        "index": 113
+    },
+    {
+        "text": "je",
+        "start": 42.68,
+        "end": 42.78,
+        "index": 114
+    },
+    {
+        "text": "bla",
+        "start": 42.84,
+        "end": 42.96,
+        "index": 115
+    },
+    {
+        "text": "še",
+        "start": 43.04,
+        "end": 43.160000000000004,
+        "index": 116
+    },
+    {
+        "text": "jena",
+        "start": 43.26,
+        "end": 43.4,
+        "index": 117
+    },
+    {
+        "text": "puojsla",
+        "start": 43.46,
+        "end": 43.92,
+        "index": 118
+    },
+    {
+        "text": "kjer",
+        "start": 44.06,
+        "end": 44.14,
+        "index": 119
+    },
+    {
+        "text": "sta",
+        "start": 44.2,
+        "end": 44.36,
+        "index": 120
+    },
+    {
+        "text": "spala",
+        "start": 44.5,
+        "end": 44.84,
+        "index": 121
+    },
+    {
+        "text": "ate",
+        "start": 44.88,
+        "end": 45.18,
+        "index": 122
+    },
+    {
+        "text": "pa",
+        "start": 45.26,
+        "end": 45.269999999999996,
+        "index": 123
+    },
+    {
+        "text": "mama",
+        "start": 45.32,
+        "end": 45.46,
+        "index": 124
+    },
+    {
+        "text": "zraun",
+        "start": 46.36,
+        "end": 46.44,
+        "index": 125
+    },
+    {
+        "text": "je",
+        "start": 46.44,
+        "end": 46.480000000000004,
+        "index": 126
+    },
+    {
+        "text": "bla",
+        "start": 46.74,
+        "end": 46.82,
+        "index": 127
+    },
+    {
+        "text": "pa",
+        "start": 46.92,
+        "end": 47.02,
+        "index": 128
+    },
+    {
+        "text": "še",
+        "start": 47.1,
+        "end": 47.11,
+        "index": 129
+    },
+    {
+        "text": "zibuka",
+        "start": 47.2,
+        "end": 47.58,
+        "index": 130
+    },
+    {
+        "text": "čeje",
+        "start": 48.02,
+        "end": 48.06,
+        "index": 131
+    },
+    {
+        "text": "biu",
+        "start": 48.1,
+        "end": 48.160000000000004,
+        "index": 132
+    },
+    {
+        "text": "kir",
+        "start": 48.32,
+        "end": 48.38,
+        "index": 133
+    },
+    {
+        "text": "uotrk",
+        "start": 48.42,
+        "end": 48.7,
+        "index": 134
+    },
+    {
+        "text": "res",
+        "start": 49.06,
+        "end": 49.14,
+        "index": 135
+    },
+    {
+        "text": "še",
+        "start": 49.160000000000004,
+        "end": 49.28,
+        "index": 136
+    },
+    {
+        "text": "mejhn",
+        "start": 49.38,
+        "end": 49.5,
+        "index": 137
+    },
+    {
+        "text": "cuot",
+        "start": 49.6,
+        "end": 49.7,
+        "index": 138
+    },
+    {
+        "text": "niso",
+        "start": 50.94,
+        "end": 51.1,
+        "index": 139
+    },
+    {
+        "text": "mel",
+        "start": 51.18,
+        "end": 51.300000000000004,
+        "index": 140
+    },
+    {
+        "text": "velik",
+        "start": 51.42,
+        "end": 51.7,
+        "index": 141
+    },
+    {
+        "text": "spraulene",
+        "start": 52.24,
+        "end": 52.82,
+        "index": 142
+    },
+    {
+        "text": "so",
+        "start": 52.9,
+        "end": 52.91,
+        "index": 143
+    },
+    {
+        "text": "mel",
+        "start": 52.980000000000004,
+        "end": 53.06,
+        "index": 144
+    },
+    {
+        "text": "kr",
+        "start": 53.26,
+        "end": 53.269999999999996,
+        "index": 145
+    },
+    {
+        "text": "u",
+        "start": 53.36,
+        "end": 53.37,
+        "index": 146
+    },
+    {
+        "text": "vieš",
+        "start": 53.56,
+        "end": 53.84,
+        "index": 147
+    },
+    {
+        "text": "ueni",
+        "start": 53.84,
+        "end": 54.14,
+        "index": 148
+    },
+    {
+        "text": "umar",
+        "start": 54.34,
+        "end": 55.22,
+        "index": 149
+    },
+    {
+        "text": "nktiri",
+        "start": 55.28,
+        "end": 55.68,
+        "index": 150
+    },
+    {
+        "text": "su",
+        "start": 55.88,
+        "end": 55.89,
+        "index": 151
+    },
+    {
+        "text": "mel",
+        "start": 55.9,
+        "end": 56.06,
+        "index": 152
+    },
+    {
+        "text": "puol",
+        "start": 56.26,
+        "end": 56.44,
+        "index": 153
+    },
+    {
+        "text": "še",
+        "start": 56.46,
+        "end": 56.54,
+        "index": 154
+    },
+    {
+        "text": "kaku",
+        "start": 56.88,
+        "end": 56.92,
+        "index": 155
+    },
+    {
+        "text": "mejnšo",
+        "start": 56.92,
+        "end": 57.08,
+        "index": 156
+    },
+    {
+        "text": "skrinco",
+        "start": 57.36,
+        "end": 57.800000000000004,
+        "index": 157
+    },
+    {
+        "text": "kamr",
+        "start": 57.800000000000004,
+        "end": 58.42,
+        "index": 158
+    },
+    {
+        "text": "so",
+        "start": 58.64,
+        "end": 58.65,
+        "index": 159
+    },
+    {
+        "text": "spraulal",
+        "start": 58.72,
+        "end": 59.14,
+        "index": 160
+    },
+    {
+        "text": "blaguslouleno",
+        "start": 59.4,
+        "end": 59.88,
+        "index": 161
+    },
+    {
+        "text": "uodo",
+        "start": 59.88,
+        "end": 59.980000000000004,
+        "index": 162
+    },
+    {
+        "text": "al",
+        "start": 60.34,
+        "end": 60.38,
+        "index": 163
+    },
+    {
+        "text": "pa",
+        "start": 60.42,
+        "end": 60.52,
+        "index": 164
+    },
+    {
+        "text": "kak",
+        "start": 60.58,
+        "end": 60.64,
+        "index": 165
+    },
+    {
+        "text": "cveit",
+        "start": 60.7,
+        "end": 61.0,
+        "index": 166
+    },
+    {
+        "text": "če",
+        "start": 61.28,
+        "end": 61.29,
+        "index": 167
+    },
+    {
+        "text": "sij",
+        "start": 61.34,
+        "end": 61.52,
+        "index": 168
+    },
+    {
+        "text": "kir",
+        "start": 61.72,
+        "end": 61.78,
+        "index": 169
+    },
+    {
+        "text": "kej",
+        "start": 61.84,
+        "end": 61.980000000000004,
+        "index": 170
+    },
+    {
+        "text": "nariedu",
+        "start": 62.08,
+        "end": 62.28,
+        "index": 171
+    },
+    {
+        "text": "dej",
+        "start": 62.4,
+        "end": 62.86,
+        "index": 172
+    },
+    {
+        "text": "blu",
+        "start": 63.06,
+        "end": 63.160000000000004,
+        "index": 173
+    },
+    {
+        "text": "za",
+        "start": 63.22,
+        "end": 63.34,
+        "index": 174
+    },
+    {
+        "text": "raskušt",
+        "start": 63.88,
+        "end": 63.940000000000005,
+        "index": 175
+    },
+    {
+        "text": "nie",
+        "start": 63.940000000000005,
+        "end": 64.08,
+        "index": 176
+    },
+    {
+        "text": "puodn",
+        "start": 65.26,
+        "end": 65.4,
+        "index": 177
+    },
+    {
+        "text": "je",
+        "start": 65.44,
+        "end": 65.46000000000001,
+        "index": 178
+    },
+    {
+        "text": "biu",
+        "start": 65.62,
+        "end": 65.66,
+        "index": 179
+    },
+    {
+        "text": "tut",
+        "start": 65.66,
+        "end": 65.8,
+        "index": 180
+    },
+    {
+        "text": "lesien",
+        "start": 65.96000000000001,
+        "end": 66.32000000000001,
+        "index": 181
+    },
+    {
+        "text": "edin",
+        "start": 66.32000000000001,
+        "end": 66.94,
+        "index": 182
+    },
+    {
+        "text": "u",
+        "start": 67.1,
+        "end": 67.11,
+        "index": 183
+    },
+    {
+        "text": "črni",
+        "start": 67.1,
+        "end": 67.44,
+        "index": 184
+    },
+    {
+        "text": "kuhji",
+        "start": 67.62,
+        "end": 67.9,
+        "index": 185
+    },
+    {
+        "text": "so",
+        "start": 67.9,
+        "end": 67.94,
+        "index": 186
+    },
+    {
+        "text": "mel",
+        "start": 68.14,
+        "end": 68.2,
+        "index": 187
+    },
+    {
+        "text": "pu",
+        "start": 68.26,
+        "end": 68.38,
+        "index": 188
+    },
+    {
+        "text": "tleih",
+        "start": 68.5,
+        "end": 68.7,
+        "index": 189
+    },
+    {
+        "text": "iluco",
+        "start": 68.76,
+        "end": 69.24,
+        "index": 190
+    },
+    {
+        "text": "d",
+        "start": 69.32000000000001,
+        "end": 69.33000000000001,
+        "index": 191
+    },
+    {
+        "text": "se",
+        "start": 69.32000000000001,
+        "end": 69.4,
+        "index": 192
+    },
+    {
+        "text": "niebi",
+        "start": 69.44,
+        "end": 69.72,
+        "index": 193
+    },
+    {
+        "text": "kej",
+        "start": 69.78,
+        "end": 69.92,
+        "index": 194
+    },
+    {
+        "text": "užgal",
+        "start": 70.0,
+        "end": 70.36,
+        "index": 195
+    },
+    {
+        "text": "usaki",
+        "start": 71.34,
+        "end": 71.8,
+        "index": 196
+    },
+    {
+        "text": "hiš",
+        "start": 71.9,
+        "end": 72.18,
+        "index": 197
+    },
+    {
+        "text": "je",
+        "start": 72.38,
+        "end": 72.48,
+        "index": 198
+    },
+    {
+        "text": "bla",
+        "start": 72.54,
+        "end": 72.58,
+        "index": 199
+    },
+    {
+        "text": "tiedi",
+        "start": 72.64,
+        "end": 73.10000000000001,
+        "index": 200
+    },
+    {
+        "text": "tut",
+        "start": 73.34,
+        "end": 73.38,
+        "index": 201
+    },
+    {
+        "text": "še",
+        "start": 73.42,
+        "end": 73.5,
+        "index": 202
+    },
+    {
+        "text": "špajza",
+        "start": 73.58,
+        "end": 74.06,
+        "index": 203
+    },
+    {
+        "text": "učasih",
+        "start": 74.62,
+        "end": 75.04,
+        "index": 204
+    },
+    {
+        "text": "pa",
+        "start": 75.14,
+        "end": 75.15,
+        "index": 205
+    },
+    {
+        "text": "še",
+        "start": 75.2,
+        "end": 75.28,
+        "index": 206
+    },
+    {
+        "text": "kak",
+        "start": 75.52,
+        "end": 75.66,
+        "index": 207
+    },
+    {
+        "text": "kieudr",
+        "start": 75.66,
+        "end": 75.9,
+        "index": 208
+    },
+    {
+        "text": "stranišče",
+        "start": 76.82000000000001,
+        "end": 77.38,
+        "index": 209
+    },
+    {
+        "text": "je",
+        "start": 77.4,
+        "end": 77.46000000000001,
+        "index": 210
+    },
+    {
+        "text": "blu",
+        "start": 77.52,
+        "end": 77.62,
+        "index": 211
+    },
+    {
+        "text": "uzuni",
+        "start": 77.66,
+        "end": 78.08,
+        "index": 212
+    },
+    {
+        "text": "riekl",
+        "start": 78.4,
+        "end": 78.62,
+        "index": 213
+    },
+    {
+        "text": "so",
+        "start": 78.62,
+        "end": 78.72,
+        "index": 214
+    },
+    {
+        "text": "mu",
+        "start": 78.92,
+        "end": 78.93,
+        "index": 215
+    },
+    {
+        "text": "pa",
+        "start": 78.98,
+        "end": 79.10000000000001,
+        "index": 216
+    },
+    {
+        "text": "sekriet",
+        "start": 79.18,
+        "end": 79.64,
+        "index": 217
+    },
+    {
+        "text": "al",
+        "start": 79.84,
+        "end": 79.94,
+        "index": 218
+    },
+    {
+        "text": "pa",
+        "start": 80.04,
+        "end": 80.05000000000001,
+        "index": 219
+    },
+    {
+        "text": "kr",
+        "start": 80.10000000000001,
+        "end": 80.18,
+        "index": 220
+    },
+    {
+        "text": "štrbunk",
+        "start": 80.36,
+        "end": 80.86,
+        "index": 221
+    },
+    {
+        "text": "ene",
+        "start": 81.76,
+        "end": 82.02,
+        "index": 222
+    },
+    {
+        "text": "hiše",
+        "start": 82.10000000000001,
+        "end": 82.44,
+        "index": 223
+    },
+    {
+        "text": "so",
+        "start": 82.62,
+        "end": 82.78,
+        "index": 224
+    },
+    {
+        "text": "mele",
+        "start": 82.86,
+        "end": 83.02,
+        "index": 225
+    },
+    {
+        "text": "puol",
+        "start": 83.08,
+        "end": 83.32000000000001,
+        "index": 226
+    },
+    {
+        "text": "tut",
+        "start": 83.44,
+        "end": 83.58,
+        "index": 227
+    },
+    {
+        "text": "še",
+        "start": 83.60000000000001,
+        "end": 83.74,
+        "index": 228
+    },
+    {
+        "text": "zguori",
+        "start": 83.82000000000001,
+        "end": 83.94,
+        "index": 229
+    },
+    {
+        "text": "en",
+        "start": 83.96000000000001,
+        "end": 84.06,
+        "index": 230
+    },
+    {
+        "text": "plac",
+        "start": 84.34,
+        "end": 84.58,
+        "index": 231
+    },
+    {
+        "text": "za",
+        "start": 84.62,
+        "end": 84.7,
+        "index": 232
+    },
+    {
+        "text": "spat",
+        "start": 84.78,
+        "end": 85.08,
+        "index": 233
+    },
+    {
+        "text": "temu",
+        "start": 85.52,
+        "end": 85.84,
+        "index": 234
+    },
+    {
+        "text": "so",
+        "start": 85.94,
+        "end": 85.95,
+        "index": 235
+    },
+    {
+        "text": "riekl",
+        "start": 86.0,
+        "end": 86.26,
+        "index": 236
+    },
+    {
+        "text": "pajzlc",
+        "start": 86.86,
+        "end": 87.10000000000001,
+        "index": 237
+    },
+    {
+        "text": "u",
+        "start": 87.54,
+        "end": 87.55000000000001,
+        "index": 238
+    },
+    {
+        "text": "ktirga",
+        "start": 87.72,
+        "end": 88.18,
+        "index": 239
+    },
+    {
+        "text": "si",
+        "start": 88.42,
+        "end": 88.58,
+        "index": 240
+    },
+    {
+        "text": "muogu",
+        "start": 88.66,
+        "end": 88.9,
+        "index": 241
+    },
+    {
+        "text": "splezat",
+        "start": 88.94,
+        "end": 89.4,
+        "index": 242
+    },
+    {
+        "text": "pu",
+        "start": 89.82000000000001,
+        "end": 89.83000000000001,
+        "index": 243
+    },
+    {
+        "text": "luojtri",
+        "start": 89.88,
+        "end": 90.82000000000001,
+        "index": 244
+    },
+    {
+        "text": "tam",
+        "start": 90.9,
+        "end": 90.94,
+        "index": 245
+    },
+    {
+        "text": "ku",
+        "start": 91.0,
+        "end": 91.06,
+        "index": 246
+    },
+    {
+        "text": "pa",
+        "start": 91.26,
+        "end": 91.27000000000001,
+        "index": 247
+    },
+    {
+        "text": "niblu",
+        "start": 91.32000000000001,
+        "end": 91.54,
+        "index": 248
+    },
+    {
+        "text": "pajzlca",
+        "start": 91.60000000000001,
+        "end": 92.04,
+        "index": 249
+    },
+    {
+        "text": "so",
+        "start": 92.22,
+        "end": 92.34,
+        "index": 250
+    },
+    {
+        "text": "mel",
+        "start": 92.5,
+        "end": 92.56,
+        "index": 251
+    },
+    {
+        "text": "pa",
+        "start": 92.60000000000001,
+        "end": 92.66,
+        "index": 252
+    },
+    {
+        "text": "kr",
+        "start": 92.8,
+        "end": 92.81,
+        "index": 253
+    },
+    {
+        "text": "streho",
+        "start": 92.92,
+        "end": 93.34,
+        "index": 254
+    },
+    {
+        "text": "kukr",
+        "start": 93.94,
+        "end": 94.10000000000001,
+        "index": 255
+    },
+    {
+        "text": "smo",
+        "start": 94.14,
+        "end": 94.28,
+        "index": 256
+    },
+    {
+        "text": "pr",
+        "start": 94.36,
+        "end": 94.42,
+        "index": 257
+    },
+    {
+        "text": "nas",
+        "start": 94.46000000000001,
+        "end": 94.64,
+        "index": 258
+    },
+    {
+        "text": "riekl",
+        "start": 94.78,
+        "end": 95.0,
+        "index": 259
+    },
+    {
+        "text": "placi",
+        "start": 95.04,
+        "end": 95.34,
+        "index": 260
+    },
+    {
+        "text": "put",
+        "start": 95.58,
+        "end": 95.62,
+        "index": 261
+    },
+    {
+        "text": "streho",
+        "start": 95.62,
+        "end": 95.78,
+        "index": 262
+    },
+    {
+        "text": "pr",
+        "start": 96.78,
+        "end": 96.84,
+        "index": 263
+    },
+    {
+        "text": "nkterih",
+        "start": 96.86,
+        "end": 97.34,
+        "index": 264
+    },
+    {
+        "text": "hišah",
+        "start": 97.42,
+        "end": 97.78,
+        "index": 265
+    },
+    {
+        "text": "so",
+        "start": 98.02,
+        "end": 98.18,
+        "index": 266
+    },
+    {
+        "text": "puzim",
+        "start": 98.44,
+        "end": 98.58,
+        "index": 267
+    },
+    {
+        "text": "sušil",
+        "start": 98.58,
+        "end": 98.76,
+        "index": 268
+    },
+    {
+        "text": "tut",
+        "start": 99.0,
+        "end": 99.14,
+        "index": 269
+    },
+    {
+        "text": "mesu",
+        "start": 99.18,
+        "end": 99.5,
+        "index": 270
+    },
+    {
+        "text": "kje",
+        "start": 100.16,
+        "end": 100.2,
+        "index": 271
+    },
+    {
+        "text": "biu",
+        "start": 100.22,
+        "end": 100.36,
+        "index": 272
+    },
+    {
+        "text": "ubeišn",
+        "start": 100.38,
+        "end": 100.48,
+        "index": 273
+    },
+    {
+        "text": "u",
+        "start": 100.54,
+        "end": 100.55000000000001,
+        "index": 274
+    },
+    {
+        "text": "zieuhnci",
+        "start": 101.3,
+        "end": 102.24000000000001,
+        "index": 275
+    },
+    {
+        "text": "zroun",
+        "start": 102.3,
+        "end": 102.5,
+        "index": 276
+    },
+    {
+        "text": "hiše",
+        "start": 102.56,
+        "end": 102.92,
+        "index": 277
+    },
+    {
+        "text": "je",
+        "start": 103.44,
+        "end": 103.54,
+        "index": 278
+    },
+    {
+        "text": "bla",
+        "start": 103.64,
+        "end": 103.68,
+        "index": 279
+    },
+    {
+        "text": "puol",
+        "start": 103.68,
+        "end": 103.86,
+        "index": 280
+    },
+    {
+        "text": "še",
+        "start": 104.06,
+        "end": 104.16,
+        "index": 281
+    },
+    {
+        "text": "štala",
+        "start": 104.22,
+        "end": 104.64,
+        "index": 282
+    },
+    {
+        "text": "svijak",
+        "start": 105.18,
+        "end": 105.9,
+        "index": 283
+    },
+    {
+        "text": "kurjek",
+        "start": 106.0,
+        "end": 106.46000000000001,
+        "index": 284
+    },
+    {
+        "text": "ahkr",
+        "start": 106.98,
+        "end": 107.4,
+        "index": 285
+    },
+    {
+        "text": "kuzouc",
+        "start": 107.68,
+        "end": 108.18,
+        "index": 286
+    },
+    {
+        "text": "pa",
+        "start": 108.74000000000001,
+        "end": 108.78,
+        "index": 287
+    },
+    {
+        "text": "še",
+        "start": 108.82000000000001,
+        "end": 108.94,
+        "index": 288
+    },
+    {
+        "text": "kej",
+        "start": 109.02,
+        "end": 109.12,
+        "index": 289
+    },
+    {
+        "text": "bi",
+        "start": 109.16,
+        "end": 109.26,
+        "index": 290
+    },
+    {
+        "text": "se",
+        "start": 109.44,
+        "end": 109.45,
+        "index": 291
+    },
+    {
+        "text": "najdl",
+        "start": 109.5,
+        "end": 109.72,
+        "index": 292
+    }
+]

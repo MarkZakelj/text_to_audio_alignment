@@ -1,0 +1,632 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "pamet pamet",
+        "text-start": 0,
+        "text-end": 15,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "pa met pa metli",
+        "aligned": "pa met pa metli"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "lepa reč",
+        "text-start": 15,
+        "text-end": 22,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": " pa reč",
+        "aligned": " pa reč"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "kdor jo",
+        "text-start": 23,
+        "text-end": 29,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "odorjo",
+        "aligned": "odorjo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "ima ta",
+        "text-start": 30,
+        "text-end": 36,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "ima ta",
+        "aligned": "ima ta"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "kej velja",
+        "text-start": 39,
+        "text-end": 44,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "delja",
+        "aligned": "delja"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "jest sem",
+        "text-start": 64,
+        "text-end": 69,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "e sem",
+        "aligned": "e sem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "joimela deklica sem jo zgubila revica fantič se",
+        "text-start": 85,
+        "text-end": 92,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "e fanti",
+        "aligned": "e fanti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "je pod",
+        "text-start": 94,
+        "text-end": 100,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "je pod",
+        "aligned": "je pod"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "oken podaw",
+        "text-start": 100,
+        "text-end": 107,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "okem po",
+        "aligned": "okem po"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "zajno besedo al pa",
+        "text-start": 112,
+        "text-end": 124,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "nabešeda alp",
+        "aligned": "nabešeda alp"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "za dve jest ne",
+        "text-start": 125,
+        "text-end": 133,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "  ve jes",
+        "aligned": " ve jes"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "bom gori vstajala tebi",
+        "text-start": 136,
+        "text-end": 154,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "bo goi stajanatebi",
+        "aligned": "bo goi stajanatebi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "nom antvert",
+        "text-start": 154,
+        "text-end": 159,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "nom a",
+        "aligned": "nom a"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "dajala jest",
+        "text-start": 162,
+        "text-end": 171,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "dajana je",
+        "aligned": "dajana je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "sem pa",
+        "text-start": 172,
+        "text-end": 178,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "sem pa",
+        "aligned": "sem pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "včeraj pri",
+        "text-start": 179,
+        "text-end": 189,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "učeraj pri",
+        "aligned": "učeraj pri"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "spovedi bla",
+        "text-start": 189,
+        "text-end": 200,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "spolidi bla",
+        "aligned": "spolidi bla"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "pri temu",
+        "text-start": 223,
+        "text-end": 229,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "pritem",
+        "aligned": "pritem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "žegnanmu mašniku pri temu",
+        "text-start": 229,
+        "text-end": 231,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "o ",
+        "aligned": "o "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "božjem namestniku",
+        "text-start": 231,
+        "text-end": 246,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "božije mestniku",
+        "aligned": "božije mestniku"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "za pokoro",
+        "text-start": 247,
+        "text-end": 255,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "za pokor",
+        "aligned": "za pokor"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "so mi",
+        "text-start": 258,
+        "text-end": 261,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "omi",
+        "aligned": "omi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "pa dal",
+        "text-start": 261,
+        "text-end": 266,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "ta da",
+        "aligned": "ta da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "en patanošter",
+        "text-start": 267,
+        "text-end": 282,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "in patano štero",
+        "aligned": "in patano štero"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "rožnvenc predno",
+        "text-start": 286,
+        "text-end": 297,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "nenc predno",
+        "aligned": "nenc predno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "ga trikrat",
+        "text-start": 297,
+        "text-end": 306,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "ga trikra",
+        "aligned": "ga trikra"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "zmolila boš",
+        "text-start": 307,
+        "text-end": 316,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "monilaboš",
+        "aligned": "monilaboš"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "pa zagvišno",
+        "text-start": 316,
+        "text-end": 328,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "pa za goišno",
+        "aligned": "pa za goišno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "umrla boš",
+        "text-start": 330,
+        "text-end": 334,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "aboš",
+        "aligned": "aboš"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "fantič se",
+        "text-start": 335,
+        "text-end": 340,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "fanti",
+        "aligned": "fanti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "je spod",
+        "text-start": 343,
+        "text-end": 350,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "je spod",
+        "aligned": "je spod"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "okna podaw",
+        "text-start": 351,
+        "text-end": 361,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "okna po da",
+        "aligned": "okna po da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "dol se jeulegu sladko",
+        "text-start": 368,
+        "text-end": 371,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "ne ",
+        "aligned": "ne "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "zaspaw ko",
+        "text-start": 380,
+        "text-end": 387,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": "zspa ko",
+        "aligned": "zspa ko"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "se pa",
+        "text-start": 388,
+        "text-end": 393,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "se pa",
+        "aligned": "se pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 35,
+        "transcript": "zjutraj prebudi",
+        "text-start": 396,
+        "text-end": 406,
+        "meta": {
+            "index": [
+                35
+            ]
+        },
+        "aligned-raw": "u trej pre",
+        "aligned": "u trej pre"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 36,
+        "transcript": "deklet pa že z",
+        "text-start": 415,
+        "text-end": 418,
+        "meta": {
+            "index": [
+                36
+            ]
+        },
+        "aligned-raw": " kl",
+        "aligned": " kl"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 37,
+        "transcript": "vsm štirm",
+        "text-start": 422,
+        "text-end": 427,
+        "meta": {
+            "index": [
+                37
+            ]
+        },
+        "aligned-raw": " sm š",
+        "aligned": " sm š"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 38,
+        "transcript": "zvoni krancl",
+        "text-start": 430,
+        "text-end": 442,
+        "meta": {
+            "index": [
+                38
+            ]
+        },
+        "aligned-raw": "smoni grancm",
+        "aligned": "smoni grancm"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 39,
+        "transcript": "je imela iz srebra",
+        "text-start": 442,
+        "text-end": 459,
+        "meta": {
+            "index": [
+                39
+            ]
+        },
+        "aligned-raw": "je mena in srebra",
+        "aligned": "je mena in srebra"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 40,
+        "transcript": "rinko je imela iz",
+        "text-start": 460,
+        "text-end": 473,
+        "meta": {
+            "index": [
+                40
+            ]
+        },
+        "aligned-raw": "in ko je mena",
+        "aligned": "in ko je mena"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 41,
+        "transcript": "zlata krancl pomeni nedowžnosti rinka pomeni pa čistosti",
+        "text-start": 477,
+        "text-end": 492,
+        "meta": {
+            "index": [
+                41
+            ]
+        },
+        "aligned-raw": "not krarce pome",
+        "aligned": "not krarce pome"
+    }
+]

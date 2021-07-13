@@ -1,0 +1,1796 @@
+[
+    {
+        "text": "učash",
+        "start": 2.36,
+        "end": 2.4,
+        "index": 0
+    },
+    {
+        "text": "so",
+        "start": 2.44,
+        "end": 2.4499999999999997,
+        "index": 1
+    },
+    {
+        "text": "ble",
+        "start": 2.48,
+        "end": 2.56,
+        "index": 2
+    },
+    {
+        "text": "drgačne",
+        "start": 3.62,
+        "end": 4.2,
+        "index": 3
+    },
+    {
+        "text": "hiše",
+        "start": 4.24,
+        "end": 4.5600000000000005,
+        "index": 4
+    },
+    {
+        "text": "kukr",
+        "start": 4.66,
+        "end": 4.82,
+        "index": 5
+    },
+    {
+        "text": "zej",
+        "start": 4.96,
+        "end": 5.14,
+        "index": 6
+    },
+    {
+        "text": "niso",
+        "start": 6.12,
+        "end": 6.36,
+        "index": 7
+    },
+    {
+        "text": "ble",
+        "start": 6.4,
+        "end": 6.54,
+        "index": 8
+    },
+    {
+        "text": "tok",
+        "start": 6.640000000000001,
+        "end": 6.7,
+        "index": 9
+    },
+    {
+        "text": "usoke",
+        "start": 6.82,
+        "end": 7.4,
+        "index": 10
+    },
+    {
+        "text": "pa",
+        "start": 7.92,
+        "end": 7.93,
+        "index": 11
+    },
+    {
+        "text": "tok",
+        "start": 7.98,
+        "end": 8.14,
+        "index": 12
+    },
+    {
+        "text": "ulike",
+        "start": 8.26,
+        "end": 8.700000000000001,
+        "index": 13
+    },
+    {
+        "text": "imele",
+        "start": 8.76,
+        "end": 10.16,
+        "index": 14
+    },
+    {
+        "text": "so",
+        "start": 10.26,
+        "end": 10.27,
+        "index": 15
+    },
+    {
+        "text": "mejhne",
+        "start": 10.34,
+        "end": 10.66,
+        "index": 16
+    },
+    {
+        "text": "uokna",
+        "start": 10.96,
+        "end": 11.36,
+        "index": 17
+    },
+    {
+        "text": "hiše",
+        "start": 12.280000000000001,
+        "end": 12.64,
+        "index": 18
+    },
+    {
+        "text": "sojmele",
+        "start": 12.98,
+        "end": 13.34,
+        "index": 19
+    },
+    {
+        "text": "lesene",
+        "start": 13.4,
+        "end": 13.82,
+        "index": 20
+    },
+    {
+        "text": "strehe",
+        "start": 13.94,
+        "end": 14.52,
+        "index": 21
+    },
+    {
+        "text": "pa",
+        "start": 14.9,
+        "end": 15.02,
+        "index": 22
+    },
+    {
+        "text": "lesene",
+        "start": 15.14,
+        "end": 15.56,
+        "index": 23
+    },
+    {
+        "text": "žleboue",
+        "start": 15.66,
+        "end": 16.2,
+        "index": 24
+    },
+    {
+        "text": "ucpodej",
+        "start": 18.48,
+        "end": 18.86,
+        "index": 25
+    },
+    {
+        "text": "so",
+        "start": 18.92,
+        "end": 19.04,
+        "index": 26
+    },
+    {
+        "text": "ble",
+        "start": 19.2,
+        "end": 19.26,
+        "index": 27
+    },
+    {
+        "text": "zidane",
+        "start": 19.32,
+        "end": 19.86,
+        "index": 28
+    },
+    {
+        "text": "ucgorej",
+        "start": 20.92,
+        "end": 21.400000000000002,
+        "index": 29
+    },
+    {
+        "text": "so",
+        "start": 21.44,
+        "end": 21.580000000000002,
+        "index": 30
+    },
+    {
+        "text": "ble",
+        "start": 21.76,
+        "end": 21.900000000000002,
+        "index": 31
+    },
+    {
+        "text": "lesene",
+        "start": 21.96,
+        "end": 22.54,
+        "index": 32
+    },
+    {
+        "text": "u",
+        "start": 23.14,
+        "end": 23.150000000000002,
+        "index": 33
+    },
+    {
+        "text": "hišo",
+        "start": 23.18,
+        "end": 23.52,
+        "index": 34
+    },
+    {
+        "text": "sej",
+        "start": 23.72,
+        "end": 23.740000000000002,
+        "index": 35
+    },
+    {
+        "text": "šuo",
+        "start": 23.740000000000002,
+        "end": 23.82,
+        "index": 36
+    },
+    {
+        "text": "taperu",
+        "start": 24.26,
+        "end": 24.400000000000002,
+        "index": 37
+    },
+    {
+        "text": "u",
+        "start": 24.48,
+        "end": 24.490000000000002,
+        "index": 38
+    },
+    {
+        "text": "vežo",
+        "start": 27.580000000000002,
+        "end": 27.94,
+        "index": 39
+    },
+    {
+        "text": "z",
+        "start": 27.94,
+        "end": 29.44,
+        "index": 40
+    },
+    {
+        "text": "veže",
+        "start": 29.64,
+        "end": 29.900000000000002,
+        "index": 41
+    },
+    {
+        "text": "sej",
+        "start": 29.98,
+        "end": 30.12,
+        "index": 42
+    },
+    {
+        "text": "šuo",
+        "start": 30.26,
+        "end": 30.36,
+        "index": 43
+    },
+    {
+        "text": "u",
+        "start": 30.36,
+        "end": 30.42,
+        "index": 44
+    },
+    {
+        "text": "černo",
+        "start": 30.560000000000002,
+        "end": 30.88,
+        "index": 45
+    },
+    {
+        "text": "kuhno",
+        "start": 30.92,
+        "end": 31.42,
+        "index": 46
+    },
+    {
+        "text": "u",
+        "start": 32.28,
+        "end": 32.29,
+        "index": 47
+    },
+    {
+        "text": "črn",
+        "start": 32.28,
+        "end": 32.56,
+        "index": 48
+    },
+    {
+        "text": "kuhn",
+        "start": 32.82,
+        "end": 33.02,
+        "index": 49
+    },
+    {
+        "text": "sej",
+        "start": 33.08,
+        "end": 33.22,
+        "index": 50
+    },
+    {
+        "text": "kuhou",
+        "start": 33.480000000000004,
+        "end": 33.74,
+        "index": 51
+    },
+    {
+        "text": "u",
+        "start": 33.74,
+        "end": 33.82,
+        "index": 52
+    },
+    {
+        "text": "peč",
+        "start": 34.160000000000004,
+        "end": 34.480000000000004,
+        "index": 53
+    },
+    {
+        "text": "po",
+        "start": 35.06,
+        "end": 35.2,
+        "index": 54
+    },
+    {
+        "text": "sej",
+        "start": 35.38,
+        "end": 35.44,
+        "index": 55
+    },
+    {
+        "text": "pa",
+        "start": 35.5,
+        "end": 35.56,
+        "index": 56
+    },
+    {
+        "text": "šuo",
+        "start": 35.74,
+        "end": 35.800000000000004,
+        "index": 57
+    },
+    {
+        "text": "s",
+        "start": 36.300000000000004,
+        "end": 36.34,
+        "index": 58
+    },
+    {
+        "text": "ta",
+        "start": 36.44,
+        "end": 36.449999999999996,
+        "index": 59
+    },
+    {
+        "text": "černe",
+        "start": 36.5,
+        "end": 36.92,
+        "index": 60
+    },
+    {
+        "text": "kuhne",
+        "start": 37.1,
+        "end": 37.38,
+        "index": 61
+    },
+    {
+        "text": "sej",
+        "start": 37.38,
+        "end": 37.5,
+        "index": 62
+    },
+    {
+        "text": "nazaj",
+        "start": 37.660000000000004,
+        "end": 37.800000000000004,
+        "index": 63
+    },
+    {
+        "text": "šuo",
+        "start": 37.800000000000004,
+        "end": 37.96,
+        "index": 64
+    },
+    {
+        "text": "u",
+        "start": 38.2,
+        "end": 38.21,
+        "index": 65
+    },
+    {
+        "text": "vežo",
+        "start": 38.26,
+        "end": 38.76,
+        "index": 66
+    },
+    {
+        "text": "z",
+        "start": 39.02,
+        "end": 39.03,
+        "index": 67
+    },
+    {
+        "text": "veže",
+        "start": 39.02,
+        "end": 39.38,
+        "index": 68
+    },
+    {
+        "text": "pa",
+        "start": 39.5,
+        "end": 39.56,
+        "index": 69
+    },
+    {
+        "text": "u",
+        "start": 40.32,
+        "end": 40.42,
+        "index": 70
+    },
+    {
+        "text": "hišo",
+        "start": 40.52,
+        "end": 40.980000000000004,
+        "index": 71
+    },
+    {
+        "text": "u",
+        "start": 42.04,
+        "end": 42.18,
+        "index": 72
+    },
+    {
+        "text": "hiš",
+        "start": 42.96,
+        "end": 43.56,
+        "index": 73
+    },
+    {
+        "text": "je",
+        "start": 43.62,
+        "end": 43.68,
+        "index": 74
+    },
+    {
+        "text": "bva",
+        "start": 44.08,
+        "end": 44.64,
+        "index": 75
+    },
+    {
+        "text": "u",
+        "start": 44.64,
+        "end": 44.76,
+        "index": 76
+    },
+    {
+        "text": "vogl",
+        "start": 44.86,
+        "end": 45.14,
+        "index": 77
+    },
+    {
+        "text": "miza",
+        "start": 45.22,
+        "end": 45.76,
+        "index": 78
+    },
+    {
+        "text": "uokol",
+        "start": 47.28,
+        "end": 47.56,
+        "index": 79
+    },
+    {
+        "text": "okol",
+        "start": 47.74,
+        "end": 48.08,
+        "index": 80
+    },
+    {
+        "text": "mize",
+        "start": 49.58,
+        "end": 50.04,
+        "index": 81
+    },
+    {
+        "text": "pod",
+        "start": 50.120000000000005,
+        "end": 50.34,
+        "index": 82
+    },
+    {
+        "text": "vokn",
+        "start": 51.04,
+        "end": 51.5,
+        "index": 83
+    },
+    {
+        "text": "tkole",
+        "start": 51.56,
+        "end": 51.88,
+        "index": 84
+    },
+    {
+        "text": "okol",
+        "start": 52.160000000000004,
+        "end": 52.24,
+        "index": 85
+    },
+    {
+        "text": "stene",
+        "start": 52.24,
+        "end": 52.42,
+        "index": 86
+    },
+    {
+        "text": "so",
+        "start": 53.22,
+        "end": 53.300000000000004,
+        "index": 87
+    },
+    {
+        "text": "ble",
+        "start": 53.34,
+        "end": 53.5,
+        "index": 88
+    },
+    {
+        "text": "pa",
+        "start": 53.64,
+        "end": 53.7,
+        "index": 89
+    },
+    {
+        "text": "klopi",
+        "start": 53.78,
+        "end": 54.2,
+        "index": 90
+    },
+    {
+        "text": "stenske",
+        "start": 54.52,
+        "end": 55.18,
+        "index": 91
+    },
+    {
+        "text": "bvaj",
+        "start": 55.26,
+        "end": 56.6,
+        "index": 92
+    },
+    {
+        "text": "pa",
+        "start": 56.7,
+        "end": 56.71,
+        "index": 93
+    },
+    {
+        "text": "tut",
+        "start": 56.76,
+        "end": 56.92,
+        "index": 94
+    },
+    {
+        "text": "kmečka",
+        "start": 57.08,
+        "end": 57.5,
+        "index": 95
+    },
+    {
+        "text": "peč",
+        "start": 57.56,
+        "end": 57.94,
+        "index": 96
+    },
+    {
+        "text": "poj",
+        "start": 58.660000000000004,
+        "end": 58.92,
+        "index": 97
+    },
+    {
+        "text": "zravn",
+        "start": 59.04,
+        "end": 59.44,
+        "index": 98
+    },
+    {
+        "text": "je",
+        "start": 60.04,
+        "end": 60.05,
+        "index": 99
+    },
+    {
+        "text": "bva",
+        "start": 60.120000000000005,
+        "end": 60.160000000000004,
+        "index": 100
+    },
+    {
+        "text": "pa",
+        "start": 60.24,
+        "end": 60.25,
+        "index": 101
+    },
+    {
+        "text": "šena",
+        "start": 60.24,
+        "end": 60.34,
+        "index": 102
+    },
+    {
+        "text": "velika",
+        "start": 60.38,
+        "end": 60.76,
+        "index": 103
+    },
+    {
+        "text": "postla",
+        "start": 60.82,
+        "end": 61.36,
+        "index": 104
+    },
+    {
+        "text": "na",
+        "start": 61.46,
+        "end": 61.47,
+        "index": 105
+    },
+    {
+        "text": "an",
+        "start": 61.52,
+        "end": 61.6,
+        "index": 106
+    },
+    {
+        "text": "druk",
+        "start": 62.24,
+        "end": 63.04,
+        "index": 107
+    },
+    {
+        "text": "sten",
+        "start": 63.04,
+        "end": 63.18,
+        "index": 108
+    },
+    {
+        "text": "je",
+        "start": 64.76,
+        "end": 64.77000000000001,
+        "index": 109
+    },
+    {
+        "text": "bva",
+        "start": 64.86,
+        "end": 65.02,
+        "index": 110
+    },
+    {
+        "text": "za",
+        "start": 65.12,
+        "end": 65.13000000000001,
+        "index": 111
+    },
+    {
+        "text": "ata",
+        "start": 65.2,
+        "end": 65.48,
+        "index": 112
+    },
+    {
+        "text": "pa",
+        "start": 65.58,
+        "end": 65.64,
+        "index": 113
+    },
+    {
+        "text": "za",
+        "start": 65.7,
+        "end": 65.8,
+        "index": 114
+    },
+    {
+        "text": "mamo",
+        "start": 67.74,
+        "end": 68.24,
+        "index": 115
+    },
+    {
+        "text": "zravn",
+        "start": 68.3,
+        "end": 68.60000000000001,
+        "index": 116
+    },
+    {
+        "text": "je",
+        "start": 68.84,
+        "end": 68.85000000000001,
+        "index": 117
+    },
+    {
+        "text": "bva",
+        "start": 68.92,
+        "end": 68.98,
+        "index": 118
+    },
+    {
+        "text": "pa",
+        "start": 69.10000000000001,
+        "end": 69.18,
+        "index": 119
+    },
+    {
+        "text": "še",
+        "start": 69.24,
+        "end": 69.4,
+        "index": 120
+    },
+    {
+        "text": "ana",
+        "start": 70.10000000000001,
+        "end": 70.56,
+        "index": 121
+    },
+    {
+        "text": "zipka",
+        "start": 70.76,
+        "end": 70.96000000000001,
+        "index": 122
+    },
+    {
+        "text": "kje",
+        "start": 71.16,
+        "end": 71.22,
+        "index": 123
+    },
+    {
+        "text": "ta",
+        "start": 71.26,
+        "end": 71.32000000000001,
+        "index": 124
+    },
+    {
+        "text": "mal",
+        "start": 71.42,
+        "end": 71.62,
+        "index": 125
+    },
+    {
+        "text": "utrok",
+        "start": 71.68,
+        "end": 72.06,
+        "index": 126
+    },
+    {
+        "text": "not",
+        "start": 72.14,
+        "end": 72.2,
+        "index": 127
+    },
+    {
+        "text": "ležou",
+        "start": 72.34,
+        "end": 72.72,
+        "index": 128
+    },
+    {
+        "text": "imel",
+        "start": 73.68,
+        "end": 73.78,
+        "index": 129
+    },
+    {
+        "text": "so",
+        "start": 73.92,
+        "end": 74.04,
+        "index": 130
+    },
+    {
+        "text": "pa",
+        "start": 74.14,
+        "end": 74.2,
+        "index": 131
+    },
+    {
+        "text": "tud",
+        "start": 74.24,
+        "end": 74.42,
+        "index": 132
+    },
+    {
+        "text": "u",
+        "start": 74.5,
+        "end": 74.51,
+        "index": 133
+    },
+    {
+        "text": "hiš",
+        "start": 74.52,
+        "end": 74.76,
+        "index": 134
+    },
+    {
+        "text": "take",
+        "start": 74.84,
+        "end": 75.12,
+        "index": 135
+    },
+    {
+        "text": "omarce",
+        "start": 75.4,
+        "end": 75.98,
+        "index": 136
+    },
+    {
+        "text": "notr",
+        "start": 76.08,
+        "end": 76.26,
+        "index": 137
+    },
+    {
+        "text": "u",
+        "start": 76.26,
+        "end": 76.34,
+        "index": 138
+    },
+    {
+        "text": "zit",
+        "start": 76.54,
+        "end": 76.62,
+        "index": 139
+    },
+    {
+        "text": "not",
+        "start": 76.76,
+        "end": 76.92,
+        "index": 140
+    },
+    {
+        "text": "so",
+        "start": 77.06,
+        "end": 77.16,
+        "index": 141
+    },
+    {
+        "text": "pa",
+        "start": 77.2,
+        "end": 77.32000000000001,
+        "index": 142
+    },
+    {
+        "text": "not",
+        "start": 77.84,
+        "end": 77.98,
+        "index": 143
+    },
+    {
+        "text": "so",
+        "start": 77.98,
+        "end": 78.04,
+        "index": 144
+    },
+    {
+        "text": "pa",
+        "start": 78.14,
+        "end": 78.2,
+        "index": 145
+    },
+    {
+        "text": "šparal",
+        "start": 78.24,
+        "end": 78.66,
+        "index": 146
+    },
+    {
+        "text": "kšn",
+        "start": 78.94,
+        "end": 78.98,
+        "index": 147
+    },
+    {
+        "text": "fajn",
+        "start": 79.02,
+        "end": 79.34,
+        "index": 148
+    },
+    {
+        "text": "žgane",
+        "start": 79.42,
+        "end": 79.72,
+        "index": 149
+    },
+    {
+        "text": "pa",
+        "start": 80.78,
+        "end": 80.88,
+        "index": 150
+    },
+    {
+        "text": "domača",
+        "start": 81.16,
+        "end": 81.44,
+        "index": 151
+    },
+    {
+        "text": "zdravila",
+        "start": 81.48,
+        "end": 81.98,
+        "index": 152
+    },
+    {
+        "text": "tla",
+        "start": 82.8,
+        "end": 82.92,
+        "index": 153
+    },
+    {
+        "text": "so",
+        "start": 82.98,
+        "end": 83.22,
+        "index": 154
+    },
+    {
+        "text": "bva",
+        "start": 83.3,
+        "end": 83.36,
+        "index": 155
+    },
+    {
+        "text": "lesena",
+        "start": 83.4,
+        "end": 84.0,
+        "index": 156
+    },
+    {
+        "text": "s",
+        "start": 85.0,
+        "end": 85.01,
+        "index": 157
+    },
+    {
+        "text": "hiše",
+        "start": 85.0,
+        "end": 85.34,
+        "index": 158
+    },
+    {
+        "text": "vn",
+        "start": 85.42,
+        "end": 85.43,
+        "index": 159
+    },
+    {
+        "text": "je",
+        "start": 85.42,
+        "end": 85.43,
+        "index": 160
+    },
+    {
+        "text": "bva",
+        "start": 85.74,
+        "end": 85.8,
+        "index": 161
+    },
+    {
+        "text": "poj",
+        "start": 85.86,
+        "end": 86.08,
+        "index": 162
+    },
+    {
+        "text": "špajza",
+        "start": 86.16,
+        "end": 86.38,
+        "index": 163
+    },
+    {
+        "text": "zunej",
+        "start": 86.54,
+        "end": 87.18,
+        "index": 164
+    },
+    {
+        "text": "je",
+        "start": 88.52,
+        "end": 88.53,
+        "index": 165
+    },
+    {
+        "text": "biu",
+        "start": 88.60000000000001,
+        "end": 88.78,
+        "index": 166
+    },
+    {
+        "text": "pa",
+        "start": 88.96000000000001,
+        "end": 89.02,
+        "index": 167
+    },
+    {
+        "text": "straniše",
+        "start": 89.08,
+        "end": 89.9,
+        "index": 168
+    },
+    {
+        "text": "zunej",
+        "start": 90.06,
+        "end": 90.32000000000001,
+        "index": 169
+    },
+    {
+        "text": "je",
+        "start": 90.36,
+        "end": 90.44,
+        "index": 170
+    },
+    {
+        "text": "biu",
+        "start": 90.60000000000001,
+        "end": 90.64,
+        "index": 171
+    },
+    {
+        "text": "skret",
+        "start": 90.72,
+        "end": 91.12,
+        "index": 172
+    },
+    {
+        "text": "pa",
+        "start": 92.0,
+        "end": 92.01,
+        "index": 173
+    },
+    {
+        "text": "tut",
+        "start": 92.06,
+        "end": 92.26,
+        "index": 174
+    },
+    {
+        "text": "smo",
+        "start": 92.42,
+        "end": 92.48,
+        "index": 175
+    },
+    {
+        "text": "ga",
+        "start": 92.54,
+        "end": 92.68,
+        "index": 176
+    },
+    {
+        "text": "usako",
+        "start": 92.76,
+        "end": 93.10000000000001,
+        "index": 177
+    },
+    {
+        "text": "usako",
+        "start": 93.52,
+        "end": 94.02,
+        "index": 178
+    },
+    {
+        "text": "soboto",
+        "start": 94.10000000000001,
+        "end": 94.48,
+        "index": 179
+    },
+    {
+        "text": "fest",
+        "start": 94.54,
+        "end": 95.2,
+        "index": 180
+    },
+    {
+        "text": "poribal",
+        "start": 95.34,
+        "end": 95.66,
+        "index": 181
+    },
+    {
+        "text": "popa",
+        "start": 95.66,
+        "end": 99.24000000000001,
+        "index": 182
+    },
+    {
+        "text": "nektere",
+        "start": 100.04,
+        "end": 100.42,
+        "index": 183
+    },
+    {
+        "text": "hiše",
+        "start": 100.46000000000001,
+        "end": 100.74000000000001,
+        "index": 184
+    },
+    {
+        "text": "so",
+        "start": 100.82000000000001,
+        "end": 100.9,
+        "index": 185
+    },
+    {
+        "text": "pa",
+        "start": 100.94,
+        "end": 101.06,
+        "index": 186
+    },
+    {
+        "text": "imele",
+        "start": 101.36,
+        "end": 101.64,
+        "index": 187
+    },
+    {
+        "text": "tud",
+        "start": 101.7,
+        "end": 101.86,
+        "index": 188
+    },
+    {
+        "text": "na",
+        "start": 101.94,
+        "end": 101.95,
+        "index": 189
+    },
+    {
+        "text": "vrh",
+        "start": 102.0,
+        "end": 102.24000000000001,
+        "index": 190
+    },
+    {
+        "text": "na",
+        "start": 102.32000000000001,
+        "end": 102.84,
+        "index": 191
+    },
+    {
+        "text": "vrh",
+        "start": 102.9,
+        "end": 103.16,
+        "index": 192
+    },
+    {
+        "text": "je",
+        "start": 103.38,
+        "end": 103.39,
+        "index": 193
+    },
+    {
+        "text": "bva",
+        "start": 103.46000000000001,
+        "end": 103.52,
+        "index": 194
+    },
+    {
+        "text": "pa",
+        "start": 103.66,
+        "end": 103.72,
+        "index": 195
+    },
+    {
+        "text": "zgorna",
+        "start": 103.78,
+        "end": 104.28,
+        "index": 196
+    },
+    {
+        "text": "hiša",
+        "start": 104.44,
+        "end": 104.7,
+        "index": 197
+    },
+    {
+        "text": "gor",
+        "start": 104.86,
+        "end": 106.04,
+        "index": 198
+    },
+    {
+        "text": "sej",
+        "start": 106.38,
+        "end": 106.42,
+        "index": 199
+    },
+    {
+        "text": "pa",
+        "start": 106.48,
+        "end": 106.54,
+        "index": 200
+    },
+    {
+        "text": "pršvo",
+        "start": 106.84,
+        "end": 106.96000000000001,
+        "index": 201
+    },
+    {
+        "text": "po",
+        "start": 107.02,
+        "end": 107.08,
+        "index": 202
+    },
+    {
+        "text": "štengah",
+        "start": 107.32000000000001,
+        "end": 107.68,
+        "index": 203
+    },
+    {
+        "text": "poj",
+        "start": 107.68,
+        "end": 108.52,
+        "index": 204
+    },
+    {
+        "text": "še",
+        "start": 108.86,
+        "end": 108.94,
+        "index": 205
+    },
+    {
+        "text": "na",
+        "start": 109.14,
+        "end": 109.26,
+        "index": 206
+    },
+    {
+        "text": "vrh",
+        "start": 109.34,
+        "end": 109.35000000000001,
+        "index": 207
+    },
+    {
+        "text": "so",
+        "start": 109.44,
+        "end": 109.45,
+        "index": 208
+    },
+    {
+        "text": "je",
+        "start": 109.78,
+        "end": 109.79,
+        "index": 209
+    },
+    {
+        "text": "bva",
+        "start": 109.78,
+        "end": 109.88,
+        "index": 210
+    },
+    {
+        "text": "pa",
+        "start": 110.10000000000001,
+        "end": 110.16,
+        "index": 211
+    },
+    {
+        "text": "še",
+        "start": 110.22,
+        "end": 110.34,
+        "index": 212
+    },
+    {
+        "text": "potstrešna",
+        "start": 110.64,
+        "end": 111.8,
+        "index": 213
+    },
+    {
+        "text": "čej",
+        "start": 111.88,
+        "end": 111.98,
+        "index": 214
+    },
+    {
+        "text": "bva",
+        "start": 112.06,
+        "end": 112.12,
+        "index": 215
+    },
+    {
+        "text": "fest",
+        "start": 112.18,
+        "end": 112.60000000000001,
+        "index": 216
+    },
+    {
+        "text": "taka",
+        "start": 113.92,
+        "end": 114.88,
+        "index": 217
+    },
+    {
+        "text": "bl",
+        "start": 114.88,
+        "end": 115.06,
+        "index": 218
+    },
+    {
+        "text": "bogata",
+        "start": 115.16,
+        "end": 115.62,
+        "index": 219
+    },
+    {
+        "text": "domačija",
+        "start": 115.66,
+        "end": 116.34,
+        "index": 220
+    },
+    {
+        "text": "bogata",
+        "start": 116.46000000000001,
+        "end": 116.84,
+        "index": 221
+    },
+    {
+        "text": "kmetija",
+        "start": 116.9,
+        "end": 117.44,
+        "index": 222
+    },
+    {
+        "text": "jeimeva",
+        "start": 117.44,
+        "end": 118.88,
+        "index": 223
+    },
+    {
+        "text": "za",
+        "start": 118.88,
+        "end": 119.12,
+        "index": 224
+    },
+    {
+        "text": "usako",
+        "start": 122.06,
+        "end": 122.54,
+        "index": 225
+    },
+    {
+        "text": "žvau",
+        "start": 122.58,
+        "end": 122.92,
+        "index": 226
+    },
+    {
+        "text": "posebej",
+        "start": 123.02,
+        "end": 123.5,
+        "index": 227
+    },
+    {
+        "text": "hleu",
+        "start": 123.58,
+        "end": 124.16,
+        "index": 228
+    },
+    {
+        "text": "taperu",
+        "start": 124.26,
+        "end": 127.88000000000001,
+        "index": 229
+    },
+    {
+        "text": "so",
+        "start": 128.02,
+        "end": 128.12,
+        "index": 230
+    },
+    {
+        "text": "bl",
+        "start": 128.32,
+        "end": 128.32999999999998,
+        "index": 231
+    },
+    {
+        "text": "je",
+        "start": 128.4,
+        "end": 128.5,
+        "index": 232
+    },
+    {
+        "text": "bva",
+        "start": 128.56,
+        "end": 128.7,
+        "index": 233
+    },
+    {
+        "text": "konska",
+        "start": 128.78,
+        "end": 129.14000000000001,
+        "index": 234
+    },
+    {
+        "text": "štava",
+        "start": 129.26,
+        "end": 129.74,
+        "index": 235
+    },
+    {
+        "text": "poj",
+        "start": 130.72,
+        "end": 131.04,
+        "index": 236
+    },
+    {
+        "text": "jbiu",
+        "start": 131.14000000000001,
+        "end": 131.24,
+        "index": 237
+    },
+    {
+        "text": "hleu",
+        "start": 131.36,
+        "end": 131.58,
+        "index": 238
+    },
+    {
+        "text": "posebej",
+        "start": 132.02,
+        "end": 132.16,
+        "index": 239
+    },
+    {
+        "text": "hleu",
+        "start": 132.16,
+        "end": 132.44,
+        "index": 240
+    },
+    {
+        "text": "za",
+        "start": 133.38,
+        "end": 133.46,
+        "index": 241
+    },
+    {
+        "text": "krave",
+        "start": 133.54,
+        "end": 134.06,
+        "index": 242
+    },
+    {
+        "text": "pa",
+        "start": 134.18,
+        "end": 134.24,
+        "index": 243
+    },
+    {
+        "text": "za",
+        "start": 134.3,
+        "end": 134.42000000000002,
+        "index": 244
+    },
+    {
+        "text": "teleta",
+        "start": 134.6,
+        "end": 135.16,
+        "index": 245
+    },
+    {
+        "text": "pa",
+        "start": 135.28,
+        "end": 135.4,
+        "index": 246
+    },
+    {
+        "text": "za",
+        "start": 135.6,
+        "end": 135.60999999999999,
+        "index": 247
+    },
+    {
+        "text": "vola",
+        "start": 135.72,
+        "end": 136.16,
+        "index": 248
+    },
+    {
+        "text": "poj",
+        "start": 137.06,
+        "end": 137.07,
+        "index": 249
+    },
+    {
+        "text": "jbiu",
+        "start": 137.18,
+        "end": 137.20000000000002,
+        "index": 250
+    },
+    {
+        "text": "posebej",
+        "start": 137.5,
+        "end": 137.92000000000002,
+        "index": 251
+    },
+    {
+        "text": "hleu",
+        "start": 137.92000000000002,
+        "end": 138.18,
+        "index": 252
+    },
+    {
+        "text": "za",
+        "start": 138.44,
+        "end": 138.52,
+        "index": 253
+    },
+    {
+        "text": "za",
+        "start": 139.5,
+        "end": 139.64000000000001,
+        "index": 254
+    },
+    {
+        "text": "jarce",
+        "start": 139.8,
+        "end": 140.36,
+        "index": 255
+    },
+    {
+        "text": "pa",
+        "start": 140.72,
+        "end": 140.88,
+        "index": 256
+    },
+    {
+        "text": "poj",
+        "start": 141.42000000000002,
+        "end": 141.64000000000001,
+        "index": 257
+    },
+    {
+        "text": "spet",
+        "start": 141.72,
+        "end": 142.06,
+        "index": 258
+    },
+    {
+        "text": "za",
+        "start": 142.22,
+        "end": 142.23,
+        "index": 259
+    },
+    {
+        "text": "kure",
+        "start": 142.44,
+        "end": 142.74,
+        "index": 260
+    },
+    {
+        "text": "posebej",
+        "start": 142.88,
+        "end": 143.44,
+        "index": 261
+    },
+    {
+        "text": "poj",
+        "start": 143.5,
+        "end": 144.96,
+        "index": 262
+    },
+    {
+        "text": "jbiu",
+        "start": 145.20000000000002,
+        "end": 145.34,
+        "index": 263
+    },
+    {
+        "text": "pa",
+        "start": 145.38,
+        "end": 145.5,
+        "index": 264
+    },
+    {
+        "text": "zravn",
+        "start": 145.62,
+        "end": 145.8,
+        "index": 265
+    },
+    {
+        "text": "jbva",
+        "start": 146.0,
+        "end": 147.22,
+        "index": 266
+    },
+    {
+        "text": "pa",
+        "start": 147.56,
+        "end": 147.62,
+        "index": 267
+    },
+    {
+        "text": "šupa",
+        "start": 147.68,
+        "end": 148.04,
+        "index": 268
+    },
+    {
+        "text": "za",
+        "start": 148.16,
+        "end": 148.24,
+        "index": 269
+    },
+    {
+        "text": "listje",
+        "start": 148.3,
+        "end": 148.8,
+        "index": 270
+    },
+    {
+        "text": "ksej",
+        "start": 149.9,
+        "end": 150.02,
+        "index": 271
+    },
+    {
+        "text": "kravam",
+        "start": 150.06,
+        "end": 150.48,
+        "index": 272
+    },
+    {
+        "text": "nastiva",
+        "start": 150.72,
+        "end": 151.08,
+        "index": 273
+    },
+    {
+        "text": "nastvau",
+        "start": 151.16,
+        "end": 151.6,
+        "index": 274
+    },
+    {
+        "text": "poj",
+        "start": 153.4,
+        "end": 153.46,
+        "index": 275
+    },
+    {
+        "text": "še",
+        "start": 153.54,
+        "end": 153.74,
+        "index": 276
+    },
+    {
+        "text": "zravn",
+        "start": 153.96,
+        "end": 154.02,
+        "index": 277
+    },
+    {
+        "text": "je",
+        "start": 154.02,
+        "end": 154.18,
+        "index": 278
+    },
+    {
+        "text": "bva",
+        "start": 154.6,
+        "end": 154.76,
+        "index": 279
+    },
+    {
+        "text": "je",
+        "start": 154.82,
+        "end": 154.86,
+        "index": 280
+    },
+    {
+        "text": "bva",
+        "start": 155.0,
+        "end": 155.18,
+        "index": 281
+    },
+    {
+        "text": "pa",
+        "start": 155.24,
+        "end": 155.3,
+        "index": 282
+    },
+    {
+        "text": "kuhnca",
+        "start": 155.52,
+        "end": 155.8,
+        "index": 283
+    },
+    {
+        "text": "za",
+        "start": 155.96,
+        "end": 156.16,
+        "index": 284
+    },
+    {
+        "text": "prešiče",
+        "start": 156.94,
+        "end": 157.5,
+        "index": 285
+    },
+    {
+        "text": "sej",
+        "start": 157.56,
+        "end": 157.74,
+        "index": 286
+    },
+    {
+        "text": "kuhou",
+        "start": 157.92000000000002,
+        "end": 158.3,
+        "index": 287
+    },
+    {
+        "text": "u",
+        "start": 158.36,
+        "end": 158.38,
+        "index": 288
+    },
+    {
+        "text": "kotuo",
+        "start": 158.46,
+        "end": 158.92000000000002,
+        "index": 289
+    },
+    {
+        "text": "poj",
+        "start": 159.82,
+        "end": 160.06,
+        "index": 290
+    },
+    {
+        "text": "napre",
+        "start": 160.14000000000001,
+        "end": 160.38,
+        "index": 291
+    },
+    {
+        "text": "jbva",
+        "start": 160.44,
+        "end": 160.70000000000002,
+        "index": 292
+    },
+    {
+        "text": "pa",
+        "start": 160.82,
+        "end": 160.88,
+        "index": 293
+    },
+    {
+        "text": "spet",
+        "start": 160.94,
+        "end": 161.28,
+        "index": 294
+    },
+    {
+        "text": "ana",
+        "start": 161.34,
+        "end": 161.46,
+        "index": 295
+    },
+    {
+        "text": "kuhnca",
+        "start": 161.5,
+        "end": 162.0,
+        "index": 296
+    },
+    {
+        "text": "za",
+        "start": 162.96,
+        "end": 163.02,
+        "index": 297
+    },
+    {
+        "text": "žganjekuho",
+        "start": 163.12,
+        "end": 163.96,
+        "index": 298
+    }
+]

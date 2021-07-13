@@ -1,0 +1,182 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "kota kotalejna",
+        "text-start": 1,
+        "text-end": 11,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": " ta katala",
+        "aligned": " ta katala"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "dolanč mouža",
+        "text-start": 17,
+        "text-end": 21,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "alan",
+        "aligned": "alan"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "vzela prek",
+        "text-start": 25,
+        "text-end": 34,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "ezela rek",
+        "aligned": "ezela rek"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "sivoga mourdja",
+        "text-start": 34,
+        "text-end": 40,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "sivoga",
+        "aligned": "sivoga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "prek černo",
+        "text-start": 47,
+        "text-end": 52,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "ečern",
+        "aligned": "ečern"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "dinoja vsigdar",
+        "text-start": 54,
+        "text-end": 65,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "dinaja  sid",
+        "aligned": "dinaja sid"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "vnoči prišo",
+        "text-start": 69,
+        "text-end": 76,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "e prišo",
+        "aligned": "e prišo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "v noči",
+        "text-start": 78,
+        "text-end": 80,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "ti",
+        "aligned": "ti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "je odišu",
+        "text-start": 80,
+        "text-end": 85,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "je di",
+        "aligned": "je di"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "drugu nej",
+        "text-start": 93,
+        "text-end": 98,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "o nej",
+        "aligned": "o nej"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "perneso tou",
+        "text-start": 98,
+        "text-end": 108,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "pe niso te",
+        "aligned": "pe niso te"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "krvavo sablo",
+        "text-start": 109,
+        "text-end": 123,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "karvavu sa blo",
+        "aligned": "karvavu sa blo"
+    }
+]
