@@ -3,3 +3,4 @@ venv/
 kenlm/
 .ipynb_checkpoints/
 Untitled*.ipynb
+audio_samples/*/results/
