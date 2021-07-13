@@ -1,0 +1,626 @@
+[
+    {
+        "text": "pojemo",
+        "start": 0.74,
+        "end": 1.1,
+        "index": 0
+    },
+    {
+        "text": "ko",
+        "start": 1.1400000000000001,
+        "end": 1.4000000000000001,
+        "index": 1
+    },
+    {
+        "text": "se",
+        "start": 1.78,
+        "end": 1.8800000000000001,
+        "index": 2
+    },
+    {
+        "text": "ko",
+        "start": 2.06,
+        "end": 2.16,
+        "index": 3
+    },
+    {
+        "text": "gremo",
+        "start": 2.2600000000000002,
+        "end": 2.48,
+        "index": 4
+    },
+    {
+        "text": "na",
+        "start": 2.6,
+        "end": 2.7,
+        "index": 5
+    },
+    {
+        "text": "romaje",
+        "start": 2.8000000000000003,
+        "end": 3.08,
+        "index": 6
+    },
+    {
+        "text": "tam",
+        "start": 3.1,
+        "end": 3.2600000000000002,
+        "index": 7
+    },
+    {
+        "text": "proti",
+        "start": 4.88,
+        "end": 5.08,
+        "index": 8
+    },
+    {
+        "text": "cerkvi",
+        "start": 5.14,
+        "end": 5.5600000000000005,
+        "index": 9
+    },
+    {
+        "text": "ne",
+        "start": 5.66,
+        "end": 5.72,
+        "index": 10
+    },
+    {
+        "text": "takrat",
+        "start": 6.3,
+        "end": 6.68,
+        "index": 11
+    },
+    {
+        "text": "molmo",
+        "start": 6.88,
+        "end": 7.24,
+        "index": 12
+    },
+    {
+        "text": "pa",
+        "start": 7.9,
+        "end": 8.0,
+        "index": 13
+    },
+    {
+        "text": "pojemo",
+        "start": 8.24,
+        "end": 8.620000000000001,
+        "index": 14
+    },
+    {
+        "text": "pobožne",
+        "start": 8.72,
+        "end": 9.26,
+        "index": 15
+    },
+    {
+        "text": "pesmi",
+        "start": 9.4,
+        "end": 9.82,
+        "index": 16
+    },
+    {
+        "text": "zakmašne",
+        "start": 10.620000000000001,
+        "end": 11.34,
+        "index": 17
+    },
+    {
+        "text": "ne",
+        "start": 11.46,
+        "end": 11.47,
+        "index": 18
+    },
+    {
+        "text": "cerkvene",
+        "start": 11.46,
+        "end": 11.620000000000001,
+        "index": 19
+    },
+    {
+        "text": "na",
+        "start": 13.96,
+        "end": 14.02,
+        "index": 20
+    },
+    {
+        "text": "romaji",
+        "start": 14.08,
+        "end": 14.540000000000001,
+        "index": 21
+    },
+    {
+        "text": "smo",
+        "start": 14.66,
+        "end": 14.86,
+        "index": 22
+    },
+    {
+        "text": "že",
+        "start": 14.92,
+        "end": 15.040000000000001,
+        "index": 23
+    },
+    {
+        "text": "bli",
+        "start": 15.16,
+        "end": 15.280000000000001,
+        "index": 24
+    },
+    {
+        "text": "na",
+        "start": 15.34,
+        "end": 16.48,
+        "index": 25
+    },
+    {
+        "text": "brezje",
+        "start": 17.04,
+        "end": 17.64,
+        "index": 26
+    },
+    {
+        "text": "per",
+        "start": 18.38,
+        "end": 18.52,
+        "index": 27
+    },
+    {
+        "text": "sveti",
+        "start": 18.62,
+        "end": 19.0,
+        "index": 28
+    },
+    {
+        "text": "trojici",
+        "start": 19.080000000000002,
+        "end": 19.8,
+        "index": 29
+    },
+    {
+        "text": "potem",
+        "start": 20.7,
+        "end": 21.0,
+        "index": 30
+    },
+    {
+        "text": "na",
+        "start": 21.1,
+        "end": 21.22,
+        "index": 31
+    },
+    {
+        "text": "sveti",
+        "start": 21.34,
+        "end": 21.76,
+        "index": 32
+    },
+    {
+        "text": "gori",
+        "start": 21.84,
+        "end": 22.22,
+        "index": 33
+    },
+    {
+        "text": "pri",
+        "start": 22.6,
+        "end": 22.7,
+        "index": 34
+    },
+    {
+        "text": "gorici",
+        "start": 22.740000000000002,
+        "end": 23.18,
+        "index": 35
+    },
+    {
+        "text": "na",
+        "start": 23.42,
+        "end": 23.48,
+        "index": 36
+    },
+    {
+        "text": "to",
+        "start": 23.56,
+        "end": 23.68,
+        "index": 37
+    },
+    {
+        "text": "našo",
+        "start": 23.78,
+        "end": 24.060000000000002,
+        "index": 38
+    },
+    {
+        "text": "sveto",
+        "start": 24.1,
+        "end": 24.48,
+        "index": 39
+    },
+    {
+        "text": "goro",
+        "start": 24.6,
+        "end": 24.86,
+        "index": 40
+    },
+    {
+        "text": "tut",
+        "start": 24.92,
+        "end": 25.060000000000002,
+        "index": 41
+    },
+    {
+        "text": "gremo",
+        "start": 25.16,
+        "end": 25.48,
+        "index": 42
+    },
+    {
+        "text": "letos",
+        "start": 25.98,
+        "end": 26.38,
+        "index": 43
+    },
+    {
+        "text": "smo",
+        "start": 26.44,
+        "end": 26.560000000000002,
+        "index": 44
+    },
+    {
+        "text": "bli",
+        "start": 26.6,
+        "end": 26.76,
+        "index": 45
+    },
+    {
+        "text": "pa",
+        "start": 26.92,
+        "end": 26.98,
+        "index": 46
+    },
+    {
+        "text": "na",
+        "start": 27.26,
+        "end": 27.400000000000002,
+        "index": 47
+    },
+    {
+        "text": "krku",
+        "start": 27.8,
+        "end": 28.12,
+        "index": 48
+    },
+    {
+        "text": "na",
+        "start": 28.18,
+        "end": 28.48,
+        "index": 49
+    },
+    {
+        "text": "vem",
+        "start": 29.48,
+        "end": 29.6,
+        "index": 50
+    },
+    {
+        "text": "pa",
+        "start": 29.66,
+        "end": 29.76,
+        "index": 51
+    },
+    {
+        "text": "točno",
+        "start": 29.86,
+        "end": 30.22,
+        "index": 52
+    },
+    {
+        "text": "kak",
+        "start": 30.3,
+        "end": 30.5,
+        "index": 53
+    },
+    {
+        "text": "se",
+        "start": 30.6,
+        "end": 30.7,
+        "index": 54
+    },
+    {
+        "text": "reče",
+        "start": 30.76,
+        "end": 31.0,
+        "index": 55
+    },
+    {
+        "text": "en",
+        "start": 31.220000000000002,
+        "end": 31.26,
+        "index": 56
+    },
+    {
+        "text": "otoček",
+        "start": 31.32,
+        "end": 31.86,
+        "index": 57
+    },
+    {
+        "text": "na",
+        "start": 32.22,
+        "end": 32.26,
+        "index": 58
+    },
+    {
+        "text": "tistim",
+        "start": 32.32,
+        "end": 32.62,
+        "index": 59
+    },
+    {
+        "text": "otočki",
+        "start": 32.7,
+        "end": 33.14,
+        "index": 60
+    },
+    {
+        "text": "so",
+        "start": 33.18,
+        "end": 33.34,
+        "index": 61
+    },
+    {
+        "text": "na",
+        "start": 33.92,
+        "end": 33.96,
+        "index": 62
+    },
+    {
+        "text": "morem",
+        "start": 34.0,
+        "end": 34.22,
+        "index": 63
+    },
+    {
+        "text": "se",
+        "start": 34.300000000000004,
+        "end": 34.36,
+        "index": 64
+    },
+    {
+        "text": "zdej",
+        "start": 34.4,
+        "end": 34.54,
+        "index": 65
+    },
+    {
+        "text": "zmiselt",
+        "start": 34.6,
+        "end": 34.84,
+        "index": 66
+    },
+    {
+        "text": "so",
+        "start": 34.84,
+        "end": 35.08,
+        "index": 67
+    },
+    {
+        "text": "frančiškani",
+        "start": 35.14,
+        "end": 35.72,
+        "index": 68
+    },
+    {
+        "text": "samo",
+        "start": 35.96,
+        "end": 36.52,
+        "index": 69
+    },
+    {
+        "text": "samostan",
+        "start": 36.660000000000004,
+        "end": 37.160000000000004,
+        "index": 70
+    },
+    {
+        "text": "je",
+        "start": 37.28,
+        "end": 37.46,
+        "index": 71
+    },
+    {
+        "text": "pa",
+        "start": 38.28,
+        "end": 38.32,
+        "index": 72
+    },
+    {
+        "text": "cerkvica",
+        "start": 39.300000000000004,
+        "end": 40.1,
+        "index": 73
+    },
+    {
+        "text": "lepa",
+        "start": 40.4,
+        "end": 40.64,
+        "index": 74
+    },
+    {
+        "text": "in",
+        "start": 40.7,
+        "end": 41.82,
+        "index": 75
+    },
+    {
+        "text": "tam",
+        "start": 41.94,
+        "end": 42.12,
+        "index": 76
+    },
+    {
+        "text": "je",
+        "start": 42.160000000000004,
+        "end": 42.84,
+        "index": 77
+    },
+    {
+        "text": "sprot",
+        "start": 44.300000000000004,
+        "end": 44.56,
+        "index": 78
+    },
+    {
+        "text": "ko",
+        "start": 44.6,
+        "end": 44.660000000000004,
+        "index": 79
+    },
+    {
+        "text": "smo",
+        "start": 44.74,
+        "end": 44.82,
+        "index": 80
+    },
+    {
+        "text": "peršli",
+        "start": 44.88,
+        "end": 45.18,
+        "index": 81
+    },
+    {
+        "text": "smo",
+        "start": 45.28,
+        "end": 45.4,
+        "index": 82
+    },
+    {
+        "text": "vidli",
+        "start": 45.44,
+        "end": 45.68,
+        "index": 83
+    },
+    {
+        "text": "narisano",
+        "start": 45.94,
+        "end": 46.46,
+        "index": 84
+    },
+    {
+        "text": "da",
+        "start": 46.52,
+        "end": 46.6,
+        "index": 85
+    },
+    {
+        "text": "se",
+        "start": 46.72,
+        "end": 46.73,
+        "index": 86
+    },
+    {
+        "text": "ne",
+        "start": 46.800000000000004,
+        "end": 46.9,
+        "index": 87
+    },
+    {
+        "text": "sme",
+        "start": 47.06,
+        "end": 47.22,
+        "index": 88
+    },
+    {
+        "text": "hodit",
+        "start": 47.300000000000004,
+        "end": 47.56,
+        "index": 89
+    },
+    {
+        "text": "f",
+        "start": 47.62,
+        "end": 47.629999999999995,
+        "index": 90
+    },
+    {
+        "text": "kopalkah",
+        "start": 47.68,
+        "end": 48.46,
+        "index": 91
+    },
+    {
+        "text": "samo",
+        "start": 48.56,
+        "end": 48.86,
+        "index": 92
+    },
+    {
+        "text": "moraš",
+        "start": 49.26,
+        "end": 49.52,
+        "index": 93
+    },
+    {
+        "text": "bit",
+        "start": 49.620000000000005,
+        "end": 49.72,
+        "index": 94
+    },
+    {
+        "text": "dostojno",
+        "start": 49.76,
+        "end": 50.2,
+        "index": 95
+    },
+    {
+        "text": "oblečen",
+        "start": 50.300000000000004,
+        "end": 50.74,
+        "index": 96
+    },
+    {
+        "text": "in",
+        "start": 51.24,
+        "end": 51.36,
+        "index": 97
+    },
+    {
+        "text": "da",
+        "start": 51.480000000000004,
+        "end": 51.52,
+        "index": 98
+    },
+    {
+        "text": "se",
+        "start": 51.58,
+        "end": 51.68,
+        "index": 99
+    },
+    {
+        "text": "tam",
+        "start": 51.82,
+        "end": 51.9,
+        "index": 100
+    },
+    {
+        "text": "ne",
+        "start": 51.980000000000004,
+        "end": 52.1,
+        "index": 101
+    },
+    {
+        "text": "smejo",
+        "start": 52.24,
+        "end": 52.54,
+        "index": 102
+    },
+    {
+        "text": "kopat",
+        "start": 52.58,
+        "end": 52.96,
+        "index": 103
+    }
+]

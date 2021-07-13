@@ -1,0 +1,497 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "lanskinjo lijeto",
+        "text-start": 0,
+        "text-end": 9,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "lanskinjo",
+        "aligned": "lanskinjo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "sm se",
+        "text-start": 13,
+        "text-end": 18,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "sm se",
+        "aligned": "sm se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "oženu žena",
+        "text-start": 22,
+        "text-end": 31,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "žena žena",
+        "aligned": "žena žena"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "moja umrla",
+        "text-start": 38,
+        "text-end": 42,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "ija ",
+        "aligned": "ija "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "mje pa",
+        "text-start": 44,
+        "text-end": 48,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "re p",
+        "aligned": "re p"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "nič druzega",
+        "text-start": 48,
+        "text-end": 57,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "a druzega",
+        "aligned": "a druzega"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "me nje",
+        "text-start": 58,
+        "text-end": 64,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "me nje",
+        "aligned": "me nje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "pustila ko",
+        "text-start": 65,
+        "text-end": 75,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "pustila ko",
+        "aligned": "pustila ko"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "no djece",
+        "text-start": 76,
+        "text-end": 84,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "no djece",
+        "aligned": "no djece"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "sprumlado ja",
+        "text-start": 85,
+        "text-end": 97,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "sprumlado ja",
+        "aligned": "sprumlado ja"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "še tisto",
+        "text-start": 98,
+        "text-end": 106,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "še tisto",
+        "aligned": "še tisto"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "prov milo",
+        "text-start": 107,
+        "text-end": 116,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "prov milo",
+        "aligned": "prov milo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "joče milo",
+        "text-start": 117,
+        "text-end": 126,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "joče milo",
+        "aligned": "joče milo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "kliče mater",
+        "text-start": 127,
+        "text-end": 138,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "kliče mater",
+        "aligned": "kliče mater"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "svojo žena",
+        "text-start": 139,
+        "text-end": 149,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "svojo žena",
+        "aligned": "svojo žena"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "moja vstani",
+        "text-start": 150,
+        "text-end": 161,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "moja vstani",
+        "aligned": "moja vstani"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "gori am",
+        "text-start": 162,
+        "text-end": 169,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "gori am",
+        "aligned": "gori am"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "to djece",
+        "text-start": 170,
+        "text-end": 176,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "to nje",
+        "aligned": "to nje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "mi podojiš",
+        "text-start": 180,
+        "text-end": 184,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "mi p",
+        "aligned": "mi p"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "kako jist",
+        "text-start": 190,
+        "text-end": 199,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "kako jist",
+        "aligned": "kako jist"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "morem gori",
+        "text-start": 200,
+        "text-end": 202,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "me",
+        "aligned": "me"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "vstati kjer",
+        "text-start": 203,
+        "text-end": 214,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "vstati kjer",
+        "aligned": "vstati kjer"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "črna zemja",
+        "text-start": 224,
+        "text-end": 227,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "ja ",
+        "aligned": "ja "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "me dol",
+        "text-start": 227,
+        "text-end": 233,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "me dol",
+        "aligned": "me dol"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "tišči obrni",
+        "text-start": 234,
+        "text-end": 245,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "tišči obrni",
+        "aligned": "tišči obrni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "se prot",
+        "text-start": 246,
+        "text-end": 252,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "se pro",
+        "aligned": "se pro"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "tvojmu duomu",
+        "text-start": 258,
+        "text-end": 265,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "o duomu",
+        "aligned": "o duomu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "jan to",
+        "text-start": 270,
+        "text-end": 274,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "m to",
+        "aligned": "m to"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "djecej podojeno",
+        "text-start": 275,
+        "text-end": 290,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "djecej podojeno",
+        "aligned": "djecej podojeno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "sama marija",
+        "text-start": 294,
+        "text-end": 305,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "sama marija",
+        "aligned": "sama marija"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "gaj podojila",
+        "text-start": 306,
+        "text-end": 318,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "gaj podojila",
+        "aligned": "gaj podojila"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "smiljen ježuš",
+        "text-start": 319,
+        "text-end": 329,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "smiljen ja",
+        "aligned": "smiljen ja"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "zibu gaj",
+        "text-start": 334,
+        "text-end": 339,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "zibu ",
+        "aligned": "zibu "
+    }
+]

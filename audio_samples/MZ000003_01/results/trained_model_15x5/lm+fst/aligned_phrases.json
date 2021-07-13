@@ -1,0 +1,527 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "pejmo spat boh",
+        "text-start": 0,
+        "text-end": 14,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "pejmo spat boh",
+        "aligned": "pejmo spat boh"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "je zvat",
+        "text-start": 15,
+        "text-end": 22,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "je zvat",
+        "aligned": "je zvat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "pejmo gledat",
+        "text-start": 23,
+        "text-end": 35,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "pejmo gledat",
+        "aligned": "pejmo gledat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "kaj marija",
+        "text-start": 36,
+        "text-end": 46,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "kaj marija",
+        "aligned": "kaj marija"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "dela marija",
+        "text-start": 47,
+        "text-end": 58,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "dela marija",
+        "aligned": "dela marija"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "na zvatmo",
+        "text-start": 59,
+        "text-end": 68,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "na zvatmo",
+        "aligned": "na zvatmo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "stoučku sedi",
+        "text-start": 69,
+        "text-end": 79,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "stoučku se",
+        "aligned": "stoučku se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "nebeške dušice",
+        "text-start": 83,
+        "text-end": 97,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "nebeške dušice",
+        "aligned": "nebeške dušice"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "napaja jeh",
+        "text-start": 98,
+        "text-end": 107,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "napaja je",
+        "aligned": "napaja je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "u svet",
+        "text-start": 108,
+        "text-end": 111,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "u s",
+        "aligned": "u s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "rej pusaja",
+        "text-start": 116,
+        "text-end": 124,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "t pusaja",
+        "aligned": "t pusaja"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "da bi",
+        "text-start": 125,
+        "text-end": 128,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "da ",
+        "aligned": "da "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "še naše",
+        "text-start": 128,
+        "text-end": 135,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "še naše",
+        "aligned": "še naše"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "duše napojiva",
+        "text-start": 136,
+        "text-end": 149,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "duše napojiva",
+        "aligned": "duše napojiva"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "jeh u",
+        "text-start": 151,
+        "text-end": 154,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "e u",
+        "aligned": "e u"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "svet rej",
+        "text-start": 155,
+        "text-end": 163,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "svet rej",
+        "aligned": "svet rej"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "pusadiva jezus",
+        "text-start": 164,
+        "text-end": 178,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "pusadiva jezus",
+        "aligned": "pusadiva jezus"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "kristus amen",
+        "text-start": 179,
+        "text-end": 191,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "kristus amen",
+        "aligned": "kristus amen"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "jezus pa",
+        "text-start": 194,
+        "text-end": 202,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "jezus pa",
+        "aligned": "jezus pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "marija sta",
+        "text-start": 203,
+        "text-end": 212,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "marija se",
+        "aligned": "marija se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "rekva dol",
+        "text-start": 213,
+        "text-end": 220,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "rekva d",
+        "aligned": "rekva d"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "lečt trdu",
+        "text-start": 222,
+        "text-end": 231,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "lečt trdu",
+        "aligned": "lečt trdu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "zaspat nkogar",
+        "text-start": 232,
+        "text-end": 245,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "zaspat nkogar",
+        "aligned": "zaspat nkogar"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "se bat",
+        "text-start": 246,
+        "text-end": 252,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "se bat",
+        "aligned": "se bat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "tri nebeške",
+        "text-start": 253,
+        "text-end": 264,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "tri nebeške",
+        "aligned": "tri nebeške"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "angelčke k",
+        "text-start": 265,
+        "text-end": 275,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "angelčke k",
+        "aligned": "angelčke k"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "nam pusvat",
+        "text-start": 276,
+        "text-end": 286,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "nam pusvat",
+        "aligned": "nam pusvat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "pru nes",
+        "text-start": 287,
+        "text-end": 294,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "pru nes",
+        "aligned": "pru nes"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "bo vižou",
+        "text-start": 295,
+        "text-end": 303,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "bo vižou",
+        "aligned": "bo vižou"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "drug bo",
+        "text-start": 304,
+        "text-end": 311,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "drug bo",
+        "aligned": "drug bo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "špižou trit",
+        "text-start": 312,
+        "text-end": 322,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "špižou tri",
+        "aligned": "špižou tri"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "bo varvou",
+        "text-start": 323,
+        "text-end": 326,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "bo ",
+        "aligned": "bo "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "mojo ubogo",
+        "text-start": 330,
+        "text-end": 337,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "mojo bo",
+        "aligned": "mojo bo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "dušo in",
+        "text-start": 338,
+        "text-end": 345,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": "dušo in",
+        "aligned": "dušo in"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "telo amen",
+        "text-start": 346,
+        "text-end": 353,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "telo am",
+        "aligned": "telo am"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "včas naprej",
+        "text-start": 0,
+        "text-end": 11,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "včas naprej",
+        "aligned": "včas naprej"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "so se",
+        "text-start": 12,
+        "text-end": 17,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "so se",
+        "aligned": "so se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "pa pričkal",
+        "text-start": 18,
+        "text-end": 28,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "pa pričkal",
+        "aligned": "pa pričkal"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "pričkal tu",
+        "text-start": 29,
+        "text-end": 39,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "pričkal tu",
+        "aligned": "pričkal tu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "je de",
+        "text-start": 46,
+        "text-end": 51,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "ne de",
+        "aligned": "ne de"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "eden sedi",
+        "text-start": 55,
+        "text-end": 64,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "eden sedi",
+        "aligned": "eden sedi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "in vzame",
+        "text-start": 65,
+        "text-end": 73,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "in vzame",
+        "aligned": "in vzame"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "glavo na",
+        "text-start": 74,
+        "text-end": 82,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "glavo na",
+        "aligned": "glavo na"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "kolena tet",
+        "text-start": 83,
+        "text-end": 90,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "kolena ",
+        "aligned": "kolena "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "de on",
+        "text-start": 93,
+        "text-end": 98,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "de on",
+        "aligned": "de on"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "ne vidi",
+        "text-start": 100,
+        "text-end": 106,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "a vidi",
+        "aligned": "a vidi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "in ga",
+        "text-start": 107,
+        "text-end": 112,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "in ga",
+        "aligned": "in ga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "eden fejst",
+        "text-start": 113,
+        "text-end": 123,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "eden fejst",
+        "aligned": "eden fejst"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "po riti",
+        "text-start": 124,
+        "text-end": 131,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "po riti",
+        "aligned": "po riti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "pertegne un",
+        "text-start": 132,
+        "text-end": 141,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "pertegne ",
+        "aligned": "pertegne "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "pa more",
+        "text-start": 144,
+        "text-end": 151,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "pa more",
+        "aligned": "pa more"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "vgonit ker",
+        "text-start": 155,
+        "text-end": 165,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "vgonit ker",
+        "aligned": "vgonit ker"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "ga je",
+        "text-start": 166,
+        "text-end": 171,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "ga je",
+        "aligned": "ga je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "če ni",
+        "text-start": 172,
+        "text-end": 177,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "če ni",
+        "aligned": "če ni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "moreš če",
+        "text-start": 178,
+        "text-end": 186,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "moreš če",
+        "aligned": "moreš če"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "ne ne",
+        "text-start": 187,
+        "text-end": 192,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "ne ne",
+        "aligned": "ne ne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "ugane ne",
+        "text-start": 196,
+        "text-end": 204,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "ugane ne",
+        "aligned": "ugane ne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "ga se",
+        "text-start": 209,
+        "text-end": 213,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "n se",
+        "aligned": "n se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "še enkrat",
+        "text-start": 214,
+        "text-end": 223,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "še enkrat",
+        "aligned": "še enkrat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "more še",
+        "text-start": 224,
+        "text-end": 231,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "more še",
+        "aligned": "more še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "enkrat nastaut",
+        "text-start": 232,
+        "text-end": 246,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "enkrat nastaut",
+        "aligned": "enkrat nastaut"
+    }
+]

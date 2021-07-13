@@ -1,0 +1,632 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "pšenička na polju",
+        "text-start": 0,
+        "text-end": 17,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "pšenička na polju",
+        "aligned": "pšenička na polju"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "rumeni mamica",
+        "text-start": 21,
+        "text-end": 30,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "ni mamica",
+        "aligned": "ni mamica"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "moja pa",
+        "text-start": 31,
+        "text-end": 38,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "moja pa",
+        "aligned": "moja pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "v grobu",
+        "text-start": 38,
+        "text-end": 44,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": " grobu",
+        "aligned": " grobu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "spi nesrečna smrt kaj",
+        "text-start": 49,
+        "text-end": 59,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "v nesrečna",
+        "aligned": "v nesrečna"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "strila si ti da",
+        "text-start": 69,
+        "text-end": 84,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "strila se ti da",
+        "aligned": "strila se ti da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "mamco umorila si mi",
+        "text-start": 85,
+        "text-end": 94,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "mamco moj",
+        "aligned": "mamco moj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "nesrečna smrt",
+        "text-start": 97,
+        "text-end": 102,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": " na s",
+        "aligned": " na s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "kaj strila",
+        "text-start": 120,
+        "text-end": 130,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "kaj strila",
+        "aligned": "kaj strila"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "si ti",
+        "text-start": 132,
+        "text-end": 136,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "e ti",
+        "aligned": "e ti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "da mamco",
+        "text-start": 139,
+        "text-end": 146,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "n mamco",
+        "aligned": "n mamco"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "umorila si",
+        "text-start": 154,
+        "text-end": 159,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "na si",
+        "aligned": "na si"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "mi mežnarček",
+        "text-start": 160,
+        "text-end": 172,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "mi mežnarček",
+        "aligned": "mi mežnarček"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "beli dan",
+        "text-start": 173,
+        "text-end": 180,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "beli da",
+        "aligned": "beli da"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "zvoni knemu",
+        "text-start": 187,
+        "text-end": 194,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "v knemu",
+        "aligned": "v knemu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "pa dete",
+        "text-start": 195,
+        "text-end": 202,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "pa dete",
+        "aligned": "pa dete"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "prihiti povej",
+        "text-start": 203,
+        "text-end": 213,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "prihiti pa",
+        "aligned": "prihiti pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "povej moj mežnarček ti",
+        "text-start": 223,
+        "text-end": 242,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "in moj mežnarček ti",
+        "aligned": "in moj mežnarček ti"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "kje moja mamica spi",
+        "text-start": 243,
+        "text-end": 262,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "kje moja mamica spi",
+        "aligned": "kje moja mamica spi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "povej povej moj mežnarček",
+        "text-start": 263,
+        "text-end": 288,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "povej pa in moj mežnarček",
+        "aligned": "povej pa in moj mežnarček"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "ti kje",
+        "text-start": 289,
+        "text-end": 294,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "ti je",
+        "aligned": "ti je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "moja mamica",
+        "text-start": 295,
+        "text-end": 306,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "moja mamica",
+        "aligned": "moja mamica"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "spi mežnar",
+        "text-start": 307,
+        "text-end": 317,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "spi mežnar",
+        "aligned": "spi mežnar"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "jo prime",
+        "text-start": 318,
+        "text-end": 326,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "jo prime",
+        "aligned": "jo prime"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "za roko",
+        "text-start": 327,
+        "text-end": 334,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "da roko",
+        "aligned": "da roko"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "in jo",
+        "text-start": 338,
+        "text-end": 343,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "in jo",
+        "aligned": "in jo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "pelje za",
+        "text-start": 344,
+        "text-end": 352,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "pelje za",
+        "aligned": "pelje za"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "cerkvico tam boma našla",
+        "text-start": 357,
+        "text-end": 374,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "za tam boma našla",
+        "aligned": "za tam boma našla"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "jamico notri pa tvojo mamico tam boma našla",
+        "text-start": 375,
+        "text-end": 416,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "jamico notri pa jo mami se tam boma našla",
+        "aligned": "jamico notri pa jo mami se tam boma našla"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "jamico notri",
+        "text-start": 417,
+        "text-end": 429,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "jamico notri",
+        "aligned": "jamico notri"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "pa tvojo",
+        "text-start": 430,
+        "text-end": 433,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": "pa ",
+        "aligned": "pa "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "mamico dokler",
+        "text-start": 436,
+        "text-end": 441,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "mamic",
+        "aligned": "mamic"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "otroku mamca",
+        "text-start": 456,
+        "text-end": 466,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": "roko mamca",
+        "aligned": "roko mamca"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "živi saj",
+        "text-start": 467,
+        "text-end": 475,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": "živi saj",
+        "aligned": "živi saj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "ne ve",
+        "text-start": 476,
+        "text-end": 481,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "ne ve",
+        "aligned": "ne ve"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 35,
+        "transcript": "kak dobro",
+        "text-start": 482,
+        "text-end": 491,
+        "meta": {
+            "index": [
+                35
+            ]
+        },
+        "aligned-raw": "kak dobro",
+        "aligned": "kak dobro"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 36,
+        "transcript": "mu je",
+        "text-start": 492,
+        "text-end": 497,
+        "meta": {
+            "index": [
+                36
+            ]
+        },
+        "aligned-raw": "mu je",
+        "aligned": "mu je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 37,
+        "transcript": "ko pa",
+        "text-start": 550,
+        "text-end": 555,
+        "meta": {
+            "index": [
+                37
+            ]
+        },
+        "aligned-raw": "ko pa",
+        "aligned": "ko pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 38,
+        "transcript": "enkrat mamce",
+        "text-start": 556,
+        "text-end": 568,
+        "meta": {
+            "index": [
+                38
+            ]
+        },
+        "aligned-raw": "enkrat mamce",
+        "aligned": "enkrat mamce"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 39,
+        "transcript": "več ni",
+        "text-start": 569,
+        "text-end": 574,
+        "meta": {
+            "index": [
+                39
+            ]
+        },
+        "aligned-raw": "več n",
+        "aligned": "več n"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 40,
+        "transcript": "takrat se",
+        "text-start": 576,
+        "text-end": 585,
+        "meta": {
+            "index": [
+                40
+            ]
+        },
+        "aligned-raw": "takrat se",
+        "aligned": "takrat se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 41,
+        "transcript": "otroku spremeni ko pa enkrat mamce več ni takrat se otroku spremeni",
+        "text-start": 586,
+        "text-end": 599,
+        "meta": {
+            "index": [
+                41
+            ]
+        },
+        "aligned-raw": "otroku spreme",
+        "aligned": "otroku spreme"
+    }
+]

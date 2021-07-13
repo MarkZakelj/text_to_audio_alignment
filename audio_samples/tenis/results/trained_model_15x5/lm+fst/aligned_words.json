@@ -1,0 +1,1196 @@
+[
+    {
+        "text": "tenis",
+        "start": 0.48,
+        "end": 1.04,
+        "index": 0
+    },
+    {
+        "text": "je",
+        "start": 1.04,
+        "end": 1.08,
+        "index": 1
+    },
+    {
+        "text": "šport",
+        "start": 1.26,
+        "end": 1.52,
+        "index": 2
+    },
+    {
+        "text": "z",
+        "start": 1.58,
+        "end": 1.59,
+        "index": 3
+    },
+    {
+        "text": "loparjem",
+        "start": 1.6,
+        "end": 2.14,
+        "index": 4
+    },
+    {
+        "text": "za",
+        "start": 2.22,
+        "end": 2.2800000000000002,
+        "index": 5
+    },
+    {
+        "text": "dva",
+        "start": 2.32,
+        "end": 2.44,
+        "index": 6
+    },
+    {
+        "text": "nasprotna",
+        "start": 2.56,
+        "end": 3.08,
+        "index": 7
+    },
+    {
+        "text": "igralca",
+        "start": 3.12,
+        "end": 3.58,
+        "index": 8
+    },
+    {
+        "text": "ali",
+        "start": 4.1,
+        "end": 4.18,
+        "index": 9
+    },
+    {
+        "text": "za",
+        "start": 4.24,
+        "end": 4.32,
+        "index": 10
+    },
+    {
+        "text": "dve",
+        "start": 4.42,
+        "end": 4.5200000000000005,
+        "index": 11
+    },
+    {
+        "text": "nasprotni",
+        "start": 4.58,
+        "end": 5.0600000000000005,
+        "index": 12
+    },
+    {
+        "text": "skupini",
+        "start": 5.16,
+        "end": 5.5600000000000005,
+        "index": 13
+    },
+    {
+        "text": "s",
+        "start": 5.62,
+        "end": 5.64,
+        "index": 14
+    },
+    {
+        "text": "po",
+        "start": 5.76,
+        "end": 5.82,
+        "index": 15
+    },
+    {
+        "text": "dvema",
+        "start": 5.86,
+        "end": 6.140000000000001,
+        "index": 16
+    },
+    {
+        "text": "igralcema",
+        "start": 6.2,
+        "end": 6.72,
+        "index": 17
+    },
+    {
+        "text": "igra",
+        "start": 7.78,
+        "end": 8.02,
+        "index": 18
+    },
+    {
+        "text": "se",
+        "start": 8.16,
+        "end": 8.24,
+        "index": 19
+    },
+    {
+        "text": "na",
+        "start": 8.28,
+        "end": 8.34,
+        "index": 20
+    },
+    {
+        "text": "igrišču",
+        "start": 8.42,
+        "end": 8.86,
+        "index": 21
+    },
+    {
+        "text": "razdeljenim",
+        "start": 9.200000000000001,
+        "end": 9.78,
+        "index": 22
+    },
+    {
+        "text": "v",
+        "start": 9.84,
+        "end": 9.85,
+        "index": 23
+    },
+    {
+        "text": "dve",
+        "start": 9.88,
+        "end": 10.040000000000001,
+        "index": 24
+    },
+    {
+        "text": "polovici",
+        "start": 10.16,
+        "end": 10.620000000000001,
+        "index": 25
+    },
+    {
+        "text": "z",
+        "start": 11.14,
+        "end": 11.15,
+        "index": 26
+    },
+    {
+        "text": "nizko",
+        "start": 11.26,
+        "end": 11.48,
+        "index": 27
+    },
+    {
+        "text": "postavljeno",
+        "start": 11.540000000000001,
+        "end": 12.040000000000001,
+        "index": 28
+    },
+    {
+        "text": "mrežo",
+        "start": 12.14,
+        "end": 12.42,
+        "index": 29
+    },
+    {
+        "text": "na",
+        "start": 12.46,
+        "end": 12.52,
+        "index": 30
+    },
+    {
+        "text": "sredini",
+        "start": 12.6,
+        "end": 12.96,
+        "index": 31
+    },
+    {
+        "text": "igrišča",
+        "start": 13.02,
+        "end": 13.44,
+        "index": 32
+    },
+    {
+        "text": "igralci",
+        "start": 14.34,
+        "end": 14.700000000000001,
+        "index": 33
+    },
+    {
+        "text": "za",
+        "start": 14.780000000000001,
+        "end": 14.86,
+        "index": 34
+    },
+    {
+        "text": "igranje",
+        "start": 14.94,
+        "end": 15.24,
+        "index": 35
+    },
+    {
+        "text": "uporabljajo",
+        "start": 15.280000000000001,
+        "end": 15.74,
+        "index": 36
+    },
+    {
+        "text": "lopar",
+        "start": 15.84,
+        "end": 16.16,
+        "index": 37
+    },
+    {
+        "text": "s",
+        "start": 16.16,
+        "end": 16.36,
+        "index": 38
+    },
+    {
+        "text": "katerim",
+        "start": 16.8,
+        "end": 17.1,
+        "index": 39
+    },
+    {
+        "text": "odbijajo",
+        "start": 17.14,
+        "end": 17.580000000000002,
+        "index": 40
+    },
+    {
+        "text": "s",
+        "start": 17.900000000000002,
+        "end": 17.910000000000004,
+        "index": 41
+    },
+    {
+        "text": "klobučevino",
+        "start": 17.92,
+        "end": 18.580000000000002,
+        "index": 42
+    },
+    {
+        "text": "prekrito",
+        "start": 18.72,
+        "end": 19.1,
+        "index": 43
+    },
+    {
+        "text": "votlo",
+        "start": 19.14,
+        "end": 19.72,
+        "index": 44
+    },
+    {
+        "text": "gumijasto",
+        "start": 19.84,
+        "end": 20.2,
+        "index": 45
+    },
+    {
+        "text": "žogico",
+        "start": 20.26,
+        "end": 20.64,
+        "index": 46
+    },
+    {
+        "text": "prek",
+        "start": 21.44,
+        "end": 21.6,
+        "index": 47
+    },
+    {
+        "text": "mreže",
+        "start": 21.64,
+        "end": 21.92,
+        "index": 48
+    },
+    {
+        "text": "na",
+        "start": 22.02,
+        "end": 22.080000000000002,
+        "index": 49
+    },
+    {
+        "text": "sredini",
+        "start": 22.12,
+        "end": 22.44,
+        "index": 50
+    },
+    {
+        "text": "igrišča",
+        "start": 22.56,
+        "end": 22.92,
+        "index": 51
+    },
+    {
+        "text": "na",
+        "start": 23.06,
+        "end": 23.14,
+        "index": 52
+    },
+    {
+        "text": "nasprotno",
+        "start": 23.22,
+        "end": 23.7,
+        "index": 53
+    },
+    {
+        "text": "stran",
+        "start": 23.78,
+        "end": 24.1,
+        "index": 54
+    },
+    {
+        "text": "igrišča",
+        "start": 24.3,
+        "end": 24.44,
+        "index": 55
+    },
+    {
+        "text": "če",
+        "start": 24.44,
+        "end": 24.52,
+        "index": 56
+    },
+    {
+        "text": "se",
+        "start": 25.64,
+        "end": 25.7,
+        "index": 57
+    },
+    {
+        "text": "žoga",
+        "start": 25.76,
+        "end": 25.98,
+        "index": 58
+    },
+    {
+        "text": "na",
+        "start": 26.080000000000002,
+        "end": 26.1,
+        "index": 59
+    },
+    {
+        "text": "igralčevi",
+        "start": 26.16,
+        "end": 26.62,
+        "index": 60
+    },
+    {
+        "text": "strani",
+        "start": 26.76,
+        "end": 27.060000000000002,
+        "index": 61
+    },
+    {
+        "text": "igrišča",
+        "start": 27.1,
+        "end": 27.740000000000002,
+        "index": 62
+    },
+    {
+        "text": "odbije",
+        "start": 27.82,
+        "end": 28.060000000000002,
+        "index": 63
+    },
+    {
+        "text": "dvakrat",
+        "start": 28.12,
+        "end": 28.6,
+        "index": 64
+    },
+    {
+        "text": "dobi",
+        "start": 29.0,
+        "end": 29.14,
+        "index": 65
+    },
+    {
+        "text": "točke",
+        "start": 29.2,
+        "end": 29.46,
+        "index": 66
+    },
+    {
+        "text": "nasprotnik",
+        "start": 29.6,
+        "end": 30.12,
+        "index": 67
+    },
+    {
+        "text": "prav",
+        "start": 30.2,
+        "end": 31.12,
+        "index": 68
+    },
+    {
+        "text": "tako",
+        "start": 31.220000000000002,
+        "end": 31.36,
+        "index": 69
+    },
+    {
+        "text": "nasprotnik",
+        "start": 31.42,
+        "end": 31.900000000000002,
+        "index": 70
+    },
+    {
+        "text": "dobi",
+        "start": 32.02,
+        "end": 32.160000000000004,
+        "index": 71
+    },
+    {
+        "text": "točke",
+        "start": 32.2,
+        "end": 32.6,
+        "index": 72
+    },
+    {
+        "text": "če",
+        "start": 33.18,
+        "end": 33.22,
+        "index": 73
+    },
+    {
+        "text": "igralec",
+        "start": 33.28,
+        "end": 33.660000000000004,
+        "index": 74
+    },
+    {
+        "text": "žoge",
+        "start": 33.78,
+        "end": 34.0,
+        "index": 75
+    },
+    {
+        "text": "ne",
+        "start": 34.04,
+        "end": 34.1,
+        "index": 76
+    },
+    {
+        "text": "udari",
+        "start": 34.18,
+        "end": 34.4,
+        "index": 77
+    },
+    {
+        "text": "z",
+        "start": 34.46,
+        "end": 34.480000000000004,
+        "index": 78
+    },
+    {
+        "text": "loparjem",
+        "start": 34.56,
+        "end": 34.980000000000004,
+        "index": 79
+    },
+    {
+        "text": "jo",
+        "start": 35.78,
+        "end": 35.9,
+        "index": 80
+    },
+    {
+        "text": "z",
+        "start": 35.980000000000004,
+        "end": 35.99,
+        "index": 81
+    },
+    {
+        "text": "udarcem",
+        "start": 36.02,
+        "end": 36.42,
+        "index": 82
+    },
+    {
+        "text": "pošlje",
+        "start": 36.7,
+        "end": 36.9,
+        "index": 83
+    },
+    {
+        "text": "izven",
+        "start": 36.9,
+        "end": 36.980000000000004,
+        "index": 84
+    },
+    {
+        "text": "nasprotnikove",
+        "start": 37.22,
+        "end": 37.9,
+        "index": 85
+    },
+    {
+        "text": "polovice",
+        "start": 37.980000000000004,
+        "end": 38.52,
+        "index": 86
+    },
+    {
+        "text": "ali",
+        "start": 39.26,
+        "end": 39.28,
+        "index": 87
+    },
+    {
+        "text": "jo",
+        "start": 39.32,
+        "end": 39.38,
+        "index": 88
+    },
+    {
+        "text": "udari",
+        "start": 39.480000000000004,
+        "end": 39.64,
+        "index": 89
+    },
+    {
+        "text": "z",
+        "start": 39.78,
+        "end": 39.800000000000004,
+        "index": 90
+    },
+    {
+        "text": "loparjem",
+        "start": 39.88,
+        "end": 40.300000000000004,
+        "index": 91
+    },
+    {
+        "text": "ko",
+        "start": 40.52,
+        "end": 40.660000000000004,
+        "index": 92
+    },
+    {
+        "text": "je",
+        "start": 40.74,
+        "end": 40.800000000000004,
+        "index": 93
+    },
+    {
+        "text": "v",
+        "start": 40.86,
+        "end": 40.87,
+        "index": 94
+    },
+    {
+        "text": "zraku",
+        "start": 41.0,
+        "end": 41.300000000000004,
+        "index": 95
+    },
+    {
+        "text": "še",
+        "start": 41.38,
+        "end": 41.52,
+        "index": 96
+    },
+    {
+        "text": "na",
+        "start": 41.6,
+        "end": 41.660000000000004,
+        "index": 97
+    },
+    {
+        "text": "nasprotnikovi",
+        "start": 41.7,
+        "end": 42.52,
+        "index": 98
+    },
+    {
+        "text": "polovici",
+        "start": 42.62,
+        "end": 43.06,
+        "index": 99
+    },
+    {
+        "text": "športniku",
+        "start": 44.22,
+        "end": 44.86,
+        "index": 100
+    },
+    {
+        "text": "oziroma",
+        "start": 45.04,
+        "end": 45.34,
+        "index": 101
+    },
+    {
+        "text": "športnici",
+        "start": 45.4,
+        "end": 45.980000000000004,
+        "index": 102
+    },
+    {
+        "text": "ki",
+        "start": 46.54,
+        "end": 46.58,
+        "index": 103
+    },
+    {
+        "text": "se",
+        "start": 46.660000000000004,
+        "end": 46.74,
+        "index": 104
+    },
+    {
+        "text": "ukvarja",
+        "start": 46.82,
+        "end": 47.12,
+        "index": 105
+    },
+    {
+        "text": "s",
+        "start": 47.18,
+        "end": 47.19,
+        "index": 106
+    },
+    {
+        "text": "tenisom",
+        "start": 47.28,
+        "end": 47.72,
+        "index": 107
+    },
+    {
+        "text": "rečemo",
+        "start": 48.0,
+        "end": 48.4,
+        "index": 108
+    },
+    {
+        "text": "tenisač",
+        "start": 48.5,
+        "end": 49.0,
+        "index": 109
+    },
+    {
+        "text": "ali",
+        "start": 49.300000000000004,
+        "end": 49.46,
+        "index": 110
+    },
+    {
+        "text": "teniški",
+        "start": 49.58,
+        "end": 49.96,
+        "index": 111
+    },
+    {
+        "text": "igralec",
+        "start": 50.0,
+        "end": 50.44,
+        "index": 112
+    },
+    {
+        "text": "oziroma",
+        "start": 51.06,
+        "end": 51.300000000000004,
+        "index": 113
+    },
+    {
+        "text": "tenisačica",
+        "start": 51.44,
+        "end": 52.14,
+        "index": 114
+    },
+    {
+        "text": "ali",
+        "start": 52.24,
+        "end": 52.9,
+        "index": 115
+    },
+    {
+        "text": "teniška",
+        "start": 52.96,
+        "end": 53.38,
+        "index": 116
+    },
+    {
+        "text": "igralka",
+        "start": 53.52,
+        "end": 53.9,
+        "index": 117
+    },
+    {
+        "text": "tenis",
+        "start": 55.160000000000004,
+        "end": 56.38,
+        "index": 118
+    },
+    {
+        "text": "izhaja",
+        "start": 56.64,
+        "end": 56.86,
+        "index": 119
+    },
+    {
+        "text": "iz",
+        "start": 57.04,
+        "end": 57.08,
+        "index": 120
+    },
+    {
+        "text": "poznega",
+        "start": 57.2,
+        "end": 57.58,
+        "index": 121
+    },
+    {
+        "text": "devetnajstega",
+        "start": 57.620000000000005,
+        "end": 58.300000000000004,
+        "index": 122
+    },
+    {
+        "text": "stoletja",
+        "start": 58.42,
+        "end": 58.88,
+        "index": 123
+    },
+    {
+        "text": "ko",
+        "start": 58.94,
+        "end": 59.64,
+        "index": 124
+    },
+    {
+        "text": "so",
+        "start": 59.72,
+        "end": 59.73,
+        "index": 125
+    },
+    {
+        "text": "ga",
+        "start": 59.76,
+        "end": 59.800000000000004,
+        "index": 126
+    },
+    {
+        "text": "začeli",
+        "start": 59.94,
+        "end": 60.26,
+        "index": 127
+    },
+    {
+        "text": "igrati",
+        "start": 60.300000000000004,
+        "end": 60.660000000000004,
+        "index": 128
+    },
+    {
+        "text": "v",
+        "start": 60.74,
+        "end": 60.75,
+        "index": 129
+    },
+    {
+        "text": "angliji",
+        "start": 60.74,
+        "end": 60.84,
+        "index": 130
+    },
+    {
+        "text": "danes",
+        "start": 62.160000000000004,
+        "end": 62.4,
+        "index": 131
+    },
+    {
+        "text": "ima",
+        "start": 62.46,
+        "end": 62.88,
+        "index": 132
+    },
+    {
+        "text": "tenis",
+        "start": 63.04,
+        "end": 63.26,
+        "index": 133
+    },
+    {
+        "text": "po",
+        "start": 63.38,
+        "end": 63.480000000000004,
+        "index": 134
+    },
+    {
+        "text": "vsem",
+        "start": 63.54,
+        "end": 63.74,
+        "index": 135
+    },
+    {
+        "text": "svetu",
+        "start": 63.800000000000004,
+        "end": 64.14,
+        "index": 136
+    },
+    {
+        "text": "na",
+        "start": 64.26,
+        "end": 64.3,
+        "index": 137
+    },
+    {
+        "text": "milijone",
+        "start": 64.34,
+        "end": 64.68,
+        "index": 138
+    },
+    {
+        "text": "privržencev",
+        "start": 64.82000000000001,
+        "end": 65.44,
+        "index": 139
+    },
+    {
+        "text": "in",
+        "start": 65.58,
+        "end": 65.68,
+        "index": 140
+    },
+    {
+        "text": "gledalcev",
+        "start": 65.74,
+        "end": 66.24,
+        "index": 141
+    },
+    {
+        "text": "profesionalni",
+        "start": 66.92,
+        "end": 67.64,
+        "index": 142
+    },
+    {
+        "text": "tekmovalci",
+        "start": 67.76,
+        "end": 68.28,
+        "index": 143
+    },
+    {
+        "text": "pa",
+        "start": 68.52,
+        "end": 68.62,
+        "index": 144
+    },
+    {
+        "text": "so",
+        "start": 68.7,
+        "end": 68.74,
+        "index": 145
+    },
+    {
+        "text": "znani",
+        "start": 68.82000000000001,
+        "end": 69.10000000000001,
+        "index": 146
+    },
+    {
+        "text": "po",
+        "start": 69.2,
+        "end": 69.26,
+        "index": 147
+    },
+    {
+        "text": "dobrem",
+        "start": 69.3,
+        "end": 69.62,
+        "index": 148
+    },
+    {
+        "text": "zaslužku",
+        "start": 69.74,
+        "end": 70.24,
+        "index": 149
+    },
+    {
+        "text": "med",
+        "start": 71.26,
+        "end": 71.42,
+        "index": 150
+    },
+    {
+        "text": "številnimi",
+        "start": 71.5,
+        "end": 71.98,
+        "index": 151
+    },
+    {
+        "text": "mednarodnimi",
+        "start": 72.04,
+        "end": 72.7,
+        "index": 152
+    },
+    {
+        "text": "teniškimi",
+        "start": 72.92,
+        "end": 73.4,
+        "index": 153
+    },
+    {
+        "text": "turnirji",
+        "start": 73.48,
+        "end": 73.92,
+        "index": 154
+    },
+    {
+        "text": "so",
+        "start": 74.5,
+        "end": 74.58,
+        "index": 155
+    },
+    {
+        "text": "še",
+        "start": 74.64,
+        "end": 74.72,
+        "index": 156
+    },
+    {
+        "text": "posebej",
+        "start": 74.82000000000001,
+        "end": 75.16,
+        "index": 157
+    },
+    {
+        "text": "cenjeni",
+        "start": 75.24,
+        "end": 75.58,
+        "index": 158
+    },
+    {
+        "text": "turnirji",
+        "start": 75.76,
+        "end": 76.14,
+        "index": 159
+    },
+    {
+        "text": "odprto",
+        "start": 76.3,
+        "end": 76.68,
+        "index": 160
+    },
+    {
+        "text": "prvenstvo",
+        "start": 76.88,
+        "end": 77.32000000000001,
+        "index": 161
+    },
+    {
+        "text": "avstralije",
+        "start": 77.42,
+        "end": 78.06,
+        "index": 162
+    },
+    {
+        "text": "odprto",
+        "start": 78.88,
+        "end": 79.26,
+        "index": 163
+    },
+    {
+        "text": "prvenstvo",
+        "start": 79.32000000000001,
+        "end": 79.86,
+        "index": 164
+    },
+    {
+        "text": "francije",
+        "start": 80.02,
+        "end": 80.32000000000001,
+        "index": 165
+    },
+    {
+        "text": "odprto",
+        "start": 80.38,
+        "end": 81.22,
+        "index": 166
+    },
+    {
+        "text": "prvenstvo",
+        "start": 82.32000000000001,
+        "end": 82.74,
+        "index": 167
+    },
+    {
+        "text": "anglije",
+        "start": 82.8,
+        "end": 83.34,
+        "index": 168
+    },
+    {
+        "text": "in",
+        "start": 83.86,
+        "end": 83.88,
+        "index": 169
+    },
+    {
+        "text": "odprto",
+        "start": 83.92,
+        "end": 84.26,
+        "index": 170
+    },
+    {
+        "text": "prvenstvo",
+        "start": 84.5,
+        "end": 84.92,
+        "index": 171
+    },
+    {
+        "text": "zda",
+        "start": 85.02,
+        "end": 85.2,
+        "index": 172
+    },
+    {
+        "text": "zmaga",
+        "start": 86.74,
+        "end": 87.04,
+        "index": 173
+    },
+    {
+        "text": "na",
+        "start": 87.10000000000001,
+        "end": 87.18,
+        "index": 174
+    },
+    {
+        "text": "vseh",
+        "start": 87.26,
+        "end": 87.46000000000001,
+        "index": 175
+    },
+    {
+        "text": "teh",
+        "start": 87.5,
+        "end": 87.7,
+        "index": 176
+    },
+    {
+        "text": "štirih",
+        "start": 87.82000000000001,
+        "end": 88.10000000000001,
+        "index": 177
+    },
+    {
+        "text": "turnirjih",
+        "start": 88.16,
+        "end": 88.64,
+        "index": 178
+    },
+    {
+        "text": "v",
+        "start": 88.7,
+        "end": 88.71000000000001,
+        "index": 179
+    },
+    {
+        "text": "eni",
+        "start": 88.74,
+        "end": 89.06,
+        "index": 180
+    },
+    {
+        "text": "sezoni",
+        "start": 89.14,
+        "end": 89.48,
+        "index": 181
+    },
+    {
+        "text": "se",
+        "start": 89.5,
+        "end": 89.78,
+        "index": 182
+    },
+    {
+        "text": "imenuje",
+        "start": 89.88,
+        "end": 90.10000000000001,
+        "index": 183
+    },
+    {
+        "text": "pravi",
+        "start": 90.26,
+        "end": 91.08,
+        "index": 184
+    },
+    {
+        "text": "grand",
+        "start": 91.22,
+        "end": 91.34,
+        "index": 185
+    },
+    {
+        "text": "slam",
+        "start": 91.38,
+        "end": 91.5,
+        "index": 186
+    },
+    {
+        "text": "in",
+        "start": 92.2,
+        "end": 92.22,
+        "index": 187
+    },
+    {
+        "text": "velja",
+        "start": 92.28,
+        "end": 92.48,
+        "index": 188
+    },
+    {
+        "text": "za",
+        "start": 92.64,
+        "end": 92.7,
+        "index": 189
+    },
+    {
+        "text": "krono",
+        "start": 92.78,
+        "end": 93.02,
+        "index": 190
+    },
+    {
+        "text": "kariere",
+        "start": 93.26,
+        "end": 93.54,
+        "index": 191
+    },
+    {
+        "text": "teniškega",
+        "start": 93.72,
+        "end": 94.3,
+        "index": 192
+    },
+    {
+        "text": "igralca",
+        "start": 94.4,
+        "end": 94.78,
+        "index": 193
+    },
+    {
+        "text": "tenis",
+        "start": 94.84,
+        "end": 96.14,
+        "index": 194
+    },
+    {
+        "text": "je",
+        "start": 96.38,
+        "end": 96.44,
+        "index": 195
+    },
+    {
+        "text": "tudi",
+        "start": 96.48,
+        "end": 96.66,
+        "index": 196
+    },
+    {
+        "text": "olimpijski",
+        "start": 96.74000000000001,
+        "end": 97.12,
+        "index": 197
+    },
+    {
+        "text": "šport",
+        "start": 97.22,
+        "end": 97.60000000000001,
+        "index": 198
+    }
+]

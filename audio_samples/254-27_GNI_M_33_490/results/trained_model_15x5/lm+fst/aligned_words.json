@@ -1,0 +1,698 @@
+[
+    {
+        "text": "moj",
+        "start": 0.02,
+        "end": 0.36,
+        "index": 0
+    },
+    {
+        "text": "oča",
+        "start": 0.48,
+        "end": 1.26,
+        "index": 1
+    },
+    {
+        "text": "mew",
+        "start": 1.62,
+        "end": 1.68,
+        "index": 2
+    },
+    {
+        "text": "je",
+        "start": 2.06,
+        "end": 2.14,
+        "index": 3
+    },
+    {
+        "text": "tri",
+        "start": 2.38,
+        "end": 2.5,
+        "index": 4
+    },
+    {
+        "text": "sini",
+        "start": 2.66,
+        "end": 3.36,
+        "index": 5
+    },
+    {
+        "text": "kaj",
+        "start": 3.96,
+        "end": 4.08,
+        "index": 6
+    },
+    {
+        "text": "bi",
+        "start": 4.38,
+        "end": 4.5,
+        "index": 7
+    },
+    {
+        "text": "njem",
+        "start": 4.74,
+        "end": 4.78,
+        "index": 8
+    },
+    {
+        "text": "vpomoč",
+        "start": 4.78,
+        "end": 5.18,
+        "index": 9
+    },
+    {
+        "text": "bili",
+        "start": 6.08,
+        "end": 6.4,
+        "index": 10
+    },
+    {
+        "text": "kaj",
+        "start": 7.3,
+        "end": 7.5200000000000005,
+        "index": 11
+    },
+    {
+        "text": "bi",
+        "start": 7.84,
+        "end": 7.85,
+        "index": 12
+    },
+    {
+        "text": "njem",
+        "start": 7.84,
+        "end": 8.6,
+        "index": 13
+    },
+    {
+        "text": "vpomoč",
+        "start": 8.96,
+        "end": 9.540000000000001,
+        "index": 14
+    },
+    {
+        "text": "bili",
+        "start": 9.540000000000001,
+        "end": 9.8,
+        "index": 15
+    },
+    {
+        "text": "na",
+        "start": 9.88,
+        "end": 9.89,
+        "index": 16
+    },
+    {
+        "text": "njegove",
+        "start": 10.540000000000001,
+        "end": 11.92,
+        "index": 17
+    },
+    {
+        "text": "stare",
+        "start": 12.120000000000001,
+        "end": 12.780000000000001,
+        "index": 18
+    },
+    {
+        "text": "gni",
+        "start": 12.92,
+        "end": 13.14,
+        "index": 19
+    },
+    {
+        "text": "prvi",
+        "start": 14.32,
+        "end": 14.84,
+        "index": 20
+    },
+    {
+        "text": "sin",
+        "start": 15.0,
+        "end": 15.56,
+        "index": 21
+    },
+    {
+        "text": "je",
+        "start": 15.66,
+        "end": 15.67,
+        "index": 22
+    },
+    {
+        "text": "biw",
+        "start": 15.72,
+        "end": 16.06,
+        "index": 23
+    },
+    {
+        "text": "študent",
+        "start": 16.4,
+        "end": 16.92,
+        "index": 24
+    },
+    {
+        "text": "on",
+        "start": 17.88,
+        "end": 17.96,
+        "index": 25
+    },
+    {
+        "text": "štandiru",
+        "start": 17.98,
+        "end": 18.88,
+        "index": 26
+    },
+    {
+        "text": "dvanajst",
+        "start": 18.94,
+        "end": 20.02,
+        "index": 27
+    },
+    {
+        "text": "let",
+        "start": 20.02,
+        "end": 21.080000000000002,
+        "index": 28
+    },
+    {
+        "text": "on",
+        "start": 21.080000000000002,
+        "end": 21.1,
+        "index": 29
+    },
+    {
+        "text": "štandiru",
+        "start": 21.88,
+        "end": 22.88,
+        "index": 30
+    },
+    {
+        "text": "dvanajst",
+        "start": 23.12,
+        "end": 23.76,
+        "index": 31
+    },
+    {
+        "text": "let",
+        "start": 24.080000000000002,
+        "end": 25.0,
+        "index": 32
+    },
+    {
+        "text": "na",
+        "start": 25.0,
+        "end": 25.060000000000002,
+        "index": 33
+    },
+    {
+        "text": "trinajsto",
+        "start": 25.48,
+        "end": 26.34,
+        "index": 34
+    },
+    {
+        "text": "mogu",
+        "start": 26.400000000000002,
+        "end": 27.12,
+        "index": 35
+    },
+    {
+        "text": "mret",
+        "start": 27.34,
+        "end": 27.400000000000002,
+        "index": 36
+    },
+    {
+        "text": "drugi",
+        "start": 27.48,
+        "end": 28.8,
+        "index": 37
+    },
+    {
+        "text": "sin",
+        "start": 29.62,
+        "end": 30.080000000000002,
+        "index": 38
+    },
+    {
+        "text": "je",
+        "start": 30.16,
+        "end": 30.28,
+        "index": 39
+    },
+    {
+        "text": "biw",
+        "start": 30.62,
+        "end": 30.94,
+        "index": 40
+    },
+    {
+        "text": "soldat",
+        "start": 31.0,
+        "end": 31.52,
+        "index": 41
+    },
+    {
+        "text": "on",
+        "start": 32.64,
+        "end": 32.65,
+        "index": 42
+    },
+    {
+        "text": "je",
+        "start": 32.7,
+        "end": 32.78,
+        "index": 43
+    },
+    {
+        "text": "služu",
+        "start": 32.980000000000004,
+        "end": 33.18,
+        "index": 44
+    },
+    {
+        "text": "osam",
+        "start": 33.54,
+        "end": 34.34,
+        "index": 45
+    },
+    {
+        "text": "lejt",
+        "start": 34.88,
+        "end": 34.89,
+        "index": 46
+    },
+    {
+        "text": "on",
+        "start": 35.72,
+        "end": 35.74,
+        "index": 47
+    },
+    {
+        "text": "je",
+        "start": 36.54,
+        "end": 36.55,
+        "index": 48
+    },
+    {
+        "text": "služu",
+        "start": 36.62,
+        "end": 36.84,
+        "index": 49
+    },
+    {
+        "text": "osam",
+        "start": 37.02,
+        "end": 37.03,
+        "index": 50
+    },
+    {
+        "text": "lejt",
+        "start": 37.02,
+        "end": 37.03,
+        "index": 51
+    },
+    {
+        "text": "na",
+        "start": 39.5,
+        "end": 39.56,
+        "index": 52
+    },
+    {
+        "text": "deveto",
+        "start": 39.9,
+        "end": 40.800000000000004,
+        "index": 53
+    },
+    {
+        "text": "mogu",
+        "start": 41.04,
+        "end": 41.6,
+        "index": 54
+    },
+    {
+        "text": "mret",
+        "start": 41.64,
+        "end": 42.4,
+        "index": 55
+    },
+    {
+        "text": "tretji",
+        "start": 43.26,
+        "end": 43.96,
+        "index": 56
+    },
+    {
+        "text": "sin",
+        "start": 43.96,
+        "end": 44.300000000000004,
+        "index": 57
+    },
+    {
+        "text": "je",
+        "start": 44.54,
+        "end": 44.55,
+        "index": 58
+    },
+    {
+        "text": "biw",
+        "start": 44.6,
+        "end": 44.92,
+        "index": 59
+    },
+    {
+        "text": "bolan",
+        "start": 45.4,
+        "end": 46.28,
+        "index": 60
+    },
+    {
+        "text": "on",
+        "start": 46.44,
+        "end": 46.88,
+        "index": 61
+    },
+    {
+        "text": "je",
+        "start": 47.0,
+        "end": 47.01,
+        "index": 62
+    },
+    {
+        "text": "ležow",
+        "start": 47.06,
+        "end": 47.36,
+        "index": 63
+    },
+    {
+        "text": "leto",
+        "start": 48.54,
+        "end": 48.6,
+        "index": 64
+    },
+    {
+        "text": "dan",
+        "start": 48.78,
+        "end": 48.92,
+        "index": 65
+    },
+    {
+        "text": "on",
+        "start": 49.78,
+        "end": 49.79,
+        "index": 66
+    },
+    {
+        "text": "je",
+        "start": 49.800000000000004,
+        "end": 50.6,
+        "index": 67
+    },
+    {
+        "text": "ležow",
+        "start": 50.620000000000005,
+        "end": 50.9,
+        "index": 68
+    },
+    {
+        "text": "leto",
+        "start": 51.86,
+        "end": 52.38,
+        "index": 69
+    },
+    {
+        "text": "dan",
+        "start": 52.620000000000005,
+        "end": 53.34,
+        "index": 70
+    },
+    {
+        "text": "smrti",
+        "start": 53.44,
+        "end": 54.1,
+        "index": 71
+    },
+    {
+        "text": "si",
+        "start": 54.300000000000004,
+        "end": 54.4,
+        "index": 72
+    },
+    {
+        "text": "je",
+        "start": 54.46,
+        "end": 54.980000000000004,
+        "index": 73
+    },
+    {
+        "text": "proso",
+        "start": 55.2,
+        "end": 55.800000000000004,
+        "index": 74
+    },
+    {
+        "text": "sam",
+        "start": 55.980000000000004,
+        "end": 56.46,
+        "index": 75
+    },
+    {
+        "text": "vo",
+        "start": 57.620000000000005,
+        "end": 57.63,
+        "index": 76
+    },
+    {
+        "text": "noč",
+        "start": 57.92,
+        "end": 58.4,
+        "index": 77
+    },
+    {
+        "text": "je",
+        "start": 58.5,
+        "end": 58.51,
+        "index": 78
+    },
+    {
+        "text": "zvaw",
+        "start": 58.54,
+        "end": 58.78,
+        "index": 79
+    },
+    {
+        "text": "svet",
+        "start": 59.300000000000004,
+        "end": 59.42,
+        "index": 80
+    },
+    {
+        "text": "jožefa",
+        "start": 59.480000000000004,
+        "end": 59.76,
+        "index": 81
+    },
+    {
+        "text": "vo",
+        "start": 61.1,
+        "end": 61.160000000000004,
+        "index": 82
+    },
+    {
+        "text": "dneh",
+        "start": 61.34,
+        "end": 61.68,
+        "index": 83
+    },
+    {
+        "text": "paj",
+        "start": 61.940000000000005,
+        "end": 62.06,
+        "index": 84
+    },
+    {
+        "text": "miloga",
+        "start": 62.1,
+        "end": 62.800000000000004,
+        "index": 85
+    },
+    {
+        "text": "jezuša",
+        "start": 63.08,
+        "end": 63.660000000000004,
+        "index": 86
+    },
+    {
+        "text": "jezuš",
+        "start": 63.86,
+        "end": 64.42,
+        "index": 87
+    },
+    {
+        "text": "jezuš",
+        "start": 65.96000000000001,
+        "end": 65.97000000000001,
+        "index": 88
+    },
+    {
+        "text": "jezušek",
+        "start": 65.96000000000001,
+        "end": 66.6,
+        "index": 89
+    },
+    {
+        "text": "moj",
+        "start": 67.86,
+        "end": 67.92,
+        "index": 90
+    },
+    {
+        "text": "jaz",
+        "start": 67.92,
+        "end": 69.08,
+        "index": 91
+    },
+    {
+        "text": "sam",
+        "start": 69.12,
+        "end": 69.26,
+        "index": 92
+    },
+    {
+        "text": "živ",
+        "start": 69.26,
+        "end": 69.48,
+        "index": 93
+    },
+    {
+        "text": "in",
+        "start": 70.16,
+        "end": 70.17,
+        "index": 94
+    },
+    {
+        "text": "mrtev",
+        "start": 70.16,
+        "end": 70.34,
+        "index": 95
+    },
+    {
+        "text": "tvoj",
+        "start": 70.86,
+        "end": 71.7,
+        "index": 96
+    },
+    {
+        "text": "oča",
+        "start": 73.04,
+        "end": 73.42,
+        "index": 97
+    },
+    {
+        "text": "biw",
+        "start": 73.78,
+        "end": 73.84,
+        "index": 98
+    },
+    {
+        "text": "je",
+        "start": 74.2,
+        "end": 74.26,
+        "index": 99
+    },
+    {
+        "text": "žalosten",
+        "start": 74.58,
+        "end": 75.82000000000001,
+        "index": 100
+    },
+    {
+        "text": "za",
+        "start": 75.92,
+        "end": 76.06,
+        "index": 101
+    },
+    {
+        "text": "svoje",
+        "start": 76.58,
+        "end": 76.84,
+        "index": 102
+    },
+    {
+        "text": "prelube",
+        "start": 76.84,
+        "end": 77.7,
+        "index": 103
+    },
+    {
+        "text": "sine",
+        "start": 77.92,
+        "end": 78.60000000000001,
+        "index": 104
+    },
+    {
+        "text": "tri",
+        "start": 78.78,
+        "end": 79.0,
+        "index": 105
+    },
+    {
+        "text": "za",
+        "start": 80.08,
+        "end": 80.14,
+        "index": 106
+    },
+    {
+        "text": "svoje",
+        "start": 80.32000000000001,
+        "end": 80.78,
+        "index": 107
+    },
+    {
+        "text": "prelube",
+        "start": 81.0,
+        "end": 81.86,
+        "index": 108
+    },
+    {
+        "text": "sineke",
+        "start": 82.02,
+        "end": 82.72,
+        "index": 109
+    },
+    {
+        "text": "tri",
+        "start": 82.98,
+        "end": 83.10000000000001,
+        "index": 110
+    },
+    {
+        "text": "na",
+        "start": 83.46000000000001,
+        "end": 83.58,
+        "index": 111
+    },
+    {
+        "text": "veke",
+        "start": 83.86,
+        "end": 84.38,
+        "index": 112
+    },
+    {
+        "text": "so",
+        "start": 84.54,
+        "end": 84.72,
+        "index": 113
+    },
+    {
+        "text": "me",
+        "start": 84.9,
+        "end": 84.98,
+        "index": 114
+    },
+    {
+        "text": "odvandrali",
+        "start": 85.16,
+        "end": 86.44,
+        "index": 115
+    }
+]

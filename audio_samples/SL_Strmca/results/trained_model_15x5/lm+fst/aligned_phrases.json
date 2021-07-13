@@ -1,0 +1,2162 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "stare kmečke hiše",
+        "text-start": 0,
+        "text-end": 17,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "stare kmečke hiše",
+        "aligned": "stare kmečke hiše"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "nekuoč so",
+        "text-start": 18,
+        "text-end": 27,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "nekuoč so",
+        "aligned": "nekuoč so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "ble hiše",
+        "text-start": 28,
+        "text-end": 36,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "ble hiše",
+        "aligned": "ble hiše"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "čist drgačne",
+        "text-start": 37,
+        "text-end": 49,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "čist drgačne",
+        "aligned": "čist drgačne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "sploh nisu",
+        "text-start": 52,
+        "text-end": 57,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "o nis",
+        "aligned": "o nis"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "ble tuk",
+        "text-start": 61,
+        "text-end": 66,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "a tuk",
+        "aligned": "a tuk"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "vlke pa",
+        "text-start": 67,
+        "text-end": 74,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "vlke pa",
+        "aligned": "vlke pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "visuoke kukr",
+        "text-start": 75,
+        "text-end": 85,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "visuoke ku",
+        "aligned": "visuoke ku"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "so pa",
+        "text-start": 89,
+        "text-end": 94,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "so pa",
+        "aligned": "so pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "zej mele",
+        "text-start": 95,
+        "text-end": 103,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "zej mele",
+        "aligned": "zej mele"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "so mejhne",
+        "text-start": 104,
+        "text-end": 113,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "so mejhne",
+        "aligned": "so mejhne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "uokne pa",
+        "text-start": 114,
+        "text-end": 122,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "uokne pa",
+        "aligned": "uokne pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "slamnate strehe",
+        "text-start": 123,
+        "text-end": 138,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "slamnate strehe",
+        "aligned": "slamnate strehe"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "jes se",
+        "text-start": 140,
+        "text-end": 144,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "e se",
+        "aligned": "e se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "še spounem",
+        "text-start": 145,
+        "text-end": 155,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "še spounem",
+        "aligned": "še spounem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "jene take",
+        "text-start": 155,
+        "text-end": 164,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": " ene take",
+        "aligned": " ene take"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "bla je",
+        "text-start": 165,
+        "text-end": 171,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "bla je",
+        "aligned": "bla je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "cela iz",
+        "text-start": 172,
+        "text-end": 177,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "cela ",
+        "aligned": "cela "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "leisa nrjena",
+        "text-start": 181,
+        "text-end": 190,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "se nrjena",
+        "aligned": "se nrjena"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "in ku",
+        "text-start": 191,
+        "text-end": 196,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "in ku",
+        "aligned": "in ku"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "si stuopu",
+        "text-start": 197,
+        "text-end": 206,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "si stuopu",
+        "aligned": "si stuopu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "u bajto",
+        "text-start": 206,
+        "text-end": 212,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": " bajto",
+        "aligned": " bajto"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "je bla",
+        "text-start": 213,
+        "text-end": 219,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "je bla",
+        "aligned": "je bla"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "nartapru vieža",
+        "text-start": 220,
+        "text-end": 234,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "nartapru vieža",
+        "aligned": "nartapru vieža"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "puopa čarna",
+        "text-start": 237,
+        "text-end": 246,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": " pa čarna",
+        "aligned": " pa čarna"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "kuhja kjier",
+        "text-start": 250,
+        "text-end": 255,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "na kj",
+        "aligned": "na kj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "so žienske",
+        "text-start": 257,
+        "text-end": 267,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "so žienske",
+        "aligned": "so žienske"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "kuhale pa",
+        "text-start": 268,
+        "text-end": 277,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "kuhale pa",
+        "aligned": "kuhale pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 28,
+        "transcript": "piekle iz",
+        "text-start": 278,
+        "text-end": 287,
+        "meta": {
+            "index": [
+                28
+            ]
+        },
+        "aligned-raw": "piekle iz",
+        "aligned": "piekle iz"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 29,
+        "transcript": "vieže se",
+        "text-start": 288,
+        "text-end": 296,
+        "meta": {
+            "index": [
+                29
+            ]
+        },
+        "aligned-raw": "vieže se",
+        "aligned": "vieže se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 30,
+        "transcript": "je šlu",
+        "text-start": 296,
+        "text-end": 300,
+        "meta": {
+            "index": [
+                30
+            ]
+        },
+        "aligned-raw": " šlu",
+        "aligned": " šlu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 31,
+        "transcript": "na levo",
+        "text-start": 301,
+        "text-end": 308,
+        "meta": {
+            "index": [
+                31
+            ]
+        },
+        "aligned-raw": "na levo",
+        "aligned": "na levo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 32,
+        "transcript": "u hišo",
+        "text-start": 308,
+        "text-end": 313,
+        "meta": {
+            "index": [
+                32
+            ]
+        },
+        "aligned-raw": " hišo",
+        "aligned": " hišo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 33,
+        "transcript": "čs tto suobo pa",
+        "text-start": 324,
+        "text-end": 333,
+        "meta": {
+            "index": [
+                33
+            ]
+        },
+        "aligned-raw": " suobo pa",
+        "aligned": " suobo pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 34,
+        "transcript": "u štiblc",
+        "text-start": 334,
+        "text-end": 342,
+        "meta": {
+            "index": [
+                34
+            ]
+        },
+        "aligned-raw": "u štiblc",
+        "aligned": "u štiblc"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 35,
+        "transcript": "u hiš",
+        "text-start": 345,
+        "text-end": 350,
+        "meta": {
+            "index": [
+                35
+            ]
+        },
+        "aligned-raw": "u hiš",
+        "aligned": "u hiš"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 36,
+        "transcript": "je bla",
+        "text-start": 351,
+        "text-end": 357,
+        "meta": {
+            "index": [
+                36
+            ]
+        },
+        "aligned-raw": "je bla",
+        "aligned": "je bla"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 37,
+        "transcript": "u enem",
+        "text-start": 357,
+        "text-end": 362,
+        "meta": {
+            "index": [
+                37
+            ]
+        },
+        "aligned-raw": " enem",
+        "aligned": " enem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 38,
+        "transcript": "kuoti miza",
+        "text-start": 363,
+        "text-end": 373,
+        "meta": {
+            "index": [
+                38
+            ]
+        },
+        "aligned-raw": "kuoti miza",
+        "aligned": "kuoti miza"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 39,
+        "transcript": "zram pa",
+        "text-start": 374,
+        "text-end": 381,
+        "meta": {
+            "index": [
+                39
+            ]
+        },
+        "aligned-raw": "zram pa",
+        "aligned": "zram pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 40,
+        "transcript": "dvei klupi",
+        "text-start": 382,
+        "text-end": 392,
+        "meta": {
+            "index": [
+                40
+            ]
+        },
+        "aligned-raw": "dvei klupi",
+        "aligned": "dvei klupi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 41,
+        "transcript": "pa še",
+        "text-start": 393,
+        "text-end": 398,
+        "meta": {
+            "index": [
+                41
+            ]
+        },
+        "aligned-raw": "pa še",
+        "aligned": "pa še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 42,
+        "transcript": "kak stou",
+        "text-start": 399,
+        "text-end": 406,
+        "meta": {
+            "index": [
+                42
+            ]
+        },
+        "aligned-raw": "kak sto",
+        "aligned": "kak sto"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 43,
+        "transcript": "u drugem",
+        "text-start": 406,
+        "text-end": 414,
+        "meta": {
+            "index": [
+                43
+            ]
+        },
+        "aligned-raw": "u drugem",
+        "aligned": "u drugem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 44,
+        "transcript": "kuoti pa",
+        "text-start": 415,
+        "text-end": 423,
+        "meta": {
+            "index": [
+                44
+            ]
+        },
+        "aligned-raw": "kuoti pa",
+        "aligned": "kuoti pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 45,
+        "transcript": "pieč kij",
+        "text-start": 424,
+        "text-end": 430,
+        "meta": {
+            "index": [
+                45
+            ]
+        },
+        "aligned-raw": "pieč k",
+        "aligned": "pieč k"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 46,
+        "transcript": "mela tut",
+        "text-start": 433,
+        "text-end": 441,
+        "meta": {
+            "index": [
+                46
+            ]
+        },
+        "aligned-raw": "mela tut",
+        "aligned": "mela tut"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 47,
+        "transcript": "kluop ukul",
+        "text-start": 442,
+        "text-end": 452,
+        "meta": {
+            "index": [
+                47
+            ]
+        },
+        "aligned-raw": "kluop ukul",
+        "aligned": "kluop ukul"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 48,
+        "transcript": "nrjeno de",
+        "text-start": 453,
+        "text-end": 460,
+        "meta": {
+            "index": [
+                48
+            ]
+        },
+        "aligned-raw": "nrjeno ",
+        "aligned": "nrjeno "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 49,
+        "transcript": "si si",
+        "text-start": 463,
+        "text-end": 468,
+        "meta": {
+            "index": [
+                49
+            ]
+        },
+        "aligned-raw": "si si",
+        "aligned": "si si"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 50,
+        "transcript": "lahka mal",
+        "text-start": 469,
+        "text-end": 478,
+        "meta": {
+            "index": [
+                50
+            ]
+        },
+        "aligned-raw": "lahka mal",
+        "aligned": "lahka mal"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 51,
+        "transcript": "uddahnu če",
+        "text-start": 482,
+        "text-end": 486,
+        "meta": {
+            "index": [
+                51
+            ]
+        },
+        "aligned-raw": "o če",
+        "aligned": "o če"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 52,
+        "transcript": "si biu",
+        "text-start": 487,
+        "text-end": 492,
+        "meta": {
+            "index": [
+                52
+            ]
+        },
+        "aligned-raw": "si bi",
+        "aligned": "si bi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 53,
+        "transcript": "zmatran kr",
+        "text-start": 493,
+        "text-end": 503,
+        "meta": {
+            "index": [
+                53
+            ]
+        },
+        "aligned-raw": "zmatran kr",
+        "aligned": "zmatran kr"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 54,
+        "transcript": "u istem",
+        "text-start": 503,
+        "text-end": 509,
+        "meta": {
+            "index": [
+                54
+            ]
+        },
+        "aligned-raw": " istem",
+        "aligned": " istem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 55,
+        "transcript": "placi je",
+        "text-start": 510,
+        "text-end": 518,
+        "meta": {
+            "index": [
+                55
+            ]
+        },
+        "aligned-raw": "placi je",
+        "aligned": "placi je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 56,
+        "transcript": "bla še",
+        "text-start": 519,
+        "text-end": 525,
+        "meta": {
+            "index": [
+                56
+            ]
+        },
+        "aligned-raw": "bla še",
+        "aligned": "bla še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 57,
+        "transcript": "jena puojsla",
+        "text-start": 526,
+        "text-end": 538,
+        "meta": {
+            "index": [
+                57
+            ]
+        },
+        "aligned-raw": "jena puojsla",
+        "aligned": "jena puojsla"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 58,
+        "transcript": "kjer sta",
+        "text-start": 539,
+        "text-end": 547,
+        "meta": {
+            "index": [
+                58
+            ]
+        },
+        "aligned-raw": "kjer sta",
+        "aligned": "kjer sta"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 59,
+        "transcript": "spala ate",
+        "text-start": 548,
+        "text-end": 557,
+        "meta": {
+            "index": [
+                59
+            ]
+        },
+        "aligned-raw": "spala ate",
+        "aligned": "spala ate"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 60,
+        "transcript": "pa mama",
+        "text-start": 558,
+        "text-end": 565,
+        "meta": {
+            "index": [
+                60
+            ]
+        },
+        "aligned-raw": "pa mama",
+        "aligned": "pa mama"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 61,
+        "transcript": "zraun je",
+        "text-start": 569,
+        "text-end": 573,
+        "meta": {
+            "index": [
+                61
+            ]
+        },
+        "aligned-raw": "m je",
+        "aligned": "m je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 62,
+        "transcript": "bla pa",
+        "text-start": 574,
+        "text-end": 580,
+        "meta": {
+            "index": [
+                62
+            ]
+        },
+        "aligned-raw": "bla pa",
+        "aligned": "bla pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 63,
+        "transcript": "še zibuka",
+        "text-start": 581,
+        "text-end": 590,
+        "meta": {
+            "index": [
+                63
+            ]
+        },
+        "aligned-raw": "še zibuka",
+        "aligned": "še zibuka"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 64,
+        "transcript": "čeje biu",
+        "text-start": 593,
+        "text-end": 599,
+        "meta": {
+            "index": [
+                64
+            ]
+        },
+        "aligned-raw": " je bi",
+        "aligned": " je bi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 65,
+        "transcript": "kir uotrk",
+        "text-start": 600,
+        "text-end": 605,
+        "meta": {
+            "index": [
+                65
+            ]
+        },
+        "aligned-raw": "pr uo",
+        "aligned": "pr uo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 66,
+        "transcript": "res še",
+        "text-start": 612,
+        "text-end": 616,
+        "meta": {
+            "index": [
+                66
+            ]
+        },
+        "aligned-raw": "e še",
+        "aligned": "e še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 67,
+        "transcript": "mejhn cuot",
+        "text-start": 617,
+        "text-end": 623,
+        "meta": {
+            "index": [
+                67
+            ]
+        },
+        "aligned-raw": "mejhn ",
+        "aligned": "mejhn "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 68,
+        "transcript": "niso mel",
+        "text-start": 628,
+        "text-end": 636,
+        "meta": {
+            "index": [
+                68
+            ]
+        },
+        "aligned-raw": "niso mel",
+        "aligned": "niso mel"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 69,
+        "transcript": "velik spraulene",
+        "text-start": 637,
+        "text-end": 652,
+        "meta": {
+            "index": [
+                69
+            ]
+        },
+        "aligned-raw": "velik spraulene",
+        "aligned": "velik spraulene"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 70,
+        "transcript": "so mel",
+        "text-start": 653,
+        "text-end": 659,
+        "meta": {
+            "index": [
+                70
+            ]
+        },
+        "aligned-raw": "so mel",
+        "aligned": "so mel"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 71,
+        "transcript": "kr u",
+        "text-start": 660,
+        "text-end": 663,
+        "meta": {
+            "index": [
+                71
+            ]
+        },
+        "aligned-raw": "pr ",
+        "aligned": "pr "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 72,
+        "transcript": "vieš ueni",
+        "text-start": 663,
+        "text-end": 670,
+        "meta": {
+            "index": [
+                72
+            ]
+        },
+        "aligned-raw": "vieš en",
+        "aligned": "vieš en"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 73,
+        "transcript": "umar nktiri",
+        "text-start": 671,
+        "text-end": 682,
+        "meta": {
+            "index": [
+                73
+            ]
+        },
+        "aligned-raw": "umar nktiri",
+        "aligned": "umar nktiri"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 74,
+        "transcript": "su mel",
+        "text-start": 684,
+        "text-end": 689,
+        "meta": {
+            "index": [
+                74
+            ]
+        },
+        "aligned-raw": "o mel",
+        "aligned": "o mel"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 75,
+        "transcript": "puol še",
+        "text-start": 690,
+        "text-end": 697,
+        "meta": {
+            "index": [
+                75
+            ]
+        },
+        "aligned-raw": "puol še",
+        "aligned": "puol še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 76,
+        "transcript": "kaku mejnšo",
+        "text-start": 698,
+        "text-end": 709,
+        "meta": {
+            "index": [
+                76
+            ]
+        },
+        "aligned-raw": "kaku mejnšo",
+        "aligned": "kaku mejnšo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 77,
+        "transcript": "skrinco kamr",
+        "text-start": 710,
+        "text-end": 722,
+        "meta": {
+            "index": [
+                77
+            ]
+        },
+        "aligned-raw": "skrinco kamr",
+        "aligned": "skrinco kamr"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 78,
+        "transcript": "so spraulal",
+        "text-start": 723,
+        "text-end": 731,
+        "meta": {
+            "index": [
+                78
+            ]
+        },
+        "aligned-raw": "so spala",
+        "aligned": "so spala"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 79,
+        "transcript": "blaguslouleno uodo",
+        "text-start": 732,
+        "text-end": 750,
+        "meta": {
+            "index": [
+                79
+            ]
+        },
+        "aligned-raw": "blaguslouleno uodo",
+        "aligned": "blaguslouleno uodo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 80,
+        "transcript": "al pa",
+        "text-start": 751,
+        "text-end": 756,
+        "meta": {
+            "index": [
+                80
+            ]
+        },
+        "aligned-raw": "al pa",
+        "aligned": "al pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 81,
+        "transcript": "kak cveit",
+        "text-start": 757,
+        "text-end": 761,
+        "meta": {
+            "index": [
+                81
+            ]
+        },
+        "aligned-raw": "kak ",
+        "aligned": "kak "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 82,
+        "transcript": "če sij",
+        "text-start": 764,
+        "text-end": 769,
+        "meta": {
+            "index": [
+                82
+            ]
+        },
+        "aligned-raw": "če si",
+        "aligned": "če si"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 83,
+        "transcript": "kir kej",
+        "text-start": 772,
+        "text-end": 778,
+        "meta": {
+            "index": [
+                83
+            ]
+        },
+        "aligned-raw": "er kej",
+        "aligned": "er kej"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 84,
+        "transcript": "nariedu dej",
+        "text-start": 779,
+        "text-end": 788,
+        "meta": {
+            "index": [
+                84
+            ]
+        },
+        "aligned-raw": "nariedu j",
+        "aligned": "nariedu j"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 85,
+        "transcript": "blu za",
+        "text-start": 790,
+        "text-end": 796,
+        "meta": {
+            "index": [
+                85
+            ]
+        },
+        "aligned-raw": "blu za",
+        "aligned": "blu za"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 86,
+        "transcript": "raskušt nie",
+        "text-start": 797,
+        "text-end": 803,
+        "meta": {
+            "index": [
+                86
+            ]
+        },
+        "aligned-raw": "raskuš",
+        "aligned": "raskuš"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 87,
+        "transcript": "puodn je",
+        "text-start": 806,
+        "text-end": 814,
+        "meta": {
+            "index": [
+                87
+            ]
+        },
+        "aligned-raw": "puodn je",
+        "aligned": "puodn je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 88,
+        "transcript": "biu tut",
+        "text-start": 815,
+        "text-end": 822,
+        "meta": {
+            "index": [
+                88
+            ]
+        },
+        "aligned-raw": "biu tut",
+        "aligned": "biu tut"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 89,
+        "transcript": "lesien edin",
+        "text-start": 823,
+        "text-end": 830,
+        "meta": {
+            "index": [
+                89
+            ]
+        },
+        "aligned-raw": "lesien ",
+        "aligned": "lesien "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 90,
+        "transcript": "u črni",
+        "text-start": 834,
+        "text-end": 840,
+        "meta": {
+            "index": [
+                90
+            ]
+        },
+        "aligned-raw": "a črni",
+        "aligned": "a črni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 91,
+        "transcript": "kuhji so",
+        "text-start": 842,
+        "text-end": 845,
+        "meta": {
+            "index": [
+                91
+            ]
+        },
+        "aligned-raw": "u s",
+        "aligned": "u s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 92,
+        "transcript": "mel pu",
+        "text-start": 847,
+        "text-end": 853,
+        "meta": {
+            "index": [
+                92
+            ]
+        },
+        "aligned-raw": "mel pu",
+        "aligned": "mel pu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 93,
+        "transcript": "tleih iluco",
+        "text-start": 854,
+        "text-end": 865,
+        "meta": {
+            "index": [
+                93
+            ]
+        },
+        "aligned-raw": "tleih iluco",
+        "aligned": "tleih iluco"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 94,
+        "transcript": "d se niebi kej",
+        "text-start": 866,
+        "text-end": 881,
+        "meta": {
+            "index": [
+                94
+            ]
+        },
+        "aligned-raw": "de si na bi kje",
+        "aligned": "de si na bi kje"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 95,
+        "transcript": "užgal usaki",
+        "text-start": 882,
+        "text-end": 893,
+        "meta": {
+            "index": [
+                95
+            ]
+        },
+        "aligned-raw": "užgal usaki",
+        "aligned": "užgal usaki"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 96,
+        "transcript": "hiš je",
+        "text-start": 894,
+        "text-end": 900,
+        "meta": {
+            "index": [
+                96
+            ]
+        },
+        "aligned-raw": "hiš je",
+        "aligned": "hiš je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 97,
+        "transcript": "bla tiedi",
+        "text-start": 901,
+        "text-end": 906,
+        "meta": {
+            "index": [
+                97
+            ]
+        },
+        "aligned-raw": "bla t",
+        "aligned": "bla t"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 98,
+        "transcript": "tut še",
+        "text-start": 909,
+        "text-end": 915,
+        "meta": {
+            "index": [
+                98
+            ]
+        },
+        "aligned-raw": "tut še",
+        "aligned": "tut še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 99,
+        "transcript": "špajza učasih",
+        "text-start": 916,
+        "text-end": 929,
+        "meta": {
+            "index": [
+                99
+            ]
+        },
+        "aligned-raw": "špajza učasih",
+        "aligned": "špajza učasih"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 100,
+        "transcript": "pa še",
+        "text-start": 930,
+        "text-end": 935,
+        "meta": {
+            "index": [
+                100
+            ]
+        },
+        "aligned-raw": "pa še",
+        "aligned": "pa še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 101,
+        "transcript": "kak kieudr",
+        "text-start": 937,
+        "text-end": 942,
+        "meta": {
+            "index": [
+                101
+            ]
+        },
+        "aligned-raw": "a kie",
+        "aligned": "a kie"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 102,
+        "transcript": "stranišče je",
+        "text-start": 945,
+        "text-end": 957,
+        "meta": {
+            "index": [
+                102
+            ]
+        },
+        "aligned-raw": "stranišče je",
+        "aligned": "stranišče je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 103,
+        "transcript": "blu uzuni",
+        "text-start": 958,
+        "text-end": 967,
+        "meta": {
+            "index": [
+                103
+            ]
+        },
+        "aligned-raw": "blu uzuni",
+        "aligned": "blu uzuni"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 104,
+        "transcript": "riekl so",
+        "text-start": 968,
+        "text-end": 975,
+        "meta": {
+            "index": [
+                104
+            ]
+        },
+        "aligned-raw": "riekl s",
+        "aligned": "riekl s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 105,
+        "transcript": "mu pa",
+        "text-start": 976,
+        "text-end": 980,
+        "meta": {
+            "index": [
+                105
+            ]
+        },
+        "aligned-raw": "o pa",
+        "aligned": "o pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 106,
+        "transcript": "sekriet al",
+        "text-start": 981,
+        "text-end": 991,
+        "meta": {
+            "index": [
+                106
+            ]
+        },
+        "aligned-raw": "sekriet al",
+        "aligned": "sekriet al"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 107,
+        "transcript": "pa kr",
+        "text-start": 992,
+        "text-end": 997,
+        "meta": {
+            "index": [
+                107
+            ]
+        },
+        "aligned-raw": "pa kr",
+        "aligned": "pa kr"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 108,
+        "transcript": "štrbunk ene",
+        "text-start": 998,
+        "text-end": 1009,
+        "meta": {
+            "index": [
+                108
+            ]
+        },
+        "aligned-raw": "štrbunk ene",
+        "aligned": "štrbunk ene"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 109,
+        "transcript": "hiše so",
+        "text-start": 1010,
+        "text-end": 1017,
+        "meta": {
+            "index": [
+                109
+            ]
+        },
+        "aligned-raw": "hiše so",
+        "aligned": "hiše so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 110,
+        "transcript": "mele puol",
+        "text-start": 1018,
+        "text-end": 1027,
+        "meta": {
+            "index": [
+                110
+            ]
+        },
+        "aligned-raw": "mele puol",
+        "aligned": "mele puol"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 111,
+        "transcript": "tut še",
+        "text-start": 1028,
+        "text-end": 1034,
+        "meta": {
+            "index": [
+                111
+            ]
+        },
+        "aligned-raw": "tut še",
+        "aligned": "tut še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 112,
+        "transcript": "zguori en",
+        "text-start": 1035,
+        "text-end": 1044,
+        "meta": {
+            "index": [
+                112
+            ]
+        },
+        "aligned-raw": "zguori en",
+        "aligned": "zguori en"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 113,
+        "transcript": "plac za",
+        "text-start": 1045,
+        "text-end": 1052,
+        "meta": {
+            "index": [
+                113
+            ]
+        },
+        "aligned-raw": "plac za",
+        "aligned": "plac za"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 114,
+        "transcript": "spat temu",
+        "text-start": 1053,
+        "text-end": 1062,
+        "meta": {
+            "index": [
+                114
+            ]
+        },
+        "aligned-raw": "spat temu",
+        "aligned": "spat temu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 115,
+        "transcript": "so riekl",
+        "text-start": 1063,
+        "text-end": 1071,
+        "meta": {
+            "index": [
+                115
+            ]
+        },
+        "aligned-raw": "so riekl",
+        "aligned": "so riekl"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 116,
+        "transcript": "pajzlc u",
+        "text-start": 1072,
+        "text-end": 1079,
+        "meta": {
+            "index": [
+                116
+            ]
+        },
+        "aligned-raw": "pajzlc ",
+        "aligned": "pajzlc "
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 117,
+        "transcript": "ktirga si",
+        "text-start": 1079,
+        "text-end": 1088,
+        "meta": {
+            "index": [
+                117
+            ]
+        },
+        "aligned-raw": "ktirga si",
+        "aligned": "ktirga si"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 118,
+        "transcript": "muogu splezat",
+        "text-start": 1089,
+        "text-end": 1102,
+        "meta": {
+            "index": [
+                118
+            ]
+        },
+        "aligned-raw": "muogu splezat",
+        "aligned": "muogu splezat"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 119,
+        "transcript": "pu luojtri",
+        "text-start": 1103,
+        "text-end": 1105,
+        "meta": {
+            "index": [
+                119
+            ]
+        },
+        "aligned-raw": "pu",
+        "aligned": "pu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 120,
+        "transcript": "tam ku",
+        "text-start": 1107,
+        "text-end": 1113,
+        "meta": {
+            "index": [
+                120
+            ]
+        },
+        "aligned-raw": "tam ku",
+        "aligned": "tam ku"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 121,
+        "transcript": "pa niblu",
+        "text-start": 1119,
+        "text-end": 1123,
+        "meta": {
+            "index": [
+                121
+            ]
+        },
+        "aligned-raw": " blu",
+        "aligned": " blu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 122,
+        "transcript": "pajzlca so",
+        "text-start": 1124,
+        "text-end": 1134,
+        "meta": {
+            "index": [
+                122
+            ]
+        },
+        "aligned-raw": "pajzlca se",
+        "aligned": "pajzlca se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 123,
+        "transcript": "mel pa",
+        "text-start": 1139,
+        "text-end": 1143,
+        "meta": {
+            "index": [
+                123
+            ]
+        },
+        "aligned-raw": "e pa",
+        "aligned": "e pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 124,
+        "transcript": "kr streho",
+        "text-start": 1144,
+        "text-end": 1153,
+        "meta": {
+            "index": [
+                124
+            ]
+        },
+        "aligned-raw": "kr streho",
+        "aligned": "kr streho"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 125,
+        "transcript": "kukr smo",
+        "text-start": 1154,
+        "text-end": 1162,
+        "meta": {
+            "index": [
+                125
+            ]
+        },
+        "aligned-raw": "kukr smo",
+        "aligned": "kukr smo"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 126,
+        "transcript": "pr nas",
+        "text-start": 1163,
+        "text-end": 1169,
+        "meta": {
+            "index": [
+                126
+            ]
+        },
+        "aligned-raw": "pr nas",
+        "aligned": "pr nas"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 127,
+        "transcript": "riekl placi",
+        "text-start": 1170,
+        "text-end": 1181,
+        "meta": {
+            "index": [
+                127
+            ]
+        },
+        "aligned-raw": "riekl placi",
+        "aligned": "riekl placi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 128,
+        "transcript": "put streho",
+        "text-start": 1183,
+        "text-end": 1189,
+        "meta": {
+            "index": [
+                128
+            ]
+        },
+        "aligned-raw": "u stre",
+        "aligned": "u stre"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 129,
+        "transcript": "pr nkterih",
+        "text-start": 1190,
+        "text-end": 1200,
+        "meta": {
+            "index": [
+                129
+            ]
+        },
+        "aligned-raw": "pa nkterih",
+        "aligned": "pa nkterih"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 130,
+        "transcript": "hišah so",
+        "text-start": 1201,
+        "text-end": 1209,
+        "meta": {
+            "index": [
+                130
+            ]
+        },
+        "aligned-raw": "hišah so",
+        "aligned": "hišah so"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 131,
+        "transcript": "puzim sušil",
+        "text-start": 1210,
+        "text-end": 1221,
+        "meta": {
+            "index": [
+                131
+            ]
+        },
+        "aligned-raw": "puzim sušil",
+        "aligned": "puzim sušil"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 132,
+        "transcript": "tut mesu",
+        "text-start": 1222,
+        "text-end": 1230,
+        "meta": {
+            "index": [
+                132
+            ]
+        },
+        "aligned-raw": "tut mesu",
+        "aligned": "tut mesu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 133,
+        "transcript": "kje biu",
+        "text-start": 1231,
+        "text-end": 1238,
+        "meta": {
+            "index": [
+                133
+            ]
+        },
+        "aligned-raw": "kje biu",
+        "aligned": "kje biu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 134,
+        "transcript": "ubeišn u",
+        "text-start": 1238,
+        "text-end": 1240,
+        "meta": {
+            "index": [
+                134
+            ]
+        },
+        "aligned-raw": " b",
+        "aligned": " b"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 135,
+        "transcript": "zieuhnci zroun",
+        "text-start": 1248,
+        "text-end": 1259,
+        "meta": {
+            "index": [
+                135
+            ]
+        },
+        "aligned-raw": "zieuhnci zr",
+        "aligned": "zieuhnci zr"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 136,
+        "transcript": "hiše je",
+        "text-start": 1262,
+        "text-end": 1269,
+        "meta": {
+            "index": [
+                136
+            ]
+        },
+        "aligned-raw": "hiše je",
+        "aligned": "hiše je"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 137,
+        "transcript": "bla puol",
+        "text-start": 1270,
+        "text-end": 1276,
+        "meta": {
+            "index": [
+                137
+            ]
+        },
+        "aligned-raw": "bla pu",
+        "aligned": "bla pu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 138,
+        "transcript": "še štala",
+        "text-start": 1277,
+        "text-end": 1285,
+        "meta": {
+            "index": [
+                138
+            ]
+        },
+        "aligned-raw": "še štala",
+        "aligned": "še štala"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 139,
+        "transcript": "svijak kurjek",
+        "text-start": 1286,
+        "text-end": 1299,
+        "meta": {
+            "index": [
+                139
+            ]
+        },
+        "aligned-raw": "svijak kurjek",
+        "aligned": "svijak kurjek"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 140,
+        "transcript": "ahkr kuzouc",
+        "text-start": 1300,
+        "text-end": 1311,
+        "meta": {
+            "index": [
+                140
+            ]
+        },
+        "aligned-raw": "ahkr kuzouc",
+        "aligned": "ahkr kuzouc"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 141,
+        "transcript": "pa še",
+        "text-start": 1312,
+        "text-end": 1317,
+        "meta": {
+            "index": [
+                141
+            ]
+        },
+        "aligned-raw": "pa še",
+        "aligned": "pa še"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 142,
+        "transcript": "kej bi",
+        "text-start": 1318,
+        "text-end": 1324,
+        "meta": {
+            "index": [
+                142
+            ]
+        },
+        "aligned-raw": "kej bi",
+        "aligned": "kej bi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 143,
+        "transcript": "se najdl",
+        "text-start": 1325,
+        "text-end": 1333,
+        "meta": {
+            "index": [
+                143
+            ]
+        },
+        "aligned-raw": "se najdl",
+        "aligned": "se najdl"
+    }
+]

@@ -1,0 +1,1178 @@
+[
+    {
+        "text": "cankar",
+        "start": 0.0,
+        "end": 0.5,
+        "index": 0
+    },
+    {
+        "text": "veliko",
+        "start": 0.6,
+        "end": 0.88,
+        "index": 1
+    },
+    {
+        "text": "ime",
+        "start": 1.02,
+        "end": 1.18,
+        "index": 2
+    },
+    {
+        "text": "slovenske",
+        "start": 1.2,
+        "end": 1.72,
+        "index": 3
+    },
+    {
+        "text": "moderne",
+        "start": 1.9000000000000001,
+        "end": 2.2800000000000002,
+        "index": 4
+    },
+    {
+        "text": "je",
+        "start": 2.32,
+        "end": 2.48,
+        "index": 5
+    },
+    {
+        "text": "klasik",
+        "start": 2.84,
+        "end": 3.12,
+        "index": 6
+    },
+    {
+        "text": "literature",
+        "start": 3.2,
+        "end": 3.46,
+        "index": 7
+    },
+    {
+        "text": "in",
+        "start": 3.7,
+        "end": 3.72,
+        "index": 8
+    },
+    {
+        "text": "zapisan",
+        "start": 3.7600000000000002,
+        "end": 4.22,
+        "index": 9
+    },
+    {
+        "text": "v",
+        "start": 4.26,
+        "end": 4.27,
+        "index": 10
+    },
+    {
+        "text": "njen",
+        "start": 4.26,
+        "end": 4.58,
+        "index": 11
+    },
+    {
+        "text": "kanon",
+        "start": 4.7,
+        "end": 4.92,
+        "index": 12
+    },
+    {
+        "text": "svoje",
+        "start": 5.54,
+        "end": 5.82,
+        "index": 13
+    },
+    {
+        "text": "dni",
+        "start": 5.94,
+        "end": 6.0200000000000005,
+        "index": 14
+    },
+    {
+        "text": "je",
+        "start": 6.08,
+        "end": 6.12,
+        "index": 15
+    },
+    {
+        "text": "bil",
+        "start": 6.2,
+        "end": 6.28,
+        "index": 16
+    },
+    {
+        "text": "preziran",
+        "start": 6.34,
+        "end": 6.88,
+        "index": 17
+    },
+    {
+        "text": "kasneje",
+        "start": 7.04,
+        "end": 7.36,
+        "index": 18
+    },
+    {
+        "text": "pa",
+        "start": 7.42,
+        "end": 7.5200000000000005,
+        "index": 19
+    },
+    {
+        "text": "čaščen",
+        "start": 7.66,
+        "end": 8.040000000000001,
+        "index": 20
+    },
+    {
+        "text": "čeprav",
+        "start": 8.2,
+        "end": 8.52,
+        "index": 21
+    },
+    {
+        "text": "pogosto",
+        "start": 8.620000000000001,
+        "end": 8.96,
+        "index": 22
+    },
+    {
+        "text": "s",
+        "start": 9.120000000000001,
+        "end": 9.13,
+        "index": 23
+    },
+    {
+        "text": "figo",
+        "start": 9.3,
+        "end": 9.44,
+        "index": 24
+    },
+    {
+        "text": "v",
+        "start": 9.5,
+        "end": 9.51,
+        "index": 25
+    },
+    {
+        "text": "žepu",
+        "start": 9.64,
+        "end": 9.86,
+        "index": 26
+    },
+    {
+        "text": "bil",
+        "start": 10.02,
+        "end": 10.700000000000001,
+        "index": 27
+    },
+    {
+        "text": "je",
+        "start": 10.84,
+        "end": 10.88,
+        "index": 28
+    },
+    {
+        "text": "socialist",
+        "start": 10.94,
+        "end": 11.58,
+        "index": 29
+    },
+    {
+        "text": "kritiziral",
+        "start": 11.84,
+        "end": 12.32,
+        "index": 30
+    },
+    {
+        "text": "katolicizem",
+        "start": 12.38,
+        "end": 13.02,
+        "index": 31
+    },
+    {
+        "text": "in",
+        "start": 13.3,
+        "end": 13.32,
+        "index": 32
+    },
+    {
+        "text": "bil",
+        "start": 13.38,
+        "end": 13.52,
+        "index": 33
+    },
+    {
+        "text": "trn",
+        "start": 13.68,
+        "end": 13.88,
+        "index": 34
+    },
+    {
+        "text": "v",
+        "start": 14.02,
+        "end": 14.03,
+        "index": 35
+    },
+    {
+        "text": "peti",
+        "start": 14.18,
+        "end": 14.4,
+        "index": 36
+    },
+    {
+        "text": "cerkvenim",
+        "start": 14.540000000000001,
+        "end": 15.06,
+        "index": 37
+    },
+    {
+        "text": "veljakom",
+        "start": 15.26,
+        "end": 15.64,
+        "index": 38
+    },
+    {
+        "text": "škof",
+        "start": 15.76,
+        "end": 16.62,
+        "index": 39
+    },
+    {
+        "text": "jeglič",
+        "start": 16.76,
+        "end": 17.16,
+        "index": 40
+    },
+    {
+        "text": "je",
+        "start": 17.240000000000002,
+        "end": 17.3,
+        "index": 41
+    },
+    {
+        "text": "konec",
+        "start": 17.44,
+        "end": 17.68,
+        "index": 42
+    },
+    {
+        "text": "devetnajstega",
+        "start": 17.76,
+        "end": 18.400000000000002,
+        "index": 43
+    },
+    {
+        "text": "stoletja",
+        "start": 18.52,
+        "end": 18.900000000000002,
+        "index": 44
+    },
+    {
+        "text": "ukazal",
+        "start": 19.02,
+        "end": 19.400000000000002,
+        "index": 45
+    },
+    {
+        "text": "sežgati",
+        "start": 19.6,
+        "end": 20.04,
+        "index": 46
+    },
+    {
+        "text": "celotno",
+        "start": 20.14,
+        "end": 20.580000000000002,
+        "index": 47
+    },
+    {
+        "text": "izdajo",
+        "start": 20.68,
+        "end": 20.98,
+        "index": 48
+    },
+    {
+        "text": "njegove",
+        "start": 21.06,
+        "end": 21.42,
+        "index": 49
+    },
+    {
+        "text": "pesniške",
+        "start": 21.56,
+        "end": 21.94,
+        "index": 50
+    },
+    {
+        "text": "zbirke",
+        "start": 22.0,
+        "end": 22.38,
+        "index": 51
+    },
+    {
+        "text": "erotika",
+        "start": 22.7,
+        "end": 23.14,
+        "index": 52
+    },
+    {
+        "text": "cankar",
+        "start": 23.3,
+        "end": 24.66,
+        "index": 53
+    },
+    {
+        "text": "je",
+        "start": 24.76,
+        "end": 24.8,
+        "index": 54
+    },
+    {
+        "text": "vnesel",
+        "start": 24.84,
+        "end": 25.28,
+        "index": 55
+    },
+    {
+        "text": "neko",
+        "start": 25.5,
+        "end": 25.64,
+        "index": 56
+    },
+    {
+        "text": "resnično",
+        "start": 26.54,
+        "end": 27.18,
+        "index": 57
+    },
+    {
+        "text": "revolucionarnost",
+        "start": 27.6,
+        "end": 28.900000000000002,
+        "index": 58
+    },
+    {
+        "text": "v",
+        "start": 29.48,
+        "end": 29.560000000000002,
+        "index": 59
+    },
+    {
+        "text": "naše",
+        "start": 30.22,
+        "end": 30.42,
+        "index": 60
+    },
+    {
+        "text": "duhovno",
+        "start": 30.68,
+        "end": 31.46,
+        "index": 61
+    },
+    {
+        "text": "življenje",
+        "start": 31.68,
+        "end": 32.14,
+        "index": 62
+    },
+    {
+        "text": "ki",
+        "start": 32.78,
+        "end": 32.88,
+        "index": 63
+    },
+    {
+        "text": "ga",
+        "start": 33.02,
+        "end": 33.06,
+        "index": 64
+    },
+    {
+        "text": "je",
+        "start": 33.12,
+        "end": 33.24,
+        "index": 65
+    },
+    {
+        "text": "slovenski",
+        "start": 35.26,
+        "end": 35.74,
+        "index": 66
+    },
+    {
+        "text": "narod",
+        "start": 35.82,
+        "end": 36.160000000000004,
+        "index": 67
+    },
+    {
+        "text": "spremljal",
+        "start": 37.7,
+        "end": 38.1,
+        "index": 68
+    },
+    {
+        "text": "z",
+        "start": 38.12,
+        "end": 38.2,
+        "index": 69
+    },
+    {
+        "text": "začudenjem",
+        "start": 38.4,
+        "end": 39.02,
+        "index": 70
+    },
+    {
+        "text": "mladina",
+        "start": 39.86,
+        "end": 40.38,
+        "index": 71
+    },
+    {
+        "text": "pa",
+        "start": 40.6,
+        "end": 40.64,
+        "index": 72
+    },
+    {
+        "text": "z",
+        "start": 41.86,
+        "end": 41.94,
+        "index": 73
+    },
+    {
+        "text": "navdušenjem",
+        "start": 42.4,
+        "end": 43.14,
+        "index": 74
+    },
+    {
+        "text": "devetnajstodrugega",
+        "start": 43.14,
+        "end": 45.82,
+        "index": 75
+    },
+    {
+        "text": "je",
+        "start": 45.94,
+        "end": 45.949999999999996,
+        "index": 76
+    },
+    {
+        "text": "izšel",
+        "start": 45.94,
+        "end": 46.1,
+        "index": 77
+    },
+    {
+        "text": "njegov",
+        "start": 46.38,
+        "end": 46.6,
+        "index": 78
+    },
+    {
+        "text": "najobsežnejši",
+        "start": 46.660000000000004,
+        "end": 47.480000000000004,
+        "index": 79
+    },
+    {
+        "text": "roman",
+        "start": 47.64,
+        "end": 47.84,
+        "index": 80
+    },
+    {
+        "text": "na",
+        "start": 47.9,
+        "end": 48.14,
+        "index": 81
+    },
+    {
+        "text": "klancu",
+        "start": 48.24,
+        "end": 48.620000000000005,
+        "index": 82
+    },
+    {
+        "text": "dve",
+        "start": 48.74,
+        "end": 48.94,
+        "index": 83
+    },
+    {
+        "text": "leti",
+        "start": 49.04,
+        "end": 49.160000000000004,
+        "index": 84
+    },
+    {
+        "text": "kasneje",
+        "start": 49.22,
+        "end": 49.6,
+        "index": 85
+    },
+    {
+        "text": "hiša",
+        "start": 49.94,
+        "end": 50.160000000000004,
+        "index": 86
+    },
+    {
+        "text": "marije",
+        "start": 50.24,
+        "end": 50.5,
+        "index": 87
+    },
+    {
+        "text": "pomočnice",
+        "start": 50.68,
+        "end": 51.300000000000004,
+        "index": 88
+    },
+    {
+        "text": "cankarjevo",
+        "start": 51.46,
+        "end": 52.04,
+        "index": 89
+    },
+    {
+        "text": "najuspešnejše",
+        "start": 52.28,
+        "end": 53.06,
+        "index": 90
+    },
+    {
+        "text": "romaneskno",
+        "start": 53.24,
+        "end": 53.84,
+        "index": 91
+    },
+    {
+        "text": "delo",
+        "start": 53.980000000000004,
+        "end": 54.14,
+        "index": 92
+    },
+    {
+        "text": "sicer",
+        "start": 54.14,
+        "end": 55.14,
+        "index": 93
+    },
+    {
+        "text": "se",
+        "start": 55.300000000000004,
+        "end": 55.34,
+        "index": 94
+    },
+    {
+        "text": "je",
+        "start": 55.4,
+        "end": 55.46,
+        "index": 95
+    },
+    {
+        "text": "vsa",
+        "start": 55.620000000000005,
+        "end": 55.76,
+        "index": 96
+    },
+    {
+        "text": "leta",
+        "start": 55.88,
+        "end": 56.1,
+        "index": 97
+    },
+    {
+        "text": "svojega",
+        "start": 56.28,
+        "end": 56.56,
+        "index": 98
+    },
+    {
+        "text": "ustvarjanja",
+        "start": 56.620000000000005,
+        "end": 57.160000000000004,
+        "index": 99
+    },
+    {
+        "text": "posvečal",
+        "start": 57.36,
+        "end": 57.76,
+        "index": 100
+    },
+    {
+        "text": "dramatiki",
+        "start": 57.800000000000004,
+        "end": 58.5,
+        "index": 101
+    },
+    {
+        "text": "ki",
+        "start": 58.64,
+        "end": 58.660000000000004,
+        "index": 102
+    },
+    {
+        "text": "je",
+        "start": 58.68,
+        "end": 58.74,
+        "index": 103
+    },
+    {
+        "text": "odigrala",
+        "start": 58.84,
+        "end": 59.2,
+        "index": 104
+    },
+    {
+        "text": "ključno",
+        "start": 59.26,
+        "end": 59.64,
+        "index": 105
+    },
+    {
+        "text": "vlogo",
+        "start": 59.74,
+        "end": 59.980000000000004,
+        "index": 106
+    },
+    {
+        "text": "v",
+        "start": 60.160000000000004,
+        "end": 60.17,
+        "index": 107
+    },
+    {
+        "text": "slovenskem",
+        "start": 60.300000000000004,
+        "end": 60.84,
+        "index": 108
+    },
+    {
+        "text": "kulturnem",
+        "start": 60.92,
+        "end": 61.44,
+        "index": 109
+    },
+    {
+        "text": "prostoru",
+        "start": 61.56,
+        "end": 61.800000000000004,
+        "index": 110
+    },
+    {
+        "text": "cankarjeve",
+        "start": 61.9,
+        "end": 62.9,
+        "index": 111
+    },
+    {
+        "text": "drame",
+        "start": 63.120000000000005,
+        "end": 63.34,
+        "index": 112
+    },
+    {
+        "text": "funkcionirajo",
+        "start": 63.4,
+        "end": 64.0,
+        "index": 113
+    },
+    {
+        "text": "podobno",
+        "start": 64.22,
+        "end": 64.56,
+        "index": 114
+    },
+    {
+        "text": "kot",
+        "start": 64.64,
+        "end": 64.78,
+        "index": 115
+    },
+    {
+        "text": "shakespearove",
+        "start": 65.26,
+        "end": 65.36,
+        "index": 116
+    },
+    {
+        "text": "ni",
+        "start": 65.36,
+        "end": 65.37,
+        "index": 117
+    },
+    {
+        "text": "ti",
+        "start": 67.1,
+        "end": 67.11,
+        "index": 118
+    },
+    {
+        "text": "jih",
+        "start": 67.42,
+        "end": 67.5,
+        "index": 119
+    },
+    {
+        "text": "treba",
+        "start": 67.64,
+        "end": 67.82000000000001,
+        "index": 120
+    },
+    {
+        "text": "popolnoma",
+        "start": 67.88,
+        "end": 68.46000000000001,
+        "index": 121
+    },
+    {
+        "text": "nič",
+        "start": 68.76,
+        "end": 68.8,
+        "index": 122
+    },
+    {
+        "text": "aktualizirati",
+        "start": 68.9,
+        "end": 69.9,
+        "index": 123
+    },
+    {
+        "text": "da",
+        "start": 70.60000000000001,
+        "end": 70.64,
+        "index": 124
+    },
+    {
+        "text": "bi",
+        "start": 70.7,
+        "end": 70.8,
+        "index": 125
+    },
+    {
+        "text": "izgledale",
+        "start": 71.12,
+        "end": 71.44,
+        "index": 126
+    },
+    {
+        "text": "aktualno",
+        "start": 71.5,
+        "end": 72.2,
+        "index": 127
+    },
+    {
+        "text": "skratka",
+        "start": 72.58,
+        "end": 72.84,
+        "index": 128
+    },
+    {
+        "text": "postaviš",
+        "start": 72.9,
+        "end": 73.52,
+        "index": 129
+    },
+    {
+        "text": "jih",
+        "start": 73.56,
+        "end": 73.72,
+        "index": 130
+    },
+    {
+        "text": "vedno",
+        "start": 73.78,
+        "end": 74.06,
+        "index": 131
+    },
+    {
+        "text": "lahko",
+        "start": 74.18,
+        "end": 74.34,
+        "index": 132
+    },
+    {
+        "text": "take",
+        "start": 74.38,
+        "end": 74.9,
+        "index": 133
+    },
+    {
+        "text": "kot",
+        "start": 75.18,
+        "end": 75.26,
+        "index": 134
+    },
+    {
+        "text": "so",
+        "start": 75.34,
+        "end": 75.44,
+        "index": 135
+    },
+    {
+        "text": "brez",
+        "start": 76.16,
+        "end": 76.3,
+        "index": 136
+    },
+    {
+        "text": "dodatkov",
+        "start": 76.36,
+        "end": 76.86,
+        "index": 137
+    },
+    {
+        "text": "dobesedno",
+        "start": 77.2,
+        "end": 77.74,
+        "index": 138
+    },
+    {
+        "text": "pa",
+        "start": 78.22,
+        "end": 78.3,
+        "index": 139
+    },
+    {
+        "text": "vendar",
+        "start": 78.46000000000001,
+        "end": 78.68,
+        "index": 140
+    },
+    {
+        "text": "vsi",
+        "start": 79.0,
+        "end": 79.24,
+        "index": 141
+    },
+    {
+        "text": "vemo",
+        "start": 79.38,
+        "end": 79.54,
+        "index": 142
+    },
+    {
+        "text": "za",
+        "start": 79.76,
+        "end": 79.92,
+        "index": 143
+    },
+    {
+        "text": "kaj",
+        "start": 80.02,
+        "end": 80.10000000000001,
+        "index": 144
+    },
+    {
+        "text": "gre",
+        "start": 80.18,
+        "end": 80.36,
+        "index": 145
+    },
+    {
+        "text": "na",
+        "start": 80.82000000000001,
+        "end": 80.84,
+        "index": 146
+    },
+    {
+        "text": "kaj",
+        "start": 80.94,
+        "end": 81.12,
+        "index": 147
+    },
+    {
+        "text": "kej",
+        "start": 81.66,
+        "end": 81.76,
+        "index": 148
+    },
+    {
+        "text": "v",
+        "start": 82.06,
+        "end": 82.12,
+        "index": 149
+    },
+    {
+        "text": "cankarjevem",
+        "start": 82.3,
+        "end": 82.72,
+        "index": 150
+    },
+    {
+        "text": "tekstu",
+        "start": 82.78,
+        "end": 83.02,
+        "index": 151
+    },
+    {
+        "text": "leti",
+        "start": 83.26,
+        "end": 83.36,
+        "index": 152
+    },
+    {
+        "text": "ne",
+        "start": 83.62,
+        "end": 83.76,
+        "index": 153
+    },
+    {
+        "text": "na",
+        "start": 84.56,
+        "end": 84.58,
+        "index": 154
+    },
+    {
+        "text": "kaj",
+        "start": 84.66,
+        "end": 84.8,
+        "index": 155
+    },
+    {
+        "text": "iz",
+        "start": 85.02,
+        "end": 85.08,
+        "index": 156
+    },
+    {
+        "text": "preteklosti",
+        "start": 85.12,
+        "end": 85.7,
+        "index": 157
+    },
+    {
+        "text": "ampak",
+        "start": 85.86,
+        "end": 86.02,
+        "index": 158
+    },
+    {
+        "text": "na",
+        "start": 86.10000000000001,
+        "end": 86.16,
+        "index": 159
+    },
+    {
+        "text": "kaj",
+        "start": 86.26,
+        "end": 86.34,
+        "index": 160
+    },
+    {
+        "text": "iz",
+        "start": 86.4,
+        "end": 86.64,
+        "index": 161
+    },
+    {
+        "text": "sedanjosti",
+        "start": 86.84,
+        "end": 87.28,
+        "index": 162
+    },
+    {
+        "text": "na",
+        "start": 88.18,
+        "end": 88.7,
+        "index": 163
+    },
+    {
+        "text": "odrih",
+        "start": 88.84,
+        "end": 89.02,
+        "index": 164
+    },
+    {
+        "text": "je",
+        "start": 89.10000000000001,
+        "end": 89.28,
+        "index": 165
+    },
+    {
+        "text": "še",
+        "start": 89.48,
+        "end": 89.52,
+        "index": 166
+    },
+    {
+        "text": "vedno",
+        "start": 89.58,
+        "end": 89.78,
+        "index": 167
+    },
+    {
+        "text": "zelo",
+        "start": 89.98,
+        "end": 90.12,
+        "index": 168
+    },
+    {
+        "text": "prisoten",
+        "start": 90.2,
+        "end": 90.7,
+        "index": 169
+    },
+    {
+        "text": "drama",
+        "start": 91.48,
+        "end": 91.7,
+        "index": 170
+    },
+    {
+        "text": "o",
+        "start": 91.86,
+        "end": 91.87,
+        "index": 171
+    },
+    {
+        "text": "absolutni",
+        "start": 92.08,
+        "end": 92.52,
+        "index": 172
+    },
+    {
+        "text": "oblasti",
+        "start": 92.58,
+        "end": 93.0,
+        "index": 173
+    },
+    {
+        "text": "kralj",
+        "start": 93.3,
+        "end": 93.46000000000001,
+        "index": 174
+    },
+    {
+        "text": "na",
+        "start": 93.5,
+        "end": 93.56,
+        "index": 175
+    },
+    {
+        "text": "betajnovi",
+        "start": 93.68,
+        "end": 94.16,
+        "index": 176
+    },
+    {
+        "text": "satirična",
+        "start": 94.18,
+        "end": 94.98,
+        "index": 177
+    },
+    {
+        "text": "komedija",
+        "start": 95.14,
+        "end": 95.5,
+        "index": 178
+    },
+    {
+        "text": "za",
+        "start": 95.56,
+        "end": 95.82000000000001,
+        "index": 179
+    },
+    {
+        "text": "narodov",
+        "start": 95.92,
+        "end": 96.24000000000001,
+        "index": 180
+    },
+    {
+        "text": "blagor",
+        "start": 96.3,
+        "end": 96.64,
+        "index": 181
+    },
+    {
+        "text": "hlapci",
+        "start": 97.04,
+        "end": 97.44,
+        "index": 182
+    },
+    {
+        "text": "ali",
+        "start": 97.64,
+        "end": 97.8,
+        "index": 183
+    },
+    {
+        "text": "pohujšanje",
+        "start": 97.96000000000001,
+        "end": 98.48,
+        "index": 184
+    },
+    {
+        "text": "farsa",
+        "start": 99.10000000000001,
+        "end": 99.48,
+        "index": 185
+    },
+    {
+        "text": "v",
+        "start": 99.74000000000001,
+        "end": 99.75000000000001,
+        "index": 186
+    },
+    {
+        "text": "treh",
+        "start": 99.8,
+        "end": 100.04,
+        "index": 187
+    },
+    {
+        "text": "aktih",
+        "start": 100.24000000000001,
+        "end": 100.56,
+        "index": 188
+    },
+    {
+        "text": "ki",
+        "start": 100.66,
+        "end": 100.74000000000001,
+        "index": 189
+    },
+    {
+        "text": "jo",
+        "start": 100.84,
+        "end": 100.86,
+        "index": 190
+    },
+    {
+        "text": "je",
+        "start": 100.92,
+        "end": 100.98,
+        "index": 191
+    },
+    {
+        "text": "avtor",
+        "start": 101.16,
+        "end": 101.4,
+        "index": 192
+    },
+    {
+        "text": "označil",
+        "start": 101.44,
+        "end": 101.96000000000001,
+        "index": 193
+    },
+    {
+        "text": "za",
+        "start": 102.36,
+        "end": 102.4,
+        "index": 194
+    },
+    {
+        "text": "hudobijo",
+        "start": 102.46000000000001,
+        "end": 102.88,
+        "index": 195
+    }
+]

@@ -1,0 +1,428 @@
+[
+    {
+        "text": "pejmo",
+        "start": 0.32,
+        "end": 0.76,
+        "index": 0
+    },
+    {
+        "text": "spat",
+        "start": 0.78,
+        "end": 1.18,
+        "index": 1
+    },
+    {
+        "text": "boh",
+        "start": 1.4000000000000001,
+        "end": 2.34,
+        "index": 2
+    },
+    {
+        "text": "je",
+        "start": 2.48,
+        "end": 2.54,
+        "index": 3
+    },
+    {
+        "text": "zvat",
+        "start": 2.58,
+        "end": 2.98,
+        "index": 4
+    },
+    {
+        "text": "pejmo",
+        "start": 3.88,
+        "end": 4.18,
+        "index": 5
+    },
+    {
+        "text": "gledat",
+        "start": 4.24,
+        "end": 4.68,
+        "index": 6
+    },
+    {
+        "text": "kaj",
+        "start": 4.78,
+        "end": 4.92,
+        "index": 7
+    },
+    {
+        "text": "marija",
+        "start": 4.98,
+        "end": 5.46,
+        "index": 8
+    },
+    {
+        "text": "dela",
+        "start": 5.76,
+        "end": 5.96,
+        "index": 9
+    },
+    {
+        "text": "marija",
+        "start": 5.98,
+        "end": 7.34,
+        "index": 10
+    },
+    {
+        "text": "na",
+        "start": 7.5,
+        "end": 7.66,
+        "index": 11
+    },
+    {
+        "text": "zvatmo",
+        "start": 7.74,
+        "end": 8.16,
+        "index": 12
+    },
+    {
+        "text": "stoučku",
+        "start": 8.66,
+        "end": 9.02,
+        "index": 13
+    },
+    {
+        "text": "sedi",
+        "start": 9.02,
+        "end": 9.18,
+        "index": 14
+    },
+    {
+        "text": "nebeške",
+        "start": 10.120000000000001,
+        "end": 10.620000000000001,
+        "index": 15
+    },
+    {
+        "text": "dušice",
+        "start": 10.700000000000001,
+        "end": 11.16,
+        "index": 16
+    },
+    {
+        "text": "napaja",
+        "start": 11.32,
+        "end": 11.72,
+        "index": 17
+    },
+    {
+        "text": "jeh",
+        "start": 11.74,
+        "end": 12.66,
+        "index": 18
+    },
+    {
+        "text": "u",
+        "start": 12.84,
+        "end": 12.85,
+        "index": 19
+    },
+    {
+        "text": "svet",
+        "start": 12.84,
+        "end": 12.98,
+        "index": 20
+    },
+    {
+        "text": "rej",
+        "start": 13.24,
+        "end": 13.280000000000001,
+        "index": 21
+    },
+    {
+        "text": "pusaja",
+        "start": 13.46,
+        "end": 13.9,
+        "index": 22
+    },
+    {
+        "text": "da",
+        "start": 14.780000000000001,
+        "end": 14.790000000000001,
+        "index": 23
+    },
+    {
+        "text": "bi",
+        "start": 14.8,
+        "end": 14.86,
+        "index": 24
+    },
+    {
+        "text": "še",
+        "start": 14.98,
+        "end": 15.02,
+        "index": 25
+    },
+    {
+        "text": "naše",
+        "start": 15.08,
+        "end": 15.42,
+        "index": 26
+    },
+    {
+        "text": "duše",
+        "start": 15.64,
+        "end": 15.84,
+        "index": 27
+    },
+    {
+        "text": "napojiva",
+        "start": 15.94,
+        "end": 16.56,
+        "index": 28
+    },
+    {
+        "text": "jeh",
+        "start": 17.22,
+        "end": 17.32,
+        "index": 29
+    },
+    {
+        "text": "u",
+        "start": 17.32,
+        "end": 17.400000000000002,
+        "index": 30
+    },
+    {
+        "text": "svet",
+        "start": 17.52,
+        "end": 17.53,
+        "index": 31
+    },
+    {
+        "text": "rej",
+        "start": 17.56,
+        "end": 17.57,
+        "index": 32
+    },
+    {
+        "text": "pusadiva",
+        "start": 18.14,
+        "end": 18.66,
+        "index": 33
+    },
+    {
+        "text": "jezus",
+        "start": 19.46,
+        "end": 19.900000000000002,
+        "index": 34
+    },
+    {
+        "text": "kristus",
+        "start": 20.06,
+        "end": 20.46,
+        "index": 35
+    },
+    {
+        "text": "amen",
+        "start": 20.52,
+        "end": 20.96,
+        "index": 36
+    },
+    {
+        "text": "jezus",
+        "start": 21.66,
+        "end": 22.0,
+        "index": 37
+    },
+    {
+        "text": "pa",
+        "start": 22.16,
+        "end": 22.22,
+        "index": 38
+    },
+    {
+        "text": "marija",
+        "start": 22.38,
+        "end": 22.580000000000002,
+        "index": 39
+    },
+    {
+        "text": "sta",
+        "start": 22.8,
+        "end": 22.94,
+        "index": 40
+    },
+    {
+        "text": "rekva",
+        "start": 23.1,
+        "end": 23.32,
+        "index": 41
+    },
+    {
+        "text": "dol",
+        "start": 23.32,
+        "end": 23.96,
+        "index": 42
+    },
+    {
+        "text": "lečt",
+        "start": 24.14,
+        "end": 24.42,
+        "index": 43
+    },
+    {
+        "text": "trdu",
+        "start": 24.48,
+        "end": 25.62,
+        "index": 44
+    },
+    {
+        "text": "zaspat",
+        "start": 25.8,
+        "end": 26.28,
+        "index": 45
+    },
+    {
+        "text": "nkogar",
+        "start": 26.36,
+        "end": 27.22,
+        "index": 46
+    },
+    {
+        "text": "se",
+        "start": 27.38,
+        "end": 27.42,
+        "index": 47
+    },
+    {
+        "text": "bat",
+        "start": 27.48,
+        "end": 27.76,
+        "index": 48
+    },
+    {
+        "text": "tri",
+        "start": 28.62,
+        "end": 28.7,
+        "index": 49
+    },
+    {
+        "text": "nebeške",
+        "start": 28.78,
+        "end": 29.32,
+        "index": 50
+    },
+    {
+        "text": "angelčke",
+        "start": 29.5,
+        "end": 29.96,
+        "index": 51
+    },
+    {
+        "text": "k",
+        "start": 30.04,
+        "end": 30.05,
+        "index": 52
+    },
+    {
+        "text": "nam",
+        "start": 30.22,
+        "end": 30.28,
+        "index": 53
+    },
+    {
+        "text": "pusvat",
+        "start": 30.400000000000002,
+        "end": 30.92,
+        "index": 54
+    },
+    {
+        "text": "pru",
+        "start": 31.88,
+        "end": 32.02,
+        "index": 55
+    },
+    {
+        "text": "nes",
+        "start": 32.14,
+        "end": 32.36,
+        "index": 56
+    },
+    {
+        "text": "bo",
+        "start": 32.5,
+        "end": 32.52,
+        "index": 57
+    },
+    {
+        "text": "vižou",
+        "start": 32.6,
+        "end": 33.06,
+        "index": 58
+    },
+    {
+        "text": "drug",
+        "start": 34.18,
+        "end": 34.300000000000004,
+        "index": 59
+    },
+    {
+        "text": "bo",
+        "start": 34.44,
+        "end": 34.5,
+        "index": 60
+    },
+    {
+        "text": "špižou",
+        "start": 34.64,
+        "end": 34.96,
+        "index": 61
+    },
+    {
+        "text": "trit",
+        "start": 35.68,
+        "end": 36.0,
+        "index": 62
+    },
+    {
+        "text": "bo",
+        "start": 36.1,
+        "end": 36.12,
+        "index": 63
+    },
+    {
+        "text": "varvou",
+        "start": 36.22,
+        "end": 36.58,
+        "index": 64
+    },
+    {
+        "text": "mojo",
+        "start": 36.76,
+        "end": 36.88,
+        "index": 65
+    },
+    {
+        "text": "ubogo",
+        "start": 36.88,
+        "end": 37.18,
+        "index": 66
+    },
+    {
+        "text": "dušo",
+        "start": 37.5,
+        "end": 37.72,
+        "index": 67
+    },
+    {
+        "text": "in",
+        "start": 37.82,
+        "end": 37.88,
+        "index": 68
+    },
+    {
+        "text": "telo",
+        "start": 38.0,
+        "end": 38.160000000000004,
+        "index": 69
+    },
+    {
+        "text": "amen",
+        "start": 38.18,
+        "end": 38.480000000000004,
+        "index": 70
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "start": 0,
+        "end": 0,
+        "index": 0,
+        "transcript": "to se",
+        "text-start": 0,
+        "text-end": 5,
+        "meta": {
+            "index": [
+                0
+            ]
+        },
+        "aligned-raw": "to se",
+        "aligned": "to se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 1,
+        "transcript": "pa prime",
+        "text-start": 6,
+        "text-end": 14,
+        "meta": {
+            "index": [
+                1
+            ]
+        },
+        "aligned-raw": "pa prime",
+        "aligned": "pa prime"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 2,
+        "transcript": "eden gre",
+        "text-start": 15,
+        "text-end": 23,
+        "meta": {
+            "index": [
+                2
+            ]
+        },
+        "aligned-raw": "eden gre",
+        "aligned": "eden gre"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 3,
+        "transcript": "navadno to",
+        "text-start": 24,
+        "text-end": 34,
+        "meta": {
+            "index": [
+                3
+            ]
+        },
+        "aligned-raw": "navadno to",
+        "aligned": "navadno to"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 4,
+        "transcript": "fant začne",
+        "text-start": 35,
+        "text-end": 45,
+        "meta": {
+            "index": [
+                4
+            ]
+        },
+        "aligned-raw": "fant začne",
+        "aligned": "fant začne"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 5,
+        "transcript": "se prime",
+        "text-start": 46,
+        "text-end": 54,
+        "meta": {
+            "index": [
+                5
+            ]
+        },
+        "aligned-raw": "se prime",
+        "aligned": "se prime"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 6,
+        "transcript": "za podboj",
+        "text-start": 55,
+        "text-end": 64,
+        "meta": {
+            "index": [
+                6
+            ]
+        },
+        "aligned-raw": "za podboj",
+        "aligned": "za podboj"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 7,
+        "transcript": "na vratah",
+        "text-start": 65,
+        "text-end": 74,
+        "meta": {
+            "index": [
+                7
+            ]
+        },
+        "aligned-raw": "na vratah",
+        "aligned": "na vratah"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 8,
+        "transcript": "pa reče",
+        "text-start": 75,
+        "text-end": 82,
+        "meta": {
+            "index": [
+                8
+            ]
+        },
+        "aligned-raw": "pa reče",
+        "aligned": "pa reče"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 9,
+        "transcript": "jas sem",
+        "text-start": 83,
+        "text-end": 90,
+        "meta": {
+            "index": [
+                9
+            ]
+        },
+        "aligned-raw": "jas sem",
+        "aligned": "jas sem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 10,
+        "transcript": "se obesu",
+        "text-start": 91,
+        "text-end": 99,
+        "meta": {
+            "index": [
+                10
+            ]
+        },
+        "aligned-raw": "se obesu",
+        "aligned": "se obesu"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 11,
+        "transcript": "zdej ga",
+        "text-start": 100,
+        "text-end": 107,
+        "meta": {
+            "index": [
+                11
+            ]
+        },
+        "aligned-raw": "zdej ga",
+        "aligned": "zdej ga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 12,
+        "transcript": "pa more",
+        "text-start": 108,
+        "text-end": 115,
+        "meta": {
+            "index": [
+                12
+            ]
+        },
+        "aligned-raw": "pa more",
+        "aligned": "pa more"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 13,
+        "transcript": "prit rešit",
+        "text-start": 116,
+        "text-end": 126,
+        "meta": {
+            "index": [
+                13
+            ]
+        },
+        "aligned-raw": "prit rešit",
+        "aligned": "prit rešit"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 14,
+        "transcript": "navadno eno",
+        "text-start": 127,
+        "text-end": 138,
+        "meta": {
+            "index": [
+                14
+            ]
+        },
+        "aligned-raw": "navadno eno",
+        "aligned": "navadno eno"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 15,
+        "transcript": "dekle dekle",
+        "text-start": 139,
+        "text-end": 153,
+        "meta": {
+            "index": [
+                15
+            ]
+        },
+        "aligned-raw": "dekle en dekle",
+        "aligned": "dekle en dekle"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 16,
+        "transcript": "ga pride",
+        "text-start": 154,
+        "text-end": 162,
+        "meta": {
+            "index": [
+                16
+            ]
+        },
+        "aligned-raw": "ga pride",
+        "aligned": "ga pride"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 17,
+        "transcript": "pa rešit",
+        "text-start": 163,
+        "text-end": 171,
+        "meta": {
+            "index": [
+                17
+            ]
+        },
+        "aligned-raw": "pa rešit",
+        "aligned": "pa rešit"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 18,
+        "transcript": "da ga",
+        "text-start": 172,
+        "text-end": 177,
+        "meta": {
+            "index": [
+                18
+            ]
+        },
+        "aligned-raw": "da ga",
+        "aligned": "da ga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 19,
+        "transcript": "poljubi no",
+        "text-start": 178,
+        "text-end": 188,
+        "meta": {
+            "index": [
+                19
+            ]
+        },
+        "aligned-raw": "poljubi no",
+        "aligned": "poljubi no"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 20,
+        "transcript": "in s",
+        "text-start": 189,
+        "text-end": 193,
+        "meta": {
+            "index": [
+                20
+            ]
+        },
+        "aligned-raw": "in s",
+        "aligned": "in s"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 21,
+        "transcript": "tem ga",
+        "text-start": 194,
+        "text-end": 200,
+        "meta": {
+            "index": [
+                21
+            ]
+        },
+        "aligned-raw": "tem ga",
+        "aligned": "tem ga"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 22,
+        "transcript": "reši potem",
+        "text-start": 201,
+        "text-end": 211,
+        "meta": {
+            "index": [
+                22
+            ]
+        },
+        "aligned-raw": "reši potem",
+        "aligned": "reši potem"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 23,
+        "transcript": "pa se",
+        "text-start": 212,
+        "text-end": 217,
+        "meta": {
+            "index": [
+                23
+            ]
+        },
+        "aligned-raw": "pa se",
+        "aligned": "pa se"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 24,
+        "transcript": "ona obesi",
+        "text-start": 218,
+        "text-end": 227,
+        "meta": {
+            "index": [
+                24
+            ]
+        },
+        "aligned-raw": "ona obesi",
+        "aligned": "ona obesi"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 25,
+        "transcript": "jo pa",
+        "text-start": 228,
+        "text-end": 233,
+        "meta": {
+            "index": [
+                25
+            ]
+        },
+        "aligned-raw": "jo pa",
+        "aligned": "jo pa"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 26,
+        "transcript": "pride rešit",
+        "text-start": 234,
+        "text-end": 245,
+        "meta": {
+            "index": [
+                26
+            ]
+        },
+        "aligned-raw": "pride rešit",
+        "aligned": "pride rešit"
+    },
+    {
+        "start": 0,
+        "end": 0,
+        "index": 27,
+        "transcript": "en fant",
+        "text-start": 246,
+        "text-end": 253,
+        "meta": {
+            "index": [
+                27
+            ]
+        },
+        "aligned-raw": "en fant",
+        "aligned": "en fant"
+    }
+]

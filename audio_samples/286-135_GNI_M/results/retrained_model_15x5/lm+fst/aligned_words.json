@@ -1,0 +1,452 @@
+[
+    {
+        "text": "mladi",
+        "start": 0.46,
+        "end": 1.6400000000000001,
+        "index": 0
+    },
+    {
+        "text": "ofčer",
+        "start": 1.6400000000000001,
+        "end": 2.38,
+        "index": 1
+    },
+    {
+        "text": "je",
+        "start": 2.6,
+        "end": 2.7800000000000002,
+        "index": 2
+    },
+    {
+        "text": "ofce",
+        "start": 3.02,
+        "end": 3.92,
+        "index": 3
+    },
+    {
+        "text": "paso",
+        "start": 4.08,
+        "end": 4.98,
+        "index": 4
+    },
+    {
+        "text": "na",
+        "start": 6.140000000000001,
+        "end": 6.18,
+        "index": 5
+    },
+    {
+        "text": "zaleni",
+        "start": 6.78,
+        "end": 7.48,
+        "index": 6
+    },
+    {
+        "text": "travnikej",
+        "start": 8.16,
+        "end": 9.84,
+        "index": 7
+    },
+    {
+        "text": "mladi",
+        "start": 11.1,
+        "end": 12.06,
+        "index": 8
+    },
+    {
+        "text": "ofčer",
+        "start": 12.3,
+        "end": 12.96,
+        "index": 9
+    },
+    {
+        "text": "jofce",
+        "start": 13.46,
+        "end": 14.36,
+        "index": 10
+    },
+    {
+        "text": "paso",
+        "start": 14.58,
+        "end": 15.26,
+        "index": 11
+    },
+    {
+        "text": "na",
+        "start": 15.26,
+        "end": 16.18,
+        "index": 12
+    },
+    {
+        "text": "zaleni",
+        "start": 16.68,
+        "end": 17.88,
+        "index": 13
+    },
+    {
+        "text": "travnikej",
+        "start": 18.02,
+        "end": 19.52,
+        "index": 14
+    },
+    {
+        "text": "mlado",
+        "start": 21.2,
+        "end": 22.3,
+        "index": 15
+    },
+    {
+        "text": "dete",
+        "start": 22.42,
+        "end": 22.66,
+        "index": 16
+    },
+    {
+        "text": "k",
+        "start": 23.54,
+        "end": 23.55,
+        "index": 17
+    },
+    {
+        "text": "njemi",
+        "start": 23.580000000000002,
+        "end": 24.36,
+        "index": 18
+    },
+    {
+        "text": "prišlo",
+        "start": 24.62,
+        "end": 25.18,
+        "index": 19
+    },
+    {
+        "text": "vi",
+        "start": 25.22,
+        "end": 27.0,
+        "index": 20
+    },
+    {
+        "text": "ste",
+        "start": 27.7,
+        "end": 27.78,
+        "index": 21
+    },
+    {
+        "text": "vujec",
+        "start": 27.78,
+        "end": 28.04,
+        "index": 22
+    },
+    {
+        "text": "moj",
+        "start": 29.2,
+        "end": 29.5,
+        "index": 23
+    },
+    {
+        "text": "dragi",
+        "start": 29.62,
+        "end": 30.6,
+        "index": 24
+    },
+    {
+        "text": "kak",
+        "start": 31.66,
+        "end": 31.76,
+        "index": 25
+    },
+    {
+        "text": "bi",
+        "start": 32.54,
+        "end": 32.62,
+        "index": 26
+    },
+    {
+        "text": "to",
+        "start": 32.9,
+        "end": 32.94,
+        "index": 27
+    },
+    {
+        "text": "mogoče",
+        "start": 33.36,
+        "end": 34.76,
+        "index": 28
+    },
+    {
+        "text": "bilo",
+        "start": 35.14,
+        "end": 35.7,
+        "index": 29
+    },
+    {
+        "text": "kaj",
+        "start": 35.7,
+        "end": 36.94,
+        "index": 30
+    },
+    {
+        "text": "bi",
+        "start": 37.76,
+        "end": 37.769999999999996,
+        "index": 31
+    },
+    {
+        "text": "jaz",
+        "start": 37.76,
+        "end": 37.78,
+        "index": 32
+    },
+    {
+        "text": "tvoj",
+        "start": 38.58,
+        "end": 38.64,
+        "index": 33
+    },
+    {
+        "text": "vujec",
+        "start": 38.68,
+        "end": 39.160000000000004,
+        "index": 34
+    },
+    {
+        "text": "bil",
+        "start": 39.18,
+        "end": 39.26,
+        "index": 35
+    },
+    {
+        "text": "jofcer",
+        "start": 42.5,
+        "end": 43.64,
+        "index": 36
+    },
+    {
+        "text": "jofce",
+        "start": 43.7,
+        "end": 44.28,
+        "index": 37
+    },
+    {
+        "text": "domo",
+        "start": 44.7,
+        "end": 45.300000000000004,
+        "index": 38
+    },
+    {
+        "text": "ženi",
+        "start": 45.82,
+        "end": 45.88,
+        "index": 39
+    },
+    {
+        "text": "malo",
+        "start": 47.4,
+        "end": 48.4,
+        "index": 40
+    },
+    {
+        "text": "dete",
+        "start": 48.4,
+        "end": 48.82,
+        "index": 41
+    },
+    {
+        "text": "za",
+        "start": 49.2,
+        "end": 49.84,
+        "index": 42
+    },
+    {
+        "text": "njem",
+        "start": 50.38,
+        "end": 50.46,
+        "index": 43
+    },
+    {
+        "text": "gre",
+        "start": 50.480000000000004,
+        "end": 51.120000000000005,
+        "index": 44
+    },
+    {
+        "text": "jofcer",
+        "start": 51.160000000000004,
+        "end": 53.34,
+        "index": 45
+    },
+    {
+        "text": "jofce",
+        "start": 53.36,
+        "end": 54.300000000000004,
+        "index": 46
+    },
+    {
+        "text": "domo",
+        "start": 54.94,
+        "end": 55.74,
+        "index": 47
+    },
+    {
+        "text": "ženi",
+        "start": 55.92,
+        "end": 56.620000000000005,
+        "index": 48
+    },
+    {
+        "text": "malo",
+        "start": 58.76,
+        "end": 58.96,
+        "index": 49
+    },
+    {
+        "text": "dete",
+        "start": 59.160000000000004,
+        "end": 59.980000000000004,
+        "index": 50
+    },
+    {
+        "text": "za",
+        "start": 60.980000000000004,
+        "end": 60.99,
+        "index": 51
+    },
+    {
+        "text": "njem",
+        "start": 61.02,
+        "end": 61.54,
+        "index": 52
+    },
+    {
+        "text": "gre",
+        "start": 62.160000000000004,
+        "end": 62.28,
+        "index": 53
+    },
+    {
+        "text": "jofcer",
+        "start": 62.28,
+        "end": 64.7,
+        "index": 54
+    },
+    {
+        "text": "jofce",
+        "start": 64.72,
+        "end": 65.72,
+        "index": 55
+    },
+    {
+        "text": "štalo",
+        "start": 65.74,
+        "end": 66.94,
+        "index": 56
+    },
+    {
+        "text": "ženi",
+        "start": 67.4,
+        "end": 67.72,
+        "index": 57
+    },
+    {
+        "text": "malo",
+        "start": 67.94,
+        "end": 69.48,
+        "index": 58
+    },
+    {
+        "text": "dejte",
+        "start": 70.04,
+        "end": 71.5,
+        "index": 59
+    },
+    {
+        "text": "vižo",
+        "start": 71.60000000000001,
+        "end": 72.26,
+        "index": 60
+    },
+    {
+        "text": "gre",
+        "start": 72.66,
+        "end": 72.84,
+        "index": 61
+    },
+    {
+        "text": "jofcer",
+        "start": 72.86,
+        "end": 75.44,
+        "index": 62
+    },
+    {
+        "text": "joče",
+        "start": 75.64,
+        "end": 76.3,
+        "index": 63
+    },
+    {
+        "text": "štalo",
+        "start": 76.36,
+        "end": 77.86,
+        "index": 64
+    },
+    {
+        "text": "ženi",
+        "start": 77.88,
+        "end": 78.28,
+        "index": 65
+    },
+    {
+        "text": "malo",
+        "start": 78.82000000000001,
+        "end": 79.74,
+        "index": 66
+    },
+    {
+        "text": "dete",
+        "start": 81.24,
+        "end": 81.38,
+        "index": 67
+    },
+    {
+        "text": "v",
+        "start": 81.42,
+        "end": 81.82000000000001,
+        "index": 68
+    },
+    {
+        "text": "vižo",
+        "start": 82.52,
+        "end": 83.72,
+        "index": 69
+    },
+    {
+        "text": "gre",
+        "start": 83.8,
+        "end": 83.9,
+        "index": 70
+    },
+    {
+        "text": "dober",
+        "start": 85.48,
+        "end": 86.66,
+        "index": 71
+    },
+    {
+        "text": "večer",
+        "start": 86.76,
+        "end": 87.44,
+        "index": 72
+    },
+    {
+        "text": "gosti",
+        "start": 88.02,
+        "end": 88.48,
+        "index": 73
+    },
+    {
+        "text": "venci",
+        "start": 88.62,
+        "end": 89.18,
+        "index": 74
+    }
+]
