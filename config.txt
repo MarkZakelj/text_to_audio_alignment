@@ -1,0 +1,10 @@
+[eval]
+sample_name = all
+model_name = all
+ctc_mode = all
+
+
+
+
+# sample names:
+# oddaja_zelisca
