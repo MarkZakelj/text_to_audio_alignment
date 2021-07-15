@@ -3,4 +3,13 @@ venv/
 kenlm/
 .ipynb_checkpoints/
 Untitled*.ipynb
-audio_samples/*/results/
+audio_samples/*/results/*/output.npy
+audio_samples/*/results/*/*/char_ms.txt
+audio_samples/*/frame_segments.json
+audio_samples/*/*.arpa
+audio_samples/*/*.binary
+audio_samples/*/*.gz
+audio_samples/*/vocab-*.txt
+audio_samples/*/words_trie.fst
+audio_samples/*/origin_fragments.json
+audio_samples/*/origin_text_phrases.json
