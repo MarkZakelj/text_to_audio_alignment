@@ -32,9 +32,9 @@ def mae(alignment, reference):
 
 def main():
     config = da.get_config()
-    sample_name = config.get('eval', 'sample_name')
-    model = config.get('eval', 'model_name').replace('.nemo', '')
-    mode = config.get('eval', 'ctc_mode')
+    sample_name = config.get('main', 'sample_name')
+    model = config.get('main', 'model_name').replace('.nemo', '')
+    mode = config.get('main', 'ctc_mode')
     samples = [sample_name] if sample_name != 'all' else da.list_sample_names()
     models = [model] if model != 'all' else da.list_model_names()
     ctc_modes = [mode] if mode != 'all' else ['greedy', 'lm+fst']
@@ -46,8 +46,13 @@ def main():
                 print(f"\nCalculating MAE for {sample}, {model}, {ctc_mode}")
                 result, bias_s, bias_e = mae(calculated, reference)
                 da.save_eval_result(result, sample, model, ctc_mode)
-                print(np.mean([e[position] for e in result for position in ['ae_start', 'ae_end']]))
+                all_positions = np.array([e[position] for e in result for position in ['ae_start', 'ae_end']])
+                print('MAE: {}, STD: {}'.format(all_positions.mean(), all_positions.std()))
                 print(f'bias_start: {bias_s}, bias_end: {bias_e}')
+                print('top 20 wrong words')
+                worst_results = sorted([(e['text'], (e['ae_start'] + e['ae_end']) / 2) for e in result],
+                                       key=lambda x: x[1], reverse=True)
+                print(worst_results[:20])
 
 
 if __name__ == '__main__':

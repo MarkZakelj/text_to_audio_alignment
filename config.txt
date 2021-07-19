@@ -1,10 +1,51 @@
-[eval]
+
+[main]
 sample_name = all
-model_name = all
+model_name = retrained_model_15x5
 ctc_mode = all
+
+[segment]
+threshold = 0.5
+aggressiveness = 3
+
+
+[decode]
+beam_size = 300
+dashes_group_size = 2
+min_segment_len = 10
+
+[align]
+
 
 
 
 
 # sample names:
+
+# 10-Baba_pa_vrag
+# 16-Pamet_pamet_lepa_rec
+# 248-17_GNI_M_32742
+# 252-110_GNI_M_29227
+# 254-27_GNI_M_33_490
+# 256-5_GNI_29_081
+# 286-135_GNI_M
+# C_Col
+# Cv_Cven
+# MZ000003_01
+# SJ_Sveti_Jurij
+# SL_Strmca
+# Slovenska_zemlja_v_pesmi_in_besedi
+# T1433-1_201
+# T1433-1_206
+# T1433-1_211
+# T1433-1_213
+# T1575-3_408
+# Vi_Viselnica
+# oddaja_99749418_2
+# oddaja_99749418_3
+# oddaja_99903625_1
+# oddaja_99912936_barve
+# oddaja_99912936_barve_2
 # oddaja_zelisca
+# tenis
+

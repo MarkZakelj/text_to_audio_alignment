@@ -8,6 +8,9 @@ from shutil import copyfile
 
 from alignment.alignment import align, NAMED_NUMBERS
 from alignment.text import Alphabet
+from main_decode import get_slices
+
+import data_access as da
 
 
 def parse_args(args=None, namespace=None):
@@ -96,89 +99,101 @@ def parse_args(args=None, namespace=None):
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-n', '--name', type=str, help='Primer, ki se bo procesiral. Ce je all, izberi vse',
-                        required=True)
-    parser.add_argument('-m', '--mode', type=str, help='nacin izvajanja. "greedy" ali "lm+fst"', required=True)
-    parser.add_argument('--model', type=str, help='Name of asr model used', required=True)
-    args = parser.parse_args()
-    sample_name = args.name
-    ctc_mode = args.mode
-    model_name = args.model.replace('.nemo', '')
-    if sample_name != 'all':
-        filenames = [sample_name]
-    else:
-        filenames = [name.name for name in Path('audio_samples/').iterdir()]
+    config = da.get_config()
+    sample_name = config.get('main', 'sample_name')
+    model = config.get('main', 'model_name').replace('.nemo', '')
+    mode = config.get('main', 'ctc_mode')
+    samples = [sample_name] if sample_name != 'all' else da.list_sample_names()
+    models = [model] if model != 'all' else da.list_model_names()
+    ctc_modes = [mode] if mode != 'all' else ['greedy', 'lm+fst']
     alphabet = Alphabet('alphabet.txt')
-    for filename in filenames:
-        data_dir = os.path.join('audio_samples', filename)
-        char_ms = np.loadtxt(os.path.join(data_dir, 'results', model_name, ctc_mode, 'char_ms.txt'))
-        copyfile(f'{data_dir}/origin_text_phrases.json', f'{data_dir}/origin_fragments.json')
-        dropped_fragments = 1
-        align_ns = argparse.Namespace()
-        align_ns.script = os.path.join(data_dir, 'results', model_name, ctc_mode, 'transcript.txt')
-        align_ns.tlog = os.path.join(data_dir, 'origin_fragments.json')
-        align_ns.aligned = os.path.join(data_dir, 'results', model_name, ctc_mode, 'aligned_phrases.json')
-        align_ns.force = True
-        align_ns.output_pretty = True
-        args = parse_args(args=[], namespace=align_ns)
-        while dropped_fragments > 0:
-            align(alphabet, args)
-            origin_fragments = json.load(open(f'{data_dir}/origin_fragments.json', 'r'))
-            n_fragments = len(origin_fragments)
-            aligned_fragments = json.load(open(align_ns.aligned, 'r'))
-            matched_ids = set([e['index'] for e in aligned_fragments])
-            non_matched_ids = set([idx for idx in range(n_fragments) if idx not in matched_ids])
-            dropped_fragments = n_fragments - len(aligned_fragments)
-            if dropped_fragments > 0:
-                merges = []
-                for i in range(n_fragments):
-                    if i not in non_matched_ids:
-                        continue
-                    if i == n_fragments - 1:
-                        target = i - 1
-                    else:
-                        target = i + 1
-                    merges.append((min(i, target), max(i, target)))
-                    non_matched_ids.discard(i)
-                    non_matched_ids.discard(target)
-                origin_unmerged = dict([(e['index'], e['transcript']) for e in origin_fragments])
-                for i, i_next in merges:
-                    text_i_next = origin_unmerged[i_next]
-                    text_i = origin_unmerged.pop(i)
-                    origin_unmerged[i_next] = text_i.rstrip() + ' ' + text_i_next.lstrip()
-                origin_merged = [{'transcript': val, 'start': 0, 'end': 0, 'index': i} for i, (k, val) in
-                                 enumerate(origin_unmerged.items())]
-                json.dump(origin_merged, open(f'{data_dir}/origin_fragments.json', 'w'), ensure_ascii=False,
-                          indent=4)
 
-        aligned = json.load(open(os.path.join(data_dir, 'results', model_name, ctc_mode, 'aligned_phrases.json'), 'r'))
-        alinged_true = []
-        word_index = 0
-        for el in aligned:
-            words = el['transcript']
-            l0 = len(words)
-            l1 = len(el['aligned'])
-            start = el['text-start']
-            starts = [start]
-            ends = []
-            for x in re.finditer(' ', words):
-                _start = start + int(x.span()[0] / l0 * l1)
-                _end = start + int((x.span()[0] - 1) / l0 * l1)
-                starts.append(_start)
-                ends.append(_end)
-            ends.append(start + l1 - 1)
-            for i, word in enumerate(words.split()):
-                ms_start = char_ms[starts[i] if starts[i] < len(char_ms) else -1]
-                ms_end = char_ms[ends[i] if ends[i] < len(char_ms) else -1]
-                if ms_start == ms_end:
-                    ms_end += 0.01
-                alinged_true.append(
-                    {'text': word, 'start': float(ms_start), 'end': float(ms_end), 'index': word_index})
-                word_index += 1
-        json.dump(alinged_true,
-                  open(os.path.join(data_dir, 'results', model_name, ctc_mode, 'aligned_words.json'), 'w'), indent=4,
+    for filename in samples:
+        data_dir = os.path.join('audio_samples', filename)
+        origin_text = da.get_data_lower(filename)
+        origin_text_phrases = [{'transcript': ' '.join(list(words)), 'start': 0, 'end': 0, 'index': i} for i, words
+                               in enumerate(get_slices(origin_text.split(), 1))]
+
+        json.dump(origin_text_phrases, open(os.path.join(data_dir, 'origin_text_phrases.json'), 'w'), indent=4,
                   ensure_ascii=False)
+        for model_name in models:
+            for ctc_mode in ctc_modes:
+                print(f'aligning sample >>{filename}<< from model >>{model_name}<< with mode >>{ctc_mode}<<')
+                char_ms = np.loadtxt(os.path.join(data_dir, 'results', model_name, ctc_mode, 'char_ms.txt'))
+                copyfile(f'{data_dir}/origin_text_phrases.json', f'{data_dir}/origin_fragments.json')
+                dropped_fragments = 1
+                align_ns = argparse.Namespace()
+                align_ns.script = os.path.join(data_dir, 'results', model_name, ctc_mode, 'transcript.txt')
+                align_ns.tlog = os.path.join(data_dir, 'origin_fragments.json')
+                align_ns.aligned = os.path.join(data_dir, 'results', model_name, ctc_mode, 'aligned_phrases.json')
+                align_ns.force = True
+                align_ns.output_pretty = True
+                align_ns.align_match_score = 100
+                align_ns.align_mismatch_score = -100
+                align_ns.align_gap_score = -100
+
+
+                align_ns.loglevels = 50
+                align_args = parse_args(args=[], namespace=align_ns)
+                while dropped_fragments > 0:
+                    align(alphabet, align_args)
+                    origin_fragments = json.load(open(f'{data_dir}/origin_fragments.json', 'r'))
+                    n_fragments = len(origin_fragments)
+                    aligned_fragments = json.load(open(align_ns.aligned, 'r'))
+                    matched_ids = set([e['index'] for e in aligned_fragments])
+                    non_matched_ids = set([idx for idx in range(n_fragments) if idx not in matched_ids])
+                    dropped_fragments = n_fragments - len(aligned_fragments)
+                    if dropped_fragments > 0:
+                        merges = []
+                        for i in range(n_fragments):
+                            if i not in non_matched_ids:
+                                continue
+                            if i == n_fragments - 1:
+                                target = i - 1
+                            else:
+                                target = i + 1
+                            merges.append((min(i, target), max(i, target)))
+                            non_matched_ids.discard(i)
+                            non_matched_ids.discard(target)
+                        origin_unmerged = dict([(e['index'], e['transcript']) for e in origin_fragments])
+                        for i, i_next in merges:
+                            text_i_next = origin_unmerged[i_next]
+                            text_i = origin_unmerged.pop(i)
+                            origin_unmerged[i_next] = text_i.rstrip() + ' ' + text_i_next.lstrip()
+                        origin_merged = [{'transcript': val, 'start': 0, 'end': 0, 'index': i} for i, (k, val) in
+                                         enumerate(origin_unmerged.items())]
+                        json.dump(origin_merged, open(f'{data_dir}/origin_fragments.json', 'w'), ensure_ascii=False,
+                                  indent=4)
+
+                aligned = json.load(
+                    open(os.path.join(data_dir, 'results', model_name, ctc_mode, 'aligned_phrases.json'), 'r'))
+                alinged_true = []
+                word_index = 0
+                for el in aligned:
+                    words = el['transcript']
+                    l0 = len(words)
+                    l1 = len(el['aligned'])
+                    start = el['text-start']
+                    starts = [start]
+                    ends = []
+                    for x in re.finditer(' ', words):
+                        _start = start + int(x.span()[0] / l0 * l1)
+                        _end = start + int((x.span()[0] - 1) / l0 * l1)
+                        starts.append(_start)
+                        ends.append(_end)
+                    ends.append(start + l1 - 1)
+                    for i, word in enumerate(words.split()):
+                        ms_start = char_ms[starts[i] if starts[i] < len(char_ms) else -1]
+                        ms_end = char_ms[ends[i] if ends[i] < len(char_ms) else -1]
+                        if ms_start == ms_end:
+                            ms_end += 0.01
+                        alinged_true.append(
+                            {'text': word, 'start': float(ms_start), 'end': float(ms_end), 'index': word_index})
+                        word_index += 1
+                json.dump(alinged_true,
+                          open(os.path.join(data_dir, 'results', model_name, ctc_mode, 'aligned_words.json'), 'w'),
+                          indent=4,
+                          ensure_ascii=False)
 
 
 if __name__ == '__main__':
