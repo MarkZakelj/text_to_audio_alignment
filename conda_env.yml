@@ -23,7 +23,6 @@ dependencies:
   - cffi=1.14.6=py37hc58025e_0
   - chardet=4.0.0=py37h89c1867_1
   - cryptography=3.4.7=py37h5d9358c_0
-  - cudatoolkit=10.2.89=h8f6ccaa_8
   - cython=0.29.24=py37hcd2ae1e_0
   - decorator=5.0.9=pyhd8ed1ab_0
   - defusedxml=0.7.1=pyhd8ed1ab_0
@@ -104,7 +103,6 @@ dependencies:
   - python=3.7.10=hffdb5ce_100_cpython
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python_abi=3.7=2_cp37m
-  - pytorch=1.8.1=py3.7_cuda10.2_cudnn7.6.5_0
   - pytz=2021.1=pyhd8ed1ab_0
   - pyzmq=22.1.0=py37h336d617_0
   - readline=8.1=h46c0cb4_0
@@ -118,8 +116,6 @@ dependencies:
   - terminado=0.10.1=py37h89c1867_0
   - testpath=0.5.0=pyhd8ed1ab_0
   - tk=8.6.10=h21135ba_1
-  - torchaudio=0.8.1=py37
-  - torchvision=0.9.1=py37_cu102
   - tornado=6.1=py37h5e8e339_1
   - traitlets=5.0.5=py_0
   - typing_extensions=3.10.0.0=pyha770c72_0
