@@ -13,3 +13,4 @@ audio_samples/*/vocab-*.txt
 audio_samples/*/words_trie.fst
 audio_samples/*/origin_fragments.json
 audio_samples/*/origin_text_phrases.json
+audio_samples/*/results/*/*/a=*
