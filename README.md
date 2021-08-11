@@ -1,10 +1,11 @@
 # Text to audio alignment
 
 ## Env creation
-* download and build kenlm binaries from [github](https://github.com/kpu/kenlm)
 * use `apt-get update && apt-get install -y libsndfile1 ffmpeg` (nemo dependencies)  
 * create conda env: `conda create --file conda_env.yml`  
 * within new env, install `pytorch 1.8.1 LTS` (CUDA 10 or CPU version), from [pytorch downloads](https://pytorch.org/get-started/locally/)
+* download and build kenlm binaries from [github](https://github.com/kpu/kenlm)
+* Install kenlm python library with `pip install https://github.com/kpu/kenlm/archive/master.zip`
 
 ## Usage
 * set config file `config.txt`  
