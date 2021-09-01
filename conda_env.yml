@@ -112,6 +112,7 @@ dependencies:
   - setuptools=49.6.0=py37h89c1867_3
   - six=1.16.0=pyh6c4a22f_0
   - sniffio=1.2.0=py37h89c1867_1
+  - sox=1.4.1=pypi_0
   - sqlite=3.36.0=h9cd32fc_0
   - terminado=0.10.1=py37h89c1867_0
   - testpath=0.5.0=pyhd8ed1ab_0
